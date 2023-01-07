@@ -3,11 +3,10 @@
   <entry>
     <title>小米设备代号表</title>
     <url>/2023/01/07/13-00-12/</url>
-    <content><![CDATA[<p>_posts&#x2F;小米设备代号表&#x2F;1.jpg</p>
-<p><img src="/1.png" alt="按Ctrl+F以快速搜索"> </p>
+    <content><![CDATA[<p><img src="/2023/01/07/13-00-12/1.jpg" alt="按Ctrl+F以快速搜索"> </p>
 <h1 id="为什么需要知道手机的设备代号"><a href="#为什么需要知道手机的设备代号" class="headerlink" title="为什么需要知道手机的设备代号"></a>为什么需要知道手机的设备代号</h1><p>每一个设备都对应这一个设备代号，设备的设备代号是识别该设备的唯一标准，而不是名字，由于小米不仅仅在中国发布产品，一个设备往往在国内外对应了多个设备名字，例如：Redmi K50 Ultra和Redmi 12T Pro，这就会让人误以为是两种设备。如果你经常刷机，也会发现国外的作者在命名ROM包名的时候也会写设备代号，而不是其他的，所以知道自己手机的设备代号是必要的。</p>
 <h1 id="小米设备代号获取的几种方式"><a href="#小米设备代号获取的几种方式" class="headerlink" title="小米设备代号获取的几种方式"></a>小米设备代号获取的几种方式</h1><h2 id="在开机状态下查看"><a href="#在开机状态下查看" class="headerlink" title="在开机状态下查看"></a>在开机状态下查看</h2><p>在 设置 -&gt; 关于手机 -&gt; 软件版本 查看 </p>
-<h2 id="通过ADB命令查看"><a href="#通过ADB命令查看" class="headerlink" title="通过ADB命令查看"></a>通过ADB命令查看</h2><p>通过按住 电源键 + 音量下 进入Fastboot引导模式。然后，使用 USB 连接到你的电脑，运行 cmd 或者 bash 并执行命令：</p>
+<h2 id="通过ADB命令查看（不推荐使用Windows-PowerShell）"><a href="#通过ADB命令查看（不推荐使用Windows-PowerShell）" class="headerlink" title="通过ADB命令查看（不推荐使用Windows PowerShell）"></a>通过ADB命令查看（不推荐使用Windows PowerShell）</h2><p>通过按住 电源键 + 音量下 进入Fastboot引导模式。然后，使用 USB 连接到你的电脑，运行 cmd 或者 bash 并执行命令：</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot getvar product</span><br></pre></td></tr></table></figure>
 
 <h1 id="小米设备代号"><a href="#小米设备代号" class="headerlink" title="小米设备代号"></a>小米设备代号</h1><table>
