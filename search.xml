@@ -1,8 +1,855 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>两大第三方Recovery</title>
-    <url>/2023/01/06/20-07-27/</url>
-    <content><![CDATA[]]></content>
+    <title>小米设备代号表</title>
+    <url>/2023/01/07/13-00-12/</url>
+    <content><![CDATA[<p>_posts&#x2F;小米设备代号表&#x2F;1.jpg</p>
+<p><img src="/1.png" alt="按Ctrl+F以快速搜索"> </p>
+<h1 id="为什么需要知道手机的设备代号"><a href="#为什么需要知道手机的设备代号" class="headerlink" title="为什么需要知道手机的设备代号"></a>为什么需要知道手机的设备代号</h1><p>每一个设备都对应这一个设备代号，设备的设备代号是识别该设备的唯一标准，而不是名字，由于小米不仅仅在中国发布产品，一个设备往往在国内外对应了多个设备名字，例如：Redmi K50 Ultra和Redmi 12T Pro，这就会让人误以为是两种设备。如果你经常刷机，也会发现国外的作者在命名ROM包名的时候也会写设备代号，而不是其他的，所以知道自己手机的设备代号是必要的。</p>
+<h1 id="小米设备代号获取的几种方式"><a href="#小米设备代号获取的几种方式" class="headerlink" title="小米设备代号获取的几种方式"></a>小米设备代号获取的几种方式</h1><h2 id="在开机状态下查看"><a href="#在开机状态下查看" class="headerlink" title="在开机状态下查看"></a>在开机状态下查看</h2><p>在 设置 -&gt; 关于手机 -&gt; 软件版本 查看 </p>
+<h2 id="通过ADB命令查看"><a href="#通过ADB命令查看" class="headerlink" title="通过ADB命令查看"></a>通过ADB命令查看</h2><p>通过按住 电源键 + 音量下 进入Fastboot引导模式。然后，使用 USB 连接到你的电脑，运行 cmd 或者 bash 并执行命令：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot getvar product</span><br></pre></td></tr></table></figure>
+
+<h1 id="小米设备代号"><a href="#小米设备代号" class="headerlink" title="小米设备代号"></a>小米设备代号</h1><table>
+<thead>
+<tr>
+<th>设备名称</th>
+<th>设备代号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>红米12C</td>
+<td>earth</td>
+</tr>
+<tr>
+<td>红米Note12 Pro 极速版</td>
+<td>redwood</td>
+</tr>
+<tr>
+<td>红米K60E</td>
+<td>rembrandt</td>
+</tr>
+<tr>
+<td>红米K60 Pro</td>
+<td>socrates</td>
+</tr>
+<tr>
+<td>红米K60</td>
+<td>mondrian</td>
+</tr>
+<tr>
+<td>小米13 Pro</td>
+<td>nuwa</td>
+</tr>
+<tr>
+<td>小米13</td>
+<td>fuxi</td>
+</tr>
+<tr>
+<td>红米Note12</td>
+<td>sunstone</td>
+</tr>
+<tr>
+<td>红米Note12 Pro</td>
+<td>ruby</td>
+</tr>
+<tr>
+<td>小米12T</td>
+<td>plato</td>
+</tr>
+<tr>
+<td>红米平板</td>
+<td>yunluo</td>
+</tr>
+<tr>
+<td>小米CIVI 2</td>
+<td>ziyi</td>
+</tr>
+<tr>
+<td>POCO C50 &#x2F; 红米A1</td>
+<td>ice</td>
+</tr>
+<tr>
+<td>POCO M5S</td>
+<td>rosemary_p</td>
+</tr>
+<tr>
+<td>POCO M5 &#x2F; 红米11 Prime 4G</td>
+<td>rock</td>
+</tr>
+<tr>
+<td>小米平板5 Pro 12.4</td>
+<td>dagu</td>
+</tr>
+<tr>
+<td>红米K50 至尊版 &#x2F; 小米12T Pro</td>
+<td>diting</td>
+</tr>
+<tr>
+<td>小米MIX Fold 2</td>
+<td>zizhan</td>
+</tr>
+<tr>
+<td>小米12S</td>
+<td>mayfly</td>
+</tr>
+<tr>
+<td>小米12S Ultra</td>
+<td>thor</td>
+</tr>
+<tr>
+<td>小米12S Pro</td>
+<td>unicorn</td>
+</tr>
+<tr>
+<td>小米12 Pro 天玑版</td>
+<td>daumier</td>
+</tr>
+<tr>
+<td>小米12 Lite</td>
+<td>taoyao</td>
+</tr>
+<tr>
+<td>POCO C40</td>
+<td>frost</td>
+</tr>
+<tr>
+<td>红米Note11T Pro &#x2F; Pro+ &#x2F; POCO X4 GT &#x2F; Pro &#x2F; 红米K50i &#x2F; Pro</td>
+<td>xaga</td>
+</tr>
+<tr>
+<td>小米CIVI 1S</td>
+<td>zijin</td>
+</tr>
+<tr>
+<td>红米Note 10T</td>
+<td>lilac</td>
+</tr>
+<tr>
+<td>红米10A</td>
+<td>dandelion</td>
+</tr>
+<tr>
+<td>红米10C</td>
+<td>fog</td>
+</tr>
+<tr>
+<td>红米K50</td>
+<td>rubens</td>
+</tr>
+<tr>
+<td>红米K50 Pro</td>
+<td>matisse</td>
+</tr>
+<tr>
+<td>红米K40S &#x2F; POCO F4</td>
+<td>munch</td>
+</tr>
+<tr>
+<td>红米Note11 Pro</td>
+<td>viva</td>
+</tr>
+<tr>
+<td>红米Note11E &#x2F; 红米Note11R &#x2F; POCO M4 5G &#x2F; 红米10 Prime+ 5G</td>
+<td>light</td>
+</tr>
+<tr>
+<td>红米K50 电竞版 &#x2F; POCO F4 GT</td>
+<td>ingres</td>
+</tr>
+<tr>
+<td>红米Note11 NFC</td>
+<td>spesn</td>
+</tr>
+<tr>
+<td>红米Note11</td>
+<td>spes</td>
+</tr>
+<tr>
+<td>红米Note11E Pro &#x2F; 红米Note11 Pro 5G</td>
+<td>veux</td>
+</tr>
+<tr>
+<td>红米Note11S &#x2F; POCO M4 Pro 4G</td>
+<td>fleur</td>
+</tr>
+<tr>
+<td>小米12 Pro</td>
+<td>zeus</td>
+</tr>
+<tr>
+<td>小米12X</td>
+<td>psyche</td>
+</tr>
+<tr>
+<td>小米12</td>
+<td>cupid</td>
+</tr>
+<tr>
+<td>POCO M4 Pro 5G</td>
+<td>evergreen</td>
+</tr>
+<tr>
+<td>红米Note11 Pro &#x2F; Pro+</td>
+<td>pissarro</td>
+</tr>
+<tr>
+<td>红米Note11 5G</td>
+<td>evergo</td>
+</tr>
+<tr>
+<td>红米Note11 4G</td>
+<td>selenes</td>
+</tr>
+<tr>
+<td>小米CIVI</td>
+<td>mona</td>
+</tr>
+<tr>
+<td>小米11青春活力版</td>
+<td>lisa</td>
+</tr>
+<tr>
+<td>小米11T</td>
+<td>agate</td>
+</tr>
+<tr>
+<td>小米11T Pro</td>
+<td>vili</td>
+</tr>
+<tr>
+<td>红米10</td>
+<td>selene</td>
+</tr>
+<tr>
+<td>小米MIX4</td>
+<td>odin</td>
+</tr>
+<tr>
+<td>小米平板5 Pro (WiFi)</td>
+<td>elish</td>
+</tr>
+<tr>
+<td>小米平板5 Pro (5G)</td>
+<td>enuma</td>
+</tr>
+<tr>
+<td>小米平板5</td>
+<td>nabu</td>
+</tr>
+<tr>
+<td>红米Note 10 Pro (China) &#x2F; POCO X3 GT</td>
+<td>chopin</td>
+</tr>
+<tr>
+<td>红米Note 10 (China) &#x2F; POCO M3 Pro &#x2F; 红米Note 11 SE</td>
+<td>camellia</td>
+</tr>
+<tr>
+<td>红米Note 8 (21年款)</td>
+<td>biloba</td>
+</tr>
+<tr>
+<td>红米K40 游戏增强版 &#x2F; POCO F3 GT</td>
+<td>ares</td>
+</tr>
+<tr>
+<td>小米MIX Fold</td>
+<td>cetus</td>
+</tr>
+<tr>
+<td>小米11 青春版</td>
+<td>renoir</td>
+</tr>
+<tr>
+<td>小米11 Pro &#x2F; Ultra</td>
+<td>star</td>
+</tr>
+<tr>
+<td>小米11 Lite</td>
+<td>courbet</td>
+</tr>
+<tr>
+<td>POCO X3 Pro</td>
+<td>vayu</td>
+</tr>
+<tr>
+<td>小米10S</td>
+<td>thyme</td>
+</tr>
+<tr>
+<td>红米Note 10 Pro</td>
+<td>sweet</td>
+</tr>
+<tr>
+<td>红米Note 10 5G</td>
+<td>camellian</td>
+</tr>
+<tr>
+<td>红米Note 10S</td>
+<td>rosemary</td>
+</tr>
+<tr>
+<td>红米Note 10</td>
+<td>mojito</td>
+</tr>
+<tr>
+<td>红米K40 Pro &#x2F; Pro+ &#x2F; 小米11i &#x2F; 小米11X Pro</td>
+<td>haydn</td>
+</tr>
+<tr>
+<td>红米K40 &#x2F; POCO F3</td>
+<td>alioth</td>
+</tr>
+<tr>
+<td>小米11</td>
+<td>venus</td>
+</tr>
+<tr>
+<td>红米Note 9T 5G</td>
+<td>cannong</td>
+</tr>
+<tr>
+<td>红米Note 9 Pro 5G &#x2F; 小米10T Lite</td>
+<td>gauguin</td>
+</tr>
+<tr>
+<td>红米Note 9 5G</td>
+<td>cannon</td>
+</tr>
+<tr>
+<td>红米Note 9 4G &#x2F; 红米9T</td>
+<td>lime</td>
+</tr>
+<tr>
+<td>POCO M3</td>
+<td>citrus</td>
+</tr>
+<tr>
+<td>红米K30S 至尊纪念版 &#x2F; 小米10T &#x2F; 10T Pro</td>
+<td>apollo</td>
+</tr>
+<tr>
+<td>POCO C3</td>
+<td>angelicain</td>
+</tr>
+<tr>
+<td>POCO M2</td>
+<td>shiva</td>
+</tr>
+<tr>
+<td>POCO X3 NFC</td>
+<td>surya</td>
+</tr>
+<tr>
+<td>红米9C NFC</td>
+<td>angelican</td>
+</tr>
+<tr>
+<td>红米9 (India)</td>
+<td>cattail</td>
+</tr>
+<tr>
+<td>小米10 至尊纪念版</td>
+<td>cas</td>
+</tr>
+<tr>
+<td>红米K30 至尊纪念版</td>
+<td>cezanne</td>
+</tr>
+<tr>
+<td>POCO M2 Pro</td>
+<td>gram</td>
+</tr>
+<tr>
+<td>红米9A &#x2F; 9AT</td>
+<td>dandelion</td>
+</tr>
+<tr>
+<td>红米9C</td>
+<td>angelica</td>
+</tr>
+<tr>
+<td>红米9</td>
+<td>lancelot</td>
+</tr>
+<tr>
+<td>小米Note10 Lite</td>
+<td>toco</td>
+</tr>
+<tr>
+<td>红米10X Pro</td>
+<td>bomb</td>
+</tr>
+<tr>
+<td>红米10X 5G</td>
+<td>atom</td>
+</tr>
+<tr>
+<td>红米K30i 5G</td>
+<td>picasso_48m</td>
+</tr>
+<tr>
+<td>红米10X 4G &#x2F; 红米Note 9</td>
+<td>merlin</td>
+</tr>
+<tr>
+<td>小米10 青春版</td>
+<td>vangogh</td>
+</tr>
+<tr>
+<td>小米10 Lite</td>
+<td>monet</td>
+</tr>
+<tr>
+<td>红米K30 Pro &#x2F; 变焦版 &#x2F; POCO F2 Pro</td>
+<td>lmi</td>
+</tr>
+<tr>
+<td>红米Note 9 Pro Max</td>
+<td>excalibur</td>
+</tr>
+<tr>
+<td>红米Note 9S &#x2F; Pro (India)</td>
+<td>curtana</td>
+</tr>
+<tr>
+<td>红米Note9 Pro</td>
+<td>joyeuse</td>
+</tr>
+<tr>
+<td>小米10 Pro</td>
+<td>cmi</td>
+</tr>
+<tr>
+<td>小米10</td>
+<td>umi</td>
+</tr>
+<tr>
+<td>红米8A Pro &#x2F; 红米8A Dual</td>
+<td>olivewood</td>
+</tr>
+<tr>
+<td>POCO X2 印度版</td>
+<td>phoenixin</td>
+</tr>
+<tr>
+<td>红米K30 5G</td>
+<td>picasso</td>
+</tr>
+<tr>
+<td>红米K30 4G &#x2F; POCO X2</td>
+<td>phoenix</td>
+</tr>
+<tr>
+<td>红米Note 8T</td>
+<td>willow</td>
+</tr>
+<tr>
+<td>小米CC9 Pro &#x2F; 小米Note 10</td>
+<td>tucana</td>
+</tr>
+<tr>
+<td>红米Note 8 Pro 印度版</td>
+<td>begoniain</td>
+</tr>
+<tr>
+<td>红米8</td>
+<td>olive</td>
+</tr>
+<tr>
+<td>红米8A</td>
+<td>olivelite</td>
+</tr>
+<tr>
+<td>小米9 Pro 5G</td>
+<td>crux</td>
+</tr>
+<tr>
+<td>红米K20 Pro 尊享版</td>
+<td>raphaels</td>
+</tr>
+<tr>
+<td>红米Note 8 Pro</td>
+<td>begonia</td>
+</tr>
+<tr>
+<td>红米Note 8</td>
+<td>ginkgo</td>
+</tr>
+<tr>
+<td>小米A3</td>
+<td>laurel</td>
+</tr>
+<tr>
+<td>小米CC9e</td>
+<td>laurus</td>
+</tr>
+<tr>
+<td>小米CC9 &#x2F; 小米9 Lite</td>
+<td>pyxis</td>
+</tr>
+<tr>
+<td>小米CC9 美图定制版</td>
+<td>vela</td>
+</tr>
+<tr>
+<td>红米K20 &#x2F; 小米9T 印度版</td>
+<td>davinciin</td>
+</tr>
+<tr>
+<td>红米K20 &#x2F; 小米9T</td>
+<td>davinci</td>
+</tr>
+<tr>
+<td>红米K20 Pro &#x2F; 小米9T Pro</td>
+<td>raphael</td>
+</tr>
+<tr>
+<td>红米K20 Pro 印度版</td>
+<td>raphaelin</td>
+</tr>
+<tr>
+<td>红米7A</td>
+<td>pine</td>
+</tr>
+<tr>
+<td>红米Y3</td>
+<td>onc</td>
+</tr>
+<tr>
+<td>红米7</td>
+<td>onclite</td>
+</tr>
+<tr>
+<td>小米MIX 3 5G</td>
+<td>andromeda</td>
+</tr>
+<tr>
+<td>小米9</td>
+<td>cepheus</td>
+</tr>
+<tr>
+<td>小米9 SE</td>
+<td>grus</td>
+</tr>
+<tr>
+<td>红米Go</td>
+<td>tiare</td>
+</tr>
+<tr>
+<td>红米Note 7</td>
+<td>lavender</td>
+</tr>
+<tr>
+<td>红米Note 7 Pro</td>
+<td>violet</td>
+</tr>
+<tr>
+<td>小米Play</td>
+<td>lotus</td>
+</tr>
+<tr>
+<td>红米Note 6 Pro</td>
+<td>tulip</td>
+</tr>
+<tr>
+<td>小米MIX 3</td>
+<td>perseus</td>
+</tr>
+<tr>
+<td>小米8 Lite</td>
+<td>platina</td>
+</tr>
+<tr>
+<td>红米6 Pro</td>
+<td>sakura</td>
+</tr>
+<tr>
+<td>POCO F1</td>
+<td>beryllium</td>
+</tr>
+<tr>
+<td>小米平板4&#x2F;Plus</td>
+<td>clover</td>
+</tr>
+<tr>
+<td>小米A2 Lite</td>
+<td>daisy</td>
+</tr>
+<tr>
+<td>小米A2</td>
+<td>jasmine</td>
+</tr>
+<tr>
+<td>小米Max 3</td>
+<td>nitrogen</td>
+</tr>
+<tr>
+<td>红米6A</td>
+<td>cactus</td>
+</tr>
+<tr>
+<td>红米6</td>
+<td>cereus</td>
+</tr>
+<tr>
+<td>小米8</td>
+<td>dipper</td>
+</tr>
+<tr>
+<td>小米8 Pro 屏幕指纹版</td>
+<td>equuleus</td>
+</tr>
+<tr>
+<td>小米8 SE</td>
+<td>sirius</td>
+</tr>
+<tr>
+<td>小米8 透明探索版</td>
+<td>ursa</td>
+</tr>
+<tr>
+<td>红米S2 &#x2F; 红米Y2</td>
+<td>ysl</td>
+</tr>
+<tr>
+<td>小米6X</td>
+<td>wayne</td>
+</tr>
+<tr>
+<td>小米MIX 2S</td>
+<td>polaris</td>
+</tr>
+<tr>
+<td>红米Note 5 &#x2F; Pro</td>
+<td>whyred</td>
+</tr>
+<tr>
+<td>红米5</td>
+<td>rosy</td>
+</tr>
+<tr>
+<td>红米5 Plus</td>
+<td>vince</td>
+</tr>
+<tr>
+<td>红米5A</td>
+<td>riva</td>
+</tr>
+<tr>
+<td>小米MIX 2</td>
+<td>chiron</td>
+</tr>
+<tr>
+<td>小米Note 3</td>
+<td>jason</td>
+</tr>
+<tr>
+<td>小米A1</td>
+<td>tissot</td>
+</tr>
+<tr>
+<td>红米Note 5A 高配版</td>
+<td>ugg</td>
+</tr>
+<tr>
+<td>红米Note 5A 标准版</td>
+<td>ugglite</td>
+</tr>
+<tr>
+<td>小米5X</td>
+<td>tiffany</td>
+</tr>
+<tr>
+<td>小米Max 2</td>
+<td>oxygen</td>
+</tr>
+<tr>
+<td>小米6</td>
+<td>sagit</td>
+</tr>
+<tr>
+<td>小米平板3</td>
+<td>cappu</td>
+</tr>
+<tr>
+<td>小米5C</td>
+<td>meri</td>
+</tr>
+<tr>
+<td>红米4X</td>
+<td>santoni</td>
+</tr>
+<tr>
+<td>红米Note 4X 高通版</td>
+<td>mido</td>
+</tr>
+<tr>
+<td>红米Note 4 联发科版</td>
+<td>nikel</td>
+</tr>
+<tr>
+<td>红米4 高配版</td>
+<td>markw</td>
+</tr>
+<tr>
+<td>红米4 标准版</td>
+<td>prada</td>
+</tr>
+<tr>
+<td>红米4A</td>
+<td>rolex</td>
+</tr>
+<tr>
+<td>小米MIX</td>
+<td>lithium</td>
+</tr>
+<tr>
+<td>小米Note 2</td>
+<td>scorpio</td>
+</tr>
+<tr>
+<td>小米5S</td>
+<td>capricorn</td>
+</tr>
+<tr>
+<td>小米5S Plus</td>
+<td>natrium</td>
+</tr>
+<tr>
+<td>红米Pro</td>
+<td>omega</td>
+</tr>
+<tr>
+<td>红米3S</td>
+<td>land</td>
+</tr>
+<tr>
+<td>小米Max 高配版</td>
+<td>helium</td>
+</tr>
+<tr>
+<td>小米Max 标准版</td>
+<td>hydrogen</td>
+</tr>
+<tr>
+<td>小米4S</td>
+<td>aqua</td>
+</tr>
+<tr>
+<td>小米5</td>
+<td>gemini</td>
+</tr>
+<tr>
+<td>红米3 &#x2F; Pro</td>
+<td>ido</td>
+</tr>
+<tr>
+<td>红米Note 3 台湾特别版</td>
+<td>kate</td>
+</tr>
+<tr>
+<td>红米Note 3 全网通版</td>
+<td>kenzo</td>
+</tr>
+<tr>
+<td>红米Note 3 双网通版</td>
+<td>hennessy</td>
+</tr>
+<tr>
+<td>小米平板2</td>
+<td>latte</td>
+</tr>
+<tr>
+<td>小米4C</td>
+<td>libra</td>
+</tr>
+<tr>
+<td>红米Note 2</td>
+<td>hermes</td>
+</tr>
+<tr>
+<td>小米4i</td>
+<td>ferrari</td>
+</tr>
+<tr>
+<td>红米2A 标准版</td>
+<td>lte26007</td>
+</tr>
+<tr>
+<td>小米Note 顶配版</td>
+<td>leo</td>
+</tr>
+<tr>
+<td>小米Note 双网通 &#x2F; 全网通</td>
+<td>virgo</td>
+</tr>
+<tr>
+<td>红米手机2 增强版</td>
+<td>wt86047</td>
+</tr>
+<tr>
+<td>红米手机2</td>
+<td>wt88047</td>
+</tr>
+<tr>
+<td>红米Note 4G单卡版</td>
+<td>dior</td>
+</tr>
+<tr>
+<td>红米Note 4G双卡版</td>
+<td>gucci</td>
+</tr>
+<tr>
+<td>小米3 &#x2F; 小米4</td>
+<td>cancro</td>
+</tr>
+<tr>
+<td>红米手机1S</td>
+<td>armani</td>
+</tr>
+<tr>
+<td>红米手机1S 移动3G版</td>
+<td>HM2014011</td>
+</tr>
+<tr>
+<td>红米手机1S 移动4G版</td>
+<td>HM2014501</td>
+</tr>
+<tr>
+<td>小米平板1</td>
+<td>mocha</td>
+</tr>
+<tr>
+<td>红米Note</td>
+<td>lcsh92</td>
+</tr>
+<tr>
+<td>小米2A</td>
+<td>taurus</td>
+</tr>
+<tr>
+<td>小米3 移动版</td>
+<td>pisces</td>
+</tr>
+<tr>
+<td>红米手机</td>
+<td>HM2013023</td>
+</tr>
+<tr>
+<td>小米2S</td>
+<td>aries</td>
+</tr>
+<tr>
+<td>小米1S</td>
+<td>mione</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>玩机</category>
+        <category>小米</category>
+      </categories>
   </entry>
 </search>
