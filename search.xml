@@ -867,7 +867,8 @@
 <h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><p>1.下载代理中转只会在你挂载的路径下生效；<br>2.这种方法理论上可以适用于其他网盘，但也许没必要，用在其他网盘上也有可能有被封号的风险；<br>3.体验进入<a href="https://wwl.pan-reduction.one/">网盘</a>下载文件即可</p>
 ]]></content>
       <categories>
-        <category>教程，Alist</category>
+        <category>教程</category>
+        <category>Alist</category>
         <category>Cloudflare</category>
       </categories>
   </entry>
