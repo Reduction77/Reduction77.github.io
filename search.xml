@@ -22,67 +22,6 @@
       </categories>
   </entry>
   <entry>
-    <title>第三方Recovery及刷入方法</title>
-    <url>/2023/01/09/20-13-38/</url>
-    <content><![CDATA[<h1 id="有关于Recovery的个人认识"><a href="#有关于Recovery的个人认识" class="headerlink" title="有关于Recovery的个人认识"></a>有关于Recovery的个人认识</h1><p>经常刷机的友友们都知道，类原生的刷机包中一般都有recovery.img文件，这个就是Recovery，在老的机型里是存在Recovery分区的 ，到了出场安卓11以上机型之后，Recovery分区被去除，加入了A&#x2F;B动态分区模式，支持无缝升级，但是在小米8gen1以上的机型中又加回了Recovery分区。接下来我拿小米说开去（毕竟我只买得起小米这种Soc优秀又能搞机的手机）。</p>
-<h2 id="小米的官方Recovery"><a href="#小米的官方Recovery" class="headerlink" title="小米的官方Recovery"></a>小米的官方Recovery</h2><p>小米的官方Recovery基本上是残废的，只能清除用户数据和通过电脑连接到小米助手（说句实话，连接小米助手这功能在某些设备上貌似也用不成）。<br><img src="/2023/01/09/20-13-38/1.png"> </p>
-<h2 id="类原生的官方Recovery"><a href="#类原生的官方Recovery" class="headerlink" title="类原生的官方Recovery"></a>类原生的官方Recovery</h2><p>类原生的官方Recovery的功能比小米的多一点，对应的可以实现工厂级格式化格式化（Factory reset）、adb sideload升级系统（Apply update）、高级（Advanced）等等功能。（通过Recovey升级系统请参考另外一篇文章）<br><img src="/2023/01/09/20-13-38/2.jpg"><br><img src="/2023/01/09/20-13-38/3.jpg">  </p>
-<h2 id="第三方Recovery"><a href="#第三方Recovery" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery的功能很多，基本上可以满足刷机玩机的全部需求，更像一个小型的系统，直接对相应分区进行修改。<br><img src="/2023/01/09/20-13-38/4.jpg"></p>
-<h1 id="获取Recovery的途径"><a href="#获取Recovery的途径" class="headerlink" title="获取Recovery的途径"></a>获取Recovery的途径</h1><h2 id="官方的Recovery"><a href="#官方的Recovery" class="headerlink" title="官方的Recovery"></a>官方的Recovery</h2><p>官方的Recovery基本上可以在对应的官方网站上下载，例如下面的LineageOS的下载界面，可以看到有Recovery字样的文件<br><img src="/2023/01/09/20-13-38/5.png"></p>
-<h2 id="第三方Recovery-1"><a href="#第三方Recovery-1" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery主流的有Twrp和Ofox橙狐</p>
-<h3 id="Twrp"><a href="#Twrp" class="headerlink" title="Twrp"></a>Twrp</h3><p><img src="/2023/01/09/20-13-38/Twrp.jpg"><br>官方网址：<a href="https://twrp.me/">点击访问</a><br>可以选择自己对应的设备下载使用~</p>
-<p>Twrp现在的主要维护者是skkk（酷安@mi_block）大佬，可以前往这位大佬的123云盘下载：<br>123网盘链接：<a href="https://www.123pan.com/s/qHhDVv-nuQJv">https://www.123pan.com/s/qHhDVv-nuQJv</a><br>一键刷入工具：<a href="https://wwl.pan-reduction.one/d/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery/%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5%E5%B7%A5%E5%85%B7/SKKK%20TWRP%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5V4.0.zip?sign=KuBGSya7vPZoVBnqXhf6UGZV7EdYZ5k5kidQ7yDL5J0=:0">点击下载</a></p>
-<p>历史维护者是wzsx150大佬，可以前往这位大佬的共享云盘下载：<br>链接： <a href="https://pan.hchl.top/s/oe4T4?path=/">https://pan.hchl.top/s/oe4T4?path=%2F</a><br>密码：wzsx150    </p>
-<p>搬运站点下载：<a href="https://wwl.pan-reduction.one/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery">点击访问</a></p>
-<h3 id="Ofox橙狐"><a href="#Ofox橙狐" class="headerlink" title="Ofox橙狐"></a>Ofox橙狐</h3><p>官网链接：<a href="https://xiaomitools.com/orangefox-recovery-cn/">点击访问</a><br>官方下载链接：<a href="https://orangefox.download/">点击访问</a><br><img src="/2023/01/09/20-13-38/Ofox.png"><br>橙狐的界面很美观，而且有很多自定义设置项，比较贴近MIUI的审美风格  </p>
-<h1 id="Recovery的刷入方式"><a href="#Recovery的刷入方式" class="headerlink" title="Recovery的刷入方式"></a>Recovery的刷入方式</h1><p>介于大部分Recovery的刷入方式不太一样，这里只介绍两种最稳妥的刷入方式，使用的是第三方Recovery Twrp  </p>
-<h2 id="前提条件"><a href="#前提条件" class="headerlink" title="前提条件"></a>前提条件</h2><p>1.首先<a href="https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn">点击下载</a>适合你当前平台的ADB工具，通过按住 电源键 + 音量下 进入Fastboot引导模式。然后，使用 USB 连接到你的电脑，运行 cmd 或者 bash 并执行命令以下所有命令（不推荐使用Windows Powershell）<br>2.清楚自己设备的分区类型，如图，图上说的很清楚我不过多赘述~<br><img src="/2023/01/09/20-13-38/fq.jpg"></p>
-<h2 id="Only-A设备刷入方式"><a href="#Only-A设备刷入方式" class="headerlink" title="Only A设备刷入方式"></a>Only A设备刷入方式</h2><p>演示设备：小米6    </p>
-<ol>
-<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
-<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
-亦或是<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
-返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">   </li>
-<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery xxx.img</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/flash.png"><br><img src="/2023/01/09/20-13-38/flash2.png"></li>
-<li>重启到Recovery<br>在cmd中键入命令<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/cq.png">   </li>
-<li>完成！</li>
-</ol>
-<h2 id="VAB设备刷入方式"><a href="#VAB设备刷入方式" class="headerlink" title="VAB设备刷入方式"></a>VAB设备刷入方式</h2><p>演示设备：Redmi K40</p>
-<ol>
-<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
-<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
-亦或是   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
-返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">    </li>
-<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/boot.png"><br><img src="/2023/01/09/20-13-38/boot2.png"> </li>
-<li>重启到Recovery<br>理论上会自动重启到Recovery，因为上一步的命令是boot（启动的意思），如果没有重启到Recovery，请手动。  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/cq.png">   </li>
-<li>固化Recovery<br>在Twrp高级里面选择刷入当前Twrp选项，然后重启Recovery<br><img src="/2023/01/09/20-13-38/gh.png"><br><img src="/2023/01/09/20-13-38/gh2.png"></li>
-<li>完成！</li>
-</ol>
-<h2 id="通过搞机助手刷入Recovery"><a href="#通过搞机助手刷入Recovery" class="headerlink" title="通过搞机助手刷入Recovery"></a>通过搞机助手刷入Recovery</h2><p>首先你需要在<a href="https://lsdy.top/">官网下载</a>搞机助手这个软件,该过程较为简单</p>
-<ol>
-<li>将手机重启到引导模式<br><img src="/2023/01/09/20-13-38/f.png">  </li>
-<li>在侧边栏“引导模式”中选择“刷入REC”选项  </li>
-<li>选择Recovery文件<br><img src="/2023/01/09/20-13-38/x.png">  </li>
-<li>如果你是Only A分区结构的设备请选择“刷入”选项；如果你是VAB分区结构的设备请选择“临时刷入（A&#x2F;B分区设备）”选项，随后按上面的步骤固化Recovery。<br><img src="/2023/01/09/20-13-38/s.png">  </li>
-<li>完成！</li>
-</ol>
-<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
-<li>建议学习命令行形式的刷入，因为软件里的adb文件随时可能过期而无法适应新的内容，而谷歌官方的adb文件始终是可以的，学习的过程对自己来说也是一种提升~     </li>
-<li>如果你使用的是skkk的Recovery，一定要仔细阅读skkk提供的说明，核对好文件最前面的名称之后，再选择刷入的方式，切忌不能直接将任何Recovery直接刷入boot分区！！！<br><img src="/2023/01/09/20-13-38/skkk.jpg">      </li>
-<li>任何Recovery的名称后缀一定是.img，如果你下载下来是.zip，请解压后使用   </li>
-<li>Recovery需要与安卓版本对应才能成功解密（解密的密码一般是自己的锁屏密码），有些A12的Recovery也可用于A13，但是如果能找到A13的Recovery，就请使用A13的Recovery</li>
-</ol>
-]]></content>
-      <categories>
-        <category>玩机</category>
-        <category>Recovery</category>
-      </categories>
-  </entry>
-  <entry>
     <title>小米设备代号表</title>
     <url>/2023/01/07/13-00-12/</url>
     <content><![CDATA[<p><img src="/2023/01/07/13-00-12/1.jpg" alt="按Ctrl+F以快速搜索"> </p>
@@ -957,7 +896,8 @@
 <h3 id="双清"><a href="#双清" class="headerlink" title="双清"></a>双清</h3><p>点击<code>清除</code>，首先滑动格式化System分区，再点击<code>格式化Data分区</code>，输入yes格式化Data分区。<br><img src="/2023/01/13/18-14-03/sys.png"><br><img src="/2023/01/13/18-14-03/data.png"><br>如果后面的刷入过程报错了，可以尝试在此处点击<code>高级清除</code>来4清<br><img src="/2023/01/13/18-14-03/4.png">  </p>
 <h3 id="传入刷机包"><a href="#传入刷机包" class="headerlink" title="传入刷机包"></a>传入刷机包</h3><p>连接电脑将刷机包复制进手机   </p>
 <h3 id="刷入-1"><a href="#刷入-1" class="headerlink" title="刷入"></a>刷入</h3><p>点击<code>安装</code>，选择刚刚传入的刷机包（如果没有，请导航到<code>/data/media</code>目录），上面几个选项保持默认即可，滑动刷入。<br><img src="/2023/01/13/18-14-03/zcd.png"><br><img src="/2023/01/13/18-14-03/w.png"><br><img src="/2023/01/13/18-14-03/sr.png">   </p>
-<h3 id="完成-1"><a href="#完成-1" class="headerlink" title="完成"></a>完成</h3><p>刷入成功后重启到系统<br><img src="/2023/01/13/18-14-03/cq.png">  </p>
+<h3 id="再次格式化Data"><a href="#再次格式化Data" class="headerlink" title="再次格式化Data"></a>再次格式化Data</h3><p><img src="/2023/01/13/18-14-03/data.png"></p>
+<h3 id="完成-1"><a href="#完成-1" class="headerlink" title="完成"></a>完成</h3><p>重启到系统<br><img src="/2023/01/13/18-14-03/cq.png">  </p>
 <h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
 <li>底包（fw）的刷入和Rom包的刷入方式一样</li>
 <li>有关于报错的详细分析，请参考另外一篇帖子，我之后会写~</li>
@@ -966,6 +906,67 @@
       <categories>
         <category>玩机</category>
         <category>小米</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第三方Recovery及刷入方法</title>
+    <url>/2023/01/09/20-13-38/</url>
+    <content><![CDATA[<h1 id="有关于Recovery的个人认识"><a href="#有关于Recovery的个人认识" class="headerlink" title="有关于Recovery的个人认识"></a>有关于Recovery的个人认识</h1><p>经常刷机的友友们都知道，类原生的刷机包中一般都有recovery.img文件，这个就是Recovery，在老的机型里是存在Recovery分区的 ，到了出场安卓11以上机型之后，Recovery分区被去除，加入了A&#x2F;B动态分区模式，支持无缝升级，但是在小米8gen1以上的机型中又加回了Recovery分区。接下来我拿小米说开去（毕竟我只买得起小米这种Soc优秀又能搞机的手机）。</p>
+<h2 id="小米的官方Recovery"><a href="#小米的官方Recovery" class="headerlink" title="小米的官方Recovery"></a>小米的官方Recovery</h2><p>小米的官方Recovery基本上是残废的，只能清除用户数据和通过电脑连接到小米助手（说句实话，连接小米助手这功能在某些设备上貌似也用不成）。<br><img src="/2023/01/09/20-13-38/1.png"> </p>
+<h2 id="类原生的官方Recovery"><a href="#类原生的官方Recovery" class="headerlink" title="类原生的官方Recovery"></a>类原生的官方Recovery</h2><p>类原生的官方Recovery的功能比小米的多一点，对应的可以实现工厂级格式化格式化（Factory reset）、adb sideload升级系统（Apply update）、高级（Advanced）等等功能。（通过Recovey升级系统请参考另外一篇文章）<br><img src="/2023/01/09/20-13-38/2.jpg"><br><img src="/2023/01/09/20-13-38/3.jpg">  </p>
+<h2 id="第三方Recovery"><a href="#第三方Recovery" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery的功能很多，基本上可以满足刷机玩机的全部需求，更像一个小型的系统，直接对相应分区进行修改。<br><img src="/2023/01/09/20-13-38/4.jpg"></p>
+<h1 id="获取Recovery的途径"><a href="#获取Recovery的途径" class="headerlink" title="获取Recovery的途径"></a>获取Recovery的途径</h1><h2 id="官方的Recovery"><a href="#官方的Recovery" class="headerlink" title="官方的Recovery"></a>官方的Recovery</h2><p>官方的Recovery基本上可以在对应的官方网站上下载，例如下面的LineageOS的下载界面，可以看到有Recovery字样的文件<br><img src="/2023/01/09/20-13-38/5.png"></p>
+<h2 id="第三方Recovery-1"><a href="#第三方Recovery-1" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery主流的有Twrp和Ofox橙狐</p>
+<h3 id="Twrp"><a href="#Twrp" class="headerlink" title="Twrp"></a>Twrp</h3><p><img src="/2023/01/09/20-13-38/Twrp.jpg"><br>官方网址：<a href="https://twrp.me/">点击访问</a><br>可以选择自己对应的设备下载使用~</p>
+<p>Twrp现在的主要维护者是skkk（酷安@mi_block）大佬，可以前往这位大佬的123云盘下载：<br>123网盘链接：<a href="https://www.123pan.com/s/qHhDVv-nuQJv">https://www.123pan.com/s/qHhDVv-nuQJv</a><br>一键刷入工具：<a href="https://wwl.pan-reduction.one/d/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery/%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5%E5%B7%A5%E5%85%B7/SKKK%20TWRP%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5V4.0.zip?sign=KuBGSya7vPZoVBnqXhf6UGZV7EdYZ5k5kidQ7yDL5J0=:0">点击下载</a></p>
+<p>历史维护者是wzsx150大佬，可以前往这位大佬的共享云盘下载：<br>链接： <a href="https://pan.hchl.top/s/oe4T4?path=/">https://pan.hchl.top/s/oe4T4?path=%2F</a><br>密码：wzsx150    </p>
+<p>搬运站点下载：<a href="https://wwl.pan-reduction.one/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery">点击访问</a></p>
+<h3 id="Ofox橙狐"><a href="#Ofox橙狐" class="headerlink" title="Ofox橙狐"></a>Ofox橙狐</h3><p>官网链接：<a href="https://xiaomitools.com/orangefox-recovery-cn/">点击访问</a><br>官方下载链接：<a href="https://orangefox.download/">点击访问</a><br><img src="/2023/01/09/20-13-38/Ofox.png"><br>橙狐的界面很美观，而且有很多自定义设置项，比较贴近MIUI的审美风格  </p>
+<h1 id="Recovery的刷入方式"><a href="#Recovery的刷入方式" class="headerlink" title="Recovery的刷入方式"></a>Recovery的刷入方式</h1><p>介于大部分Recovery的刷入方式不太一样，这里只介绍两种最稳妥的刷入方式，使用的是第三方Recovery Twrp  </p>
+<h2 id="前提条件"><a href="#前提条件" class="headerlink" title="前提条件"></a>前提条件</h2><p>1.首先<a href="https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn">点击下载</a>适合你当前平台的ADB工具，通过按住 电源键 + 音量下 进入Fastboot引导模式。然后，使用 USB 连接到你的电脑，运行 cmd 或者 bash 并执行命令以下所有命令（不推荐使用Windows Powershell）<br>2.清楚自己设备的分区类型，如图，图上说的很清楚我不过多赘述~<br><img src="/2023/01/09/20-13-38/fq.jpg"></p>
+<h2 id="Only-A设备刷入方式"><a href="#Only-A设备刷入方式" class="headerlink" title="Only A设备刷入方式"></a>Only A设备刷入方式</h2><p>演示设备：小米6    </p>
+<ol>
+<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
+<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
+亦或是<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
+返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">   </li>
+<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery xxx.img</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/flash.png"><br><img src="/2023/01/09/20-13-38/flash2.png"></li>
+<li>重启到Recovery<br>在cmd中键入命令<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/cq.png">   </li>
+<li>完成！</li>
+</ol>
+<h2 id="VAB设备刷入方式"><a href="#VAB设备刷入方式" class="headerlink" title="VAB设备刷入方式"></a>VAB设备刷入方式</h2><p>演示设备：Redmi K40</p>
+<ol>
+<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
+<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
+亦或是   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
+返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">    </li>
+<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/boot.png"><br><img src="/2023/01/09/20-13-38/boot2.png"> </li>
+<li>重启到Recovery<br>理论上会自动重启到Recovery，因为上一步的命令是boot（启动的意思），如果没有重启到Recovery，请手动。  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/cq.png">   </li>
+<li>固化Recovery<br>在Twrp高级里面选择刷入当前Twrp选项，然后重启Recovery<br><img src="/2023/01/09/20-13-38/gh.png"><br><img src="/2023/01/09/20-13-38/gh2.png"></li>
+<li>完成！</li>
+</ol>
+<h2 id="通过搞机助手刷入Recovery"><a href="#通过搞机助手刷入Recovery" class="headerlink" title="通过搞机助手刷入Recovery"></a>通过搞机助手刷入Recovery</h2><p>首先你需要在<a href="https://lsdy.top/">官网下载</a>搞机助手这个软件,该过程较为简单</p>
+<ol>
+<li>将手机重启到引导模式<br><img src="/2023/01/09/20-13-38/f.png">  </li>
+<li>在侧边栏“引导模式”中选择“刷入REC”选项  </li>
+<li>选择Recovery文件<br><img src="/2023/01/09/20-13-38/x.png">  </li>
+<li>如果你是Only A分区结构的设备请选择“刷入”选项；如果你是VAB分区结构的设备请选择“临时刷入（A&#x2F;B分区设备）”选项，随后按上面的步骤固化Recovery。<br><img src="/2023/01/09/20-13-38/s.png">  </li>
+<li>完成！</li>
+</ol>
+<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
+<li>建议学习命令行形式的刷入，因为软件里的adb文件随时可能过期而无法适应新的内容，而谷歌官方的adb文件始终是可以的，学习的过程对自己来说也是一种提升~     </li>
+<li>如果你使用的是skkk的Recovery，一定要仔细阅读skkk提供的说明，核对好文件最前面的名称之后，再选择刷入的方式，切忌不能直接将任何Recovery直接刷入boot分区！！！<br><img src="/2023/01/09/20-13-38/skkk.jpg">      </li>
+<li>任何Recovery的名称后缀一定是.img，如果你下载下来是.zip，请解压后使用   </li>
+<li>Recovery需要与安卓版本对应才能成功解密（解密的密码一般是自己的锁屏密码），有些A12的Recovery也可用于A13，但是如果能找到A13的Recovery，就请使用A13的Recovery</li>
+</ol>
+]]></content>
+      <categories>
+        <category>玩机</category>
+        <category>Recovery</category>
       </categories>
   </entry>
 </search>
