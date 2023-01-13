@@ -933,4 +933,39 @@
         <category>小米</category>
       </categories>
   </entry>
+  <entry>
+    <title>简述线刷和卡刷的刷机方式</title>
+    <url>/2023/01/13/18-14-03/</url>
+    <content><![CDATA[<h1 id="线刷包和卡刷包的辨认"><a href="#线刷包和卡刷包的辨认" class="headerlink" title="线刷包和卡刷包的辨认"></a>线刷包和卡刷包的辨认</h1><p>线刷包由于是在电脑上操作的，所以会带有线刷脚本，一般线刷脚本的文件后缀是<code>.bat</code>，也许会带有一个<code>images</code>文件夹，里面有一堆<code>.img</code>文件；卡刷包由于是通过第三方Recovery刷入的，所以没有<code>.bat</code>脚本，取而代之的是规则的文件结构，例如下图这个N0OS的卡刷包。<br><img src="/2023/01/13/18-14-03/n0.png"></p>
+<h1 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h1><h2 id="官方包"><a href="#官方包" class="headerlink" title="官方包"></a>官方包</h2><p>官方包只能通过miflash线刷（当然你也可以使用<code>cmd</code>命令来启动<code>bat</code>脚本），当然，建议使用miflash官方进行线刷官方包，也可以通过miflash安装安卓驱动程序，你也可以在<a href="https://lsdy.top/">网站</a>下载“一键安装安卓驱动”程序进行安装。要注意：miflash只能刷官方线刷包，不能刷入其他类型的刷机包！！！</p>
+<h3 id="下载miflash"><a href="#下载miflash" class="headerlink" title="下载miflash"></a>下载miflash</h3><p>可以通过<a href="https://xiaomirom.com/download-xiaomi-flash-tool-miflash/">该网站</a>下载，<a href="https://xiaomirom.com/download-xiaomi-flash-tool-miflash/">该网站</a>也可以下载许多小米官方的刷机包。</p>
+<h3 id="安装安卓驱动程序"><a href="#安装安卓驱动程序" class="headerlink" title="安装安卓驱动程序"></a>安装安卓驱动程序</h3><p><img src="/2023/01/13/18-14-03/dr.png">  </p>
+<h3 id="解压小米官方线刷包"><a href="#解压小米官方线刷包" class="headerlink" title="解压小米官方线刷包"></a>解压小米官方线刷包</h3><p>你需要解压到可以看到这些内容，一般需要解压两次<br><img src="/2023/01/13/18-14-03/wj.png"><br>保证路径里面不包含中文、空格和特殊字符   </p>
+<h3 id="刷机"><a href="#刷机" class="headerlink" title="刷机"></a>刷机</h3><p>打开miflash，选择刷机包的位置（也可以直接粘贴路径），依次点击<code>加载设备</code>——最下面的刷机选项——<code>刷机</code>即可。<br><img src="/2023/01/13/18-14-03/1.png">   </p>
+<h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>刷机成功后手机通常会自动重启到系统  </p>
+<h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p>线刷的过程中不要动手机和电脑直到手机重启，因为线刷突然中断是很容易变砖的，正常的刷机时间不会高于800秒（具体多长时间取决于你的电脑配置），要是高于这个值，就可以重新来过了。  </p>
+<h1 id="卡刷"><a href="#卡刷" class="headerlink" title="卡刷"></a>卡刷</h1><h2 id="通过ADB命令卡刷"><a href="#通过ADB命令卡刷" class="headerlink" title="通过ADB命令卡刷"></a>通过ADB命令卡刷</h2><p>一般来说，类原生项目的官网上给的方法均为ADB卡刷的方式，实际上就是卡刷转线刷，需要使用到电脑，也很方便，不需要第三方Recovery（当然你也可以使用第三方Recovery进行这种方式的卡刷），只需要类原生官方的Recovery即可完成。接下来的演示使用的是小米6和LineageOS19.1  </p>
+<h3 id="刷入官方Recovery"><a href="#刷入官方Recovery" class="headerlink" title="刷入官方Recovery"></a>刷入官方Recovery</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a></p>
+<h3 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h3><p>点击Rec里面的<code>Factory Reset</code>，格式化Data和System分区，随后重启Rec</p>
+<h3 id="开启ADB"><a href="#开启ADB" class="headerlink" title="开启ADB"></a>开启ADB</h3><p>点击主菜单里的<code>Apply Update</code>，随后点击<code>Apply from ADB</code>，打开sideload模式</p>
+<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在adb包里面打开<code>cmd</code>窗口，键入   </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb sideload xxx.zip</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.zip</code>是你的刷机包路径。等待刷入完成，会提示<code> Total xfer: 1.00x</code>  </p>
+<h2 id="注意事项-1"><a href="#注意事项-1" class="headerlink" title="注意事项"></a>注意事项</h2><p>刷机过程可能会卡在47%，并且会显示<code>Total xfer: 0.98x</code> 或者是<code>adb: failed to read command: Success</code>，也有可能出现<code>adb: failed to read command: No error</code>或者是<code>adb: failed to read command: Undefined error: 0</code>，但是以上几种情况都是成功的啦！  </p>
+<h2 id="通过Twrp卡刷"><a href="#通过Twrp卡刷" class="headerlink" title="通过Twrp卡刷"></a>通过Twrp卡刷</h2><p>Ofox的Recovery属于是大同小异，我们拿Twrp举个例子  </p>
+<h3 id="刷入Twrp"><a href="#刷入Twrp" class="headerlink" title="刷入Twrp"></a>刷入Twrp</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a>  </p>
+<h3 id="双清"><a href="#双清" class="headerlink" title="双清"></a>双清</h3><p>点击<code>清除</code>，首先滑动格式化System分区，再点击<code>格式化Data分区</code>，输入yes格式化Data分区。<br><img src="/2023/01/13/18-14-03/sys.png"><br><img src="/2023/01/13/18-14-03/data.png"><br>如果后面的刷入过程报错了，可以尝试在此处点击<code>高级清除</code>来4清<br><img src="/2023/01/13/18-14-03/4.png">  </p>
+<h3 id="传入刷机包"><a href="#传入刷机包" class="headerlink" title="传入刷机包"></a>传入刷机包</h3><p>连接电脑将刷机包复制进手机   </p>
+<h3 id="刷入-1"><a href="#刷入-1" class="headerlink" title="刷入"></a>刷入</h3><p>点击<code>安装</code>，选择刚刚传入的刷机包（如果没有，请导航到<code>/data/media</code>目录），上面几个选项保持默认即可，滑动刷入。<br><img src="/2023/01/13/18-14-03/zcd.png"><br><img src="/2023/01/13/18-14-03/w.png"><br><img src="/2023/01/13/18-14-03/sr.png">   </p>
+<h3 id="完成-1"><a href="#完成-1" class="headerlink" title="完成"></a>完成</h3><p>刷入成功后重启到系统<br><img src="/2023/01/13/18-14-03/cq.png">  </p>
+<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
+<li>底包（fw）的刷入和Rom包的刷入方式一样</li>
+<li>有关于报错的详细分析，请参考另外一篇帖子，我之后会写~</li>
+</ol>
+]]></content>
+      <categories>
+        <category>玩机</category>
+        <category>小米</category>
+      </categories>
+  </entry>
 </search>
