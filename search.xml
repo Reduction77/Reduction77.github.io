@@ -887,7 +887,10 @@
 <h3 id="刷入官方Recovery"><a href="#刷入官方Recovery" class="headerlink" title="刷入官方Recovery"></a>刷入官方Recovery</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a></p>
 <h3 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h3><p>点击Rec里面的<code>Factory Reset</code>，格式化Data和System分区，随后重启Rec</p>
 <h3 id="开启ADB"><a href="#开启ADB" class="headerlink" title="开启ADB"></a>开启ADB</h3><p>点击主菜单里的<code>Apply Update</code>，随后点击<code>Apply from ADB</code>，打开sideload模式</p>
-<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在adb包里面打开<code>cmd</code>窗口，键入   </p>
+<h3 id="刷入底包fw（如果你需要的话）"><a href="#刷入底包fw（如果你需要的话）" class="headerlink" title="刷入底包fw（如果你需要的话）"></a>刷入底包fw（如果你需要的话）</h3><p>在adb包里面打开<code>cmd</code>窗口，键入   </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb sideload xxx.zip</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.zip</code>是你的底包（fw）路径。等待刷入完成，会提示<code> Total xfer: 1.00x</code>  </p>
+<h3 id="刷入ROM（底包和ROM的刷入方式一样）"><a href="#刷入ROM（底包和ROM的刷入方式一样）" class="headerlink" title="刷入ROM（底包和ROM的刷入方式一样）"></a>刷入ROM（底包和ROM的刷入方式一样）</h3><p>在adb包里面打开<code>cmd</code>窗口，键入   </p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb sideload xxx.zip</span><br></pre></td></tr></table></figure>
 <p>其中<code>xxx.zip</code>是你的刷机包路径。等待刷入完成，会提示<code> Total xfer: 1.00x</code>  </p>
 <h2 id="注意事项-1"><a href="#注意事项-1" class="headerlink" title="注意事项"></a>注意事项</h2><p>刷机过程可能会卡在47%，并且会显示<code>Total xfer: 0.98x</code> 或者是<code>adb: failed to read command: Success</code>，也有可能出现<code>adb: failed to read command: No error</code>或者是<code>adb: failed to read command: Undefined error: 0</code>，但是以上几种情况都是成功的啦！  </p>
@@ -895,7 +898,8 @@
 <h3 id="刷入Twrp"><a href="#刷入Twrp" class="headerlink" title="刷入Twrp"></a>刷入Twrp</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a>  </p>
 <h3 id="双清"><a href="#双清" class="headerlink" title="双清"></a>双清</h3><p>点击<code>清除</code>，首先滑动格式化System分区，再点击<code>格式化Data分区</code>，输入yes格式化Data分区。<br><img src="/2023/01/13/18-14-03/sys.png"><br><img src="/2023/01/13/18-14-03/data.png"><br><strong>如果后面的刷入过程报错了，可以尝试在此处点击<code>高级清除</code>来4清</strong><br><img src="/2023/01/13/18-14-03/4.png">  </p>
 <h3 id="传入刷机包"><a href="#传入刷机包" class="headerlink" title="传入刷机包"></a>传入刷机包</h3><p>连接电脑将刷机包复制进手机   </p>
-<h3 id="刷入-1"><a href="#刷入-1" class="headerlink" title="刷入"></a>刷入</h3><p>点击<code>安装</code>，选择刚刚传入的刷机包（如果没有，请导航到<code>/data/media</code>目录），上面几个选项保持默认即可，滑动刷入。<br><img src="/2023/01/13/18-14-03/zcd.png"><br><img src="/2023/01/13/18-14-03/w.png"><br><img src="/2023/01/13/18-14-03/sr.png">   </p>
+<h3 id="刷入底包fw（如果你需要的话）-1"><a href="#刷入底包fw（如果你需要的话）-1" class="headerlink" title="刷入底包fw（如果你需要的话）"></a>刷入底包fw（如果你需要的话）</h3><p>点击<code>安装</code>，选择刚刚传入的刷机包（如果没有，请导航到<code>/data/media</code>目录），上面几个选项保持默认即可，滑动刷入。   </p>
+<h3 id="刷入ROM（底包和ROM的刷入方式一样）-1"><a href="#刷入ROM（底包和ROM的刷入方式一样）-1" class="headerlink" title="刷入ROM（底包和ROM的刷入方式一样）"></a>刷入ROM（底包和ROM的刷入方式一样）</h3><p>点击<code>安装</code>，选择刚刚传入的刷机包（如果没有，请导航到<code>/data/media</code>目录），上面几个选项保持默认即可，滑动刷入。<br><img src="/2023/01/13/18-14-03/zcd.png"><br><img src="/2023/01/13/18-14-03/w.png"><br><img src="/2023/01/13/18-14-03/sr.png">   </p>
 <h3 id="再次格式化Data"><a href="#再次格式化Data" class="headerlink" title="再次格式化Data"></a>再次格式化Data</h3><p><img src="/2023/01/13/18-14-03/data.png"></p>
 <h3 id="完成-1"><a href="#完成-1" class="headerlink" title="完成"></a>完成</h3><p>重启到系统<br><img src="/2023/01/13/18-14-03/cq.png">  </p>
 <h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
