@@ -876,13 +876,13 @@
     <title>简述线刷和卡刷的刷机方式</title>
     <url>/2023/01/13/18-14-03/</url>
     <content><![CDATA[<h1 id="线刷包和卡刷包的辨认"><a href="#线刷包和卡刷包的辨认" class="headerlink" title="线刷包和卡刷包的辨认"></a>线刷包和卡刷包的辨认</h1><p>线刷包由于是在电脑上操作的，所以会带有线刷脚本，一般线刷脚本的文件后缀是<code>.bat</code>，也许会带有一个<code>images</code>文件夹，里面有一堆<code>.img</code>文件；卡刷包由于是通过第三方Recovery刷入的，所以没有<code>.bat</code>脚本，取而代之的是规则的文件结构，例如下图这个N0OS的卡刷包。<br><img src="/2023/01/13/18-14-03/n0.png"></p>
-<h1 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h1><h2 id="官方包"><a href="#官方包" class="headerlink" title="官方包"></a>官方包</h2><p>官方包只能通过miflash线刷（当然你也可以使用<code>cmd</code>命令来启动<code>bat</code>脚本），当然，建议使用miflash官方进行线刷官方包，也可以通过miflash安装安卓驱动程序，你也可以在<a href="https://lsdy.top/">网站</a>下载“一键安装安卓驱动”程序进行安装。要注意：miflash只能刷官方线刷包，不能刷入其他类型的刷机包！！！</p>
+<h1 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h1><h2 id="官方包"><a href="#官方包" class="headerlink" title="官方包"></a>官方包</h2><p>官方包只能通过miflash线刷（当然你也可以使用<code>cmd</code>命令来启动<code>bat</code>脚本），当然，建议使用miflash官方进行线刷官方包，也可以通过miflash安装安卓驱动程序，你也可以在<a href="https://lsdy.top/">网站</a>下载“一键安装安卓驱动”程序进行安装。<strong>要注意：miflash只能刷官方线刷包，不能刷入其他类型的刷机包！！！</strong></p>
 <h3 id="下载miflash"><a href="#下载miflash" class="headerlink" title="下载miflash"></a>下载miflash</h3><p>可以通过<a href="https://xiaomirom.com/download-xiaomi-flash-tool-miflash/">该网站</a>下载，<a href="https://xiaomirom.com/download-xiaomi-flash-tool-miflash/">该网站</a>也可以下载许多小米官方的刷机包。</p>
 <h3 id="安装安卓驱动程序"><a href="#安装安卓驱动程序" class="headerlink" title="安装安卓驱动程序"></a>安装安卓驱动程序</h3><p><img src="/2023/01/13/18-14-03/dr.png">  </p>
 <h3 id="解压小米官方线刷包"><a href="#解压小米官方线刷包" class="headerlink" title="解压小米官方线刷包"></a>解压小米官方线刷包</h3><p>你需要解压到可以看到这些内容，一般需要解压两次<br><img src="/2023/01/13/18-14-03/wj.png"><br>保证路径里面不包含中文、空格和特殊字符   </p>
-<h3 id="刷机"><a href="#刷机" class="headerlink" title="刷机"></a>刷机</h3><p>打开miflash，选择刷机包的位置（也可以直接粘贴路径），依次点击<code>加载设备</code>——最下面的刷机选项——<code>刷机</code>即可。<br><img src="/2023/01/13/18-14-03/1.png">   </p>
+<h3 id="刷机"><a href="#刷机" class="headerlink" title="刷机"></a>刷机</h3><p>打开miflash，选择刷机包的位置（也可以直接粘贴路径），依次点击<code>加载设备</code>——最下面的<code>刷机</code>选项——<code>刷机</code>即可。<br><img src="/2023/01/13/18-14-03/1.png">   </p>
 <h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>刷机成功后手机通常会自动重启到系统  </p>
-<h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p>线刷的过程中不要动手机和电脑直到手机重启，因为线刷突然中断是很容易变砖的，正常的刷机时间不会高于800秒（具体多长时间取决于你的电脑配置），要是高于这个值，就可以重新来过了。  </p>
+<h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p><strong>线刷的过程中不要动手机和电脑直到手机重启</strong>，因为线刷突然中断是很容易变砖的，正常的刷机时间不会高于800秒（具体多长时间取决于你的电脑配置），要是高于这个值，就可以重新来过了。  </p>
 <h1 id="卡刷"><a href="#卡刷" class="headerlink" title="卡刷"></a>卡刷</h1><h2 id="通过ADB命令卡刷"><a href="#通过ADB命令卡刷" class="headerlink" title="通过ADB命令卡刷"></a>通过ADB命令卡刷</h2><p>一般来说，类原生项目的官网上给的方法均为ADB卡刷的方式，实际上就是卡刷转线刷，需要使用到电脑，也很方便，不需要第三方Recovery（当然你也可以使用第三方Recovery进行这种方式的卡刷），只需要类原生官方的Recovery即可完成。接下来的演示使用的是小米6和LineageOS19.1  </p>
 <h3 id="刷入官方Recovery"><a href="#刷入官方Recovery" class="headerlink" title="刷入官方Recovery"></a>刷入官方Recovery</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a></p>
 <h3 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h3><p>点击Rec里面的<code>Factory Reset</code>，格式化Data和System分区，随后重启Rec</p>
@@ -893,13 +893,13 @@
 <h2 id="注意事项-1"><a href="#注意事项-1" class="headerlink" title="注意事项"></a>注意事项</h2><p>刷机过程可能会卡在47%，并且会显示<code>Total xfer: 0.98x</code> 或者是<code>adb: failed to read command: Success</code>，也有可能出现<code>adb: failed to read command: No error</code>或者是<code>adb: failed to read command: Undefined error: 0</code>，但是以上几种情况都是成功的啦！  </p>
 <h2 id="通过Twrp卡刷"><a href="#通过Twrp卡刷" class="headerlink" title="通过Twrp卡刷"></a>通过Twrp卡刷</h2><p>Ofox的Recovery属于是大同小异，我们拿Twrp举个例子  </p>
 <h3 id="刷入Twrp"><a href="#刷入Twrp" class="headerlink" title="刷入Twrp"></a>刷入Twrp</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a>  </p>
-<h3 id="双清"><a href="#双清" class="headerlink" title="双清"></a>双清</h3><p>点击<code>清除</code>，首先滑动格式化System分区，再点击<code>格式化Data分区</code>，输入yes格式化Data分区。<br><img src="/2023/01/13/18-14-03/sys.png"><br><img src="/2023/01/13/18-14-03/data.png"><br>如果后面的刷入过程报错了，可以尝试在此处点击<code>高级清除</code>来4清<br><img src="/2023/01/13/18-14-03/4.png">  </p>
+<h3 id="双清"><a href="#双清" class="headerlink" title="双清"></a>双清</h3><p>点击<code>清除</code>，首先滑动格式化System分区，再点击<code>格式化Data分区</code>，输入yes格式化Data分区。<br><img src="/2023/01/13/18-14-03/sys.png"><br><img src="/2023/01/13/18-14-03/data.png"><br><strong>如果后面的刷入过程报错了，可以尝试在此处点击<code>高级清除</code>来4清</strong><br><img src="/2023/01/13/18-14-03/4.png">  </p>
 <h3 id="传入刷机包"><a href="#传入刷机包" class="headerlink" title="传入刷机包"></a>传入刷机包</h3><p>连接电脑将刷机包复制进手机   </p>
 <h3 id="刷入-1"><a href="#刷入-1" class="headerlink" title="刷入"></a>刷入</h3><p>点击<code>安装</code>，选择刚刚传入的刷机包（如果没有，请导航到<code>/data/media</code>目录），上面几个选项保持默认即可，滑动刷入。<br><img src="/2023/01/13/18-14-03/zcd.png"><br><img src="/2023/01/13/18-14-03/w.png"><br><img src="/2023/01/13/18-14-03/sr.png">   </p>
 <h3 id="再次格式化Data"><a href="#再次格式化Data" class="headerlink" title="再次格式化Data"></a>再次格式化Data</h3><p><img src="/2023/01/13/18-14-03/data.png"></p>
 <h3 id="完成-1"><a href="#完成-1" class="headerlink" title="完成"></a>完成</h3><p>重启到系统<br><img src="/2023/01/13/18-14-03/cq.png">  </p>
 <h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
-<li>底包（fw）的刷入和Rom包的刷入方式一样</li>
+<li><strong>底包（fw）的刷入和Rom包的刷入方式一样</strong></li>
 <li>有关于报错的详细分析，请参考另外一篇帖子，我之后会写~</li>
 </ol>
 ]]></content>
@@ -967,6 +967,57 @@
       <categories>
         <category>玩机</category>
         <category>Recovery</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Gapps简介及刷入方式</title>
+    <url>/2023/01/14/13-05-05/</url>
+    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Gapps全称为Google Apps Package，由于一些ROM没有内置谷歌服务框架，而我们有时候会用到，所以就需要刷入Gapps，简单的来说，刷入Gapps就可以使用谷歌服务了。目前主流的Gapps主要有OpenGapps和NikGapps，均采用Recovery刷入的方式。</p>
+<h1 id="OpenGapps"><a href="#OpenGapps" class="headerlink" title="OpenGapps"></a>OpenGapps</h1><p><img src="/2023/01/14/13-05-05/og.png"><br>官网地址：<a href="https://opengapps.org/">点击访问</a><br>OpenGapps比较老牌，但是他现在的版本只更新到A11版本，没有A12版本的Gapps。  </p>
+<h1 id="NikGapps"><a href="#NikGapps" class="headerlink" title="NikGapps"></a>NikGapps</h1><p><img src="/2023/01/14/13-05-05/ng.png"><br>官网地址：<a href="https://nikgapps.com/">官网地址</a><br>搬运地址：<a href="https://wwl.pan-reduction.one/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/NikGapps">点击访问</a><br>NikGapps仍在定期维护，支持A12、A12.1和A13  </p>
+<h1 id="各版本介绍"><a href="#各版本介绍" class="headerlink" title="各版本介绍"></a>各版本介绍</h1><h2 id="翻译-本人的理解介绍"><a href="#翻译-本人的理解介绍" class="headerlink" title="翻译+本人的理解介绍"></a>翻译+本人的理解介绍</h2><ol>
+<li><p>Core<br>最小，如果你只想正常打开 Play Store 的话刷它足矣。包含 谷歌 Play Store 本体、谷歌移动服务核心、谷歌服务框架、谷歌备忘录同步服务、谷歌日历同步服务和其它谷歌应用必需的文件。  </p>
+</li>
+<li><p>Go<br>包括 Core 的所有内容，以及 谷歌助理精简版、谷歌相册精简版、谷歌邮箱精简版、谷歌搜索精简版、谷歌地图精简版、谷歌地图导航精简版（以上均非官方翻译，精简版即原版软件加上 Go）、Pixel Launcher、Device Personalization Services、Vanced Manager。  </p>
+</li>
+<li><p>Basic（推荐）<br>在官网上被标为“最受欢迎”的版本，除了 Core 的所有内容，它还包括 Google Carrier Services（What exactly does “Carrier Services” do?）、数字健康（类似于屏幕使用时间&#x2F;健康使用手机）、Vanced Manager 以及替换原生安卓的谷歌时钟、谷歌拨号键盘、谷歌信息（短信）。  </p>
+</li>
+<li><p>Omni<br>包含所有 Basic 拥有的内容，以及 Device Health Services、Google Drive、Google Maps，以及能替换原生安卓的 Gmail、谷歌计算器、谷歌相册。另外，刷入之后可以进入设置向导，该设置向导可以通过修改 nikgapps.config 进行自定义。  </p>
+</li>
+<li><p>Stock<br>包含 Omni 的所有内容，以及 Android Device Policy、GBoard（替换原生安卓键盘）、Google Calendar（替换原生安卓日历）、Google Feedback、Google Partner Setup、Pixel Launcher、Device Personalization Services、Google Files（只有 Android 11 版本有）Google Velvet （语音解锁）、Google Sound Recorder（录音机）、Google Markup、Google Sounds、Google Wallpaper。  </p>
+</li>
+<li><p>Full<br>包含 Stock 的所有内容，以及 谷歌 Play Books、谷歌 Keep（Keep Notes，备忘录软件）、谷歌 Chrome（替换原生安卓浏览器，说实话个人觉得在安卓上的版本并不好用）、谷歌助理、谷歌 Play Games、YouTube Music （替换原生安卓音乐应用和 Play 音乐）、Google TTS（语音转文字）、Google Talkback（无障碍功能）、Device Setup (Android for work)、Android Auto（驾车模式）。</p>
+</li>
+</ol>
+<h2 id="官网的介绍："><a href="#官网的介绍：" class="headerlink" title="官网的介绍："></a>官网的介绍：</h2><ol>
+<li><p>CORE<br>Minimum Google Apps Required To Run Play Store.<br>Google Play Store<br>Gms Core<br>Google Services Framework<br>Google Contacts Sync Adapter<br>Google Calendar Sync<br>ExtraFiles (necessary files for Gapps to work)  </p>
+</li>
+<li><p>GO<br>Everything from Core<br>Assistant Go<br>Gallery Go<br>Gmail Go<br>Google Go<br>Maps Go<br>Navigation Go<br>Pixel Launcher<br>Device Personalization Services<br>Vanced Manager  </p>
+</li>
+<li><p>BASIC（Recommend）<br>Everything from Core<br>Google Carrier Services<br>Google Clock (Replaces AOSP Clock)<br>Digital Wellbeing<br>Vanced Manager<br>Google Dialer (Replaces AOSP Dialer)<br>Google Messages (Replaces AOSP Messages)<br>Google Contacts (Replaces AOSP Contacts)  </p>
+</li>
+<li><p>OMNI<br>Everything from Basic<br>Device Health Services<br>Google Drive<br>Gmail (Replaces AOSP Email)<br>Google Calculator (Replaces AOSP Calculator)<br>Google&#x2F;Pixel Setup Wizard (configurable with nikgapps.config using Pixelize)<br>Google Maps<br>Google Photos (Replaces AOSP Gallery)  </p>
+</li>
+<li><p>STOCK<br>Everything from Omni<br>Android Device Policy<br>GBoard (Replaces AOSP keyboard)<br>Google Calendar (Replaces AOSP Calendar)<br>Google Feedback<br>Google Partner Setup<br>Pixel Launcher<br>Device Personalization Services<br>Google Files (Android R only)<br>Google Velvet (for voice unlock)<br>Google Sound Recorder<br>Google Markup<br>Google Sounds<br>Google Wallpaper  </p>
+</li>
+<li><p>FULL<br>Everything from Stock<br>Google Play Books<br>Google Keep<br>Google Chrome (Replaces AOSP Browser)<br>Google Assistant<br>Google Play Games<br>YouTube Music (Replaces AOSP Music and Google Play Music)<br>Google TTS<br>Google Talkback<br>Device Setup (Android for work)<br>Android Auto</p>
+</li>
+</ol>
+<h1 id="刷入方法"><a href="#刷入方法" class="headerlink" title="刷入方法"></a>刷入方法</h1><h2 id="查看设备安卓版本"><a href="#查看设备安卓版本" class="headerlink" title="查看设备安卓版本"></a>查看设备安卓版本</h2><p>下载底层探测器（可以通过酷安下载到），查看最上面的安卓版本信息，<strong>注意区分A12和A12L，他们不是一个版本</strong><br><img src="/2023/01/14/13-05-05/1.jpg">   </p>
+<h2 id="查看设备构架"><a href="#查看设备构架" class="headerlink" title="查看设备构架"></a>查看设备构架</h2><p>底层探测器打开第二栏，例如我的RedmiK50Ultra是arm64的架构<br><img src="/2023/01/14/13-05-05/2.jpg">   </p>
+<h2 id="下载Gapps"><a href="#下载Gapps" class="headerlink" title="下载Gapps"></a>下载Gapps</h2><p>下载与设备安卓版本和设备架构对应的Gapps版本   </p>
+<h2 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h2><p>重启设备到Recovery模式，像刷ROM一样刷入即可   </p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li><p>如果你使用的是VAB动态分区的设备，则不能在设备开机之后刷入，应该在刷入刷机包之后且重启到系统之前刷入，也就是说，如果你需要刷入Gapps到当前的ROM，应该执行的刷机流程是：<code>刷入ROM</code>——<code>刷入Gapps</code>——<code>重启到系统</code>，否则会出现下面的画面（即使你使用了魔法网络）。<br><img src="/2023/01/14/13-05-05/3.jpg">     </p>
+</li>
+<li><pre><code>不正确的Gapps版本的刷入会导致设备在使用过程中出现问题，包括但不限于自动重启等等。
+</code></pre>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>玩机</category>
+        <category>小米</category>
       </categories>
   </entry>
 </search>
