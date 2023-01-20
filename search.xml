@@ -1048,7 +1048,7 @@
 <li>检查下载的刷机包是否为线刷包（.tgz 后缀），并且确保已经完整解压（使用360压缩解压），在 MiFlash 选择的刷机文件路径没有错误（选择解压得到的文件夹，在这个目录下可以找到 flash_all_lock.bat 文件）；   </li>
 <li>如果是早期的小米手机，由于还没有 BL 锁，对应的刷机包也就没有这个加锁刷机脚本，这时在 MiFlash 界面右下角只能选择“全部删除”模式刷机才能刷机；</li>
 </ol>
-<h2 id="error-Antirollback-check-error"><a href="#error-Antirollback-check-error" class="headerlink" title="error: Antirollback check error"></a>error: Antirollback check error</h2><p>防回滚触发，请查阅注意事项</p>
+<h2 id="error-Antirollback-check-error"><a href="#error-Antirollback-check-error" class="headerlink" title="error: Antirollback check error"></a>error: Antirollback check error</h2><p>防回滚触发，参考乌堆大佬的解决方案（我也不知道帖子链接了，欢迎各位大佬引路~）</p>
 <h2 id="error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done"><a href="#error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done" class="headerlink" title="error:Not catch checkpoint ($fastboot -s .*lock), flash is not done"></a>error:Not catch checkpoint ($fastboot -s .*lock), flash is not done</h2><p>该错误可以忽略，实际不影响手机使用，可以正常开机</p>
 <h2 id="error-Missmatching-image-and-device-error"><a href="#error-Missmatching-image-and-device-error" class="headerlink" title="error: Missmatching image and device error"></a>error: Missmatching image and device error</h2><p>你下载错刷机包了，机型不对</p>
 <h2 id="error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file"><a href="#error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file" class="headerlink" title="error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)"></a>error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)</h2><p>手机与电脑连接不畅</p>
@@ -1077,7 +1077,7 @@
 <li>下载解包工具<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/PC%E7%AB%AF/payload_dumper-win64.zip">点击访问</a>   </li>
 <li>解压自己的卡刷包得到<code>payload.bin</code>，并将其放入工具的<code>payload_input</code>文件夹。<br><img src="/2023/01/20/15-05-26/jb.png"><br><img src="/2023/01/20/15-05-26/jb2.png"></li>
 <li>双击<code>exe</code>文件，等待<code>boot</code>出现后关闭窗口<br><img src="/2023/01/20/15-05-26/boot.png"></li>
-<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/dd.png"></li>
+<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/ddboot.png"></li>
 </ol>
 <h3 id="修补boot-img"><a href="#修补boot-img" class="headerlink" title="修补boot.img"></a>修补<code>boot.img</code></h3><p>将<code>boot.img</code>发送到手机，打开Magisk选择<code>安装</code>→<code>选择并修补一个文件</code>，选择你刚刚解包得到的<code>boot.img</code>，然后点击<code>安装</code>，这样就等到了被Magisk修补过的<code>boot.img</code>。<br><img src="/2023/01/20/15-05-26/xb.jpg"><br><img src="/2023/01/20/15-05-26/xb2.jpg"><br><img src="/2023/01/20/15-05-26/cq.jpg"><br><img src="/2023/01/20/15-05-26/wj.jpg"></p>
 <h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在电脑上打开<code>adb</code>命令行，手机重启到fastboot引导模式，键入：</p>
