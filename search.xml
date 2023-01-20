@@ -885,14 +885,15 @@
 <h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p><strong>线刷的过程中不要动手机和电脑直到手机重启</strong>，因为线刷突然中断是很容易变砖的，正常的刷机时间不会高于800秒（具体多长时间取决于你的电脑配置），要是高于这个值，就可以重新来过了。  </p>
 <h1 id="卡刷"><a href="#卡刷" class="headerlink" title="卡刷"></a>卡刷</h1><h2 id="通过ADB命令卡刷"><a href="#通过ADB命令卡刷" class="headerlink" title="通过ADB命令卡刷"></a>通过ADB命令卡刷</h2><p>一般来说，类原生项目的官网上给的方法均为ADB卡刷的方式，实际上就是卡刷转线刷，需要使用到电脑，也很方便，不需要第三方Recovery（当然你也可以使用第三方Recovery进行这种方式的卡刷），只需要类原生官方的Recovery即可完成。接下来的演示使用的是小米6和LineageOS19.1  </p>
 <h3 id="刷入官方Recovery"><a href="#刷入官方Recovery" class="headerlink" title="刷入官方Recovery"></a>刷入官方Recovery</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a></p>
-<h3 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h3><p>点击Rec里面的<code>Factory Reset</code>，格式化Data和System分区，随后重启Rec</p>
-<h3 id="开启ADB"><a href="#开启ADB" class="headerlink" title="开启ADB"></a>开启ADB</h3><p>点击主菜单里的<code>Apply Update</code>，随后点击<code>Apply from ADB</code>，打开sideload模式</p>
+<h3 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h3><p>点击Rec里面的<code>Factory Reset</code>，格式化Data和System分区，随后重启Rec<br><img src="/2023/01/13/18-14-03/01.jpg"><br><img src="/2023/01/13/18-14-03/02.jpg"><br><img src="/2023/01/13/18-14-03/fs.jpg"><br><img src="/2023/01/13/18-14-03/fd.jpg"></p>
+<h3 id="开启ADB"><a href="#开启ADB" class="headerlink" title="开启ADB"></a>开启ADB</h3><p>点击主菜单里的<code>Apply Update</code>，随后点击<code>Apply from ADB</code>，打开sideload模式<br><img src="/2023/01/13/18-14-03/as.jpg"></p>
 <h3 id="刷入底包fw（如果你需要的话）"><a href="#刷入底包fw（如果你需要的话）" class="headerlink" title="刷入底包fw（如果你需要的话）"></a>刷入底包fw（如果你需要的话）</h3><p>在adb包里面打开<code>cmd</code>窗口，键入   </p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb sideload xxx.zip</span><br></pre></td></tr></table></figure>
 <p>其中<code>xxx.zip</code>是你的底包（fw）路径。等待刷入完成，会提示<code> Total xfer: 1.00x</code>  </p>
 <h3 id="刷入ROM（底包和ROM的刷入方式一样）"><a href="#刷入ROM（底包和ROM的刷入方式一样）" class="headerlink" title="刷入ROM（底包和ROM的刷入方式一样）"></a>刷入ROM（底包和ROM的刷入方式一样）</h3><p>在adb包里面打开<code>cmd</code>窗口，键入   </p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb sideload xxx.zip</span><br></pre></td></tr></table></figure>
-<p>其中<code>xxx.zip</code>是你的刷机包路径。等待刷入完成，会提示<code> Total xfer: 1.00x</code>  </p>
+<p>其中<code>xxx.zip</code>是你的刷机包路径。等待刷入完成，会提示<code> Total xfer: 1.00x</code><br><img src="/2023/01/13/18-14-03/s.jpg">  </p>
+<h3 id="重启到系统"><a href="#重启到系统" class="headerlink" title="重启到系统"></a>重启到系统</h3><p><img src="/2023/01/13/18-14-03/cq.jpg"></p>
 <h2 id="注意事项-1"><a href="#注意事项-1" class="headerlink" title="注意事项"></a>注意事项</h2><p>刷机过程可能会卡在47%，并且会显示<code>Total xfer: 0.98x</code> 或者是<code>adb: failed to read command: Success</code>，也有可能出现<code>adb: failed to read command: No error</code>或者是<code>adb: failed to read command: Undefined error: 0</code>，但是以上几种情况都是成功的啦！  </p>
 <h2 id="通过Twrp卡刷"><a href="#通过Twrp卡刷" class="headerlink" title="通过Twrp卡刷"></a>通过Twrp卡刷</h2><p>Ofox的Recovery属于是大同小异，我们拿Twrp举个例子  </p>
 <h3 id="刷入Twrp"><a href="#刷入Twrp" class="headerlink" title="刷入Twrp"></a>刷入Twrp</h3><p>可参考<a href="https://blog.reduction.one/2023/01/09/20-13-38/">另外一篇教程</a>  </p>
@@ -1058,6 +1059,45 @@
 <h3 id="解决方案：-5"><a href="#解决方案：-5" class="headerlink" title="解决方案："></a>解决方案：</h3><p>更换电脑 USB 2.0 端口连接便可解决</p>
 <h2 id="加载设备提示-Length-cannot-be-less-than-zero-错误"><a href="#加载设备提示-Length-cannot-be-less-than-zero-错误" class="headerlink" title="加载设备提示 Length cannot be less than zero 错误"></a>加载设备提示 Length cannot be less than zero 错误</h2><p>电脑系统运行环境问题</p>
 <h3 id="解决方案：-6"><a href="#解决方案：-6" class="headerlink" title="解决方案："></a>解决方案：</h3><p>关闭防火墙软件、重新下载Mi-Flash运行、更换数据线和 USB 端口</p>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+        <tag>玩机</tag>
+        <tag>小米</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Magisk及刷入方式</title>
+    <url>/2023/01/20/15-05-26/</url>
+    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，再boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
+<h1 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h1><p>Magisk分为了四个主要版本，分别是Magisk，Magisk Alpha，Magisk Delta，Magisk Canary，个人感觉只是功能不同，比如Magisk原版功能少但是可以保证稳定，Magisk Alpha和Magisk Delta自带了隐藏root功能，而且Magisk Delta的Zygisk和MagiskHide可以共存。几张图可以参考……<br><img src="/2023/01/20/15-05-26/a.jpg"><br><img src="/2023/01/20/15-05-26/a2.jpg"><br><img src="/2023/01/20/15-05-26/d.jpg"><br><img src="/2023/01/20/15-05-26/d2.jpg"><br><img src="/2023/01/20/15-05-26/y.jpg"><br><img src="/2023/01/20/15-05-26/y2.jpg">   </p>
+<h1 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h1><p>上述提到的四个版本都可以在Github上下载到，其中Magisk原版可以在酷安直接下载，也可以到Magisk的Github仓库下载（自备魔法），其他几个版本需要自己在酷安上找别人分享的下载链接，笔者只找到了TG频道的下载方式，没有找到其他的，欢迎各位大佬引路！<br>1.	Magisk：<a href="https://github.com/topjohnwu/Magisk">点击访问</a><br>搬运地址：<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/Android%E7%AB%AF/Magisk">点击访问</a><br>2.	Magisk Alpha：<a href="https://t.me/magiskalpha">点击访问</a><br>3.	Magisk Delta：<a href="https://t.me/magiskdelta">点击访问</a>   </p>
+<h1 id="刷入教程"><a href="#刷入教程" class="headerlink" title="刷入教程"></a>刷入教程</h1><h2 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h2><h3 id="提取boot-img"><a href="#提取boot-img" class="headerlink" title="提取boot.img"></a>提取<code>boot.img</code></h3><p>Magisk需要修补<code>boot.img</code>来获得权限，所以需要寻找<code>boot.img</code>，线刷包的<code>boot.img</code>一般在线刷包的<code>images</code>文件夹里面，直接拉出来就可以。<br><img src="/2023/01/20/15-05-26/xsb.jpg"><br>卡刷包的<code>boot.img</code>需要从<code>payload.bin</code>提取，流程如下：  </p>
+<ol>
+<li>下载解包工具<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/PC%E7%AB%AF/payload_dumper-win64.zip">点击访问</a>   </li>
+<li>解压自己的卡刷包得到<code>payload.bin</code>，并将其放入工具的<code>payload_input</code>文件夹。<br><img src="/2023/01/20/15-05-26/jb.png"><br><img src="/2023/01/20/15-05-26/jb2.png"></li>
+<li>双击<code>exe</code>文件，等待<code>boot</code>出现后关闭窗口<br><img src="/2023/01/20/15-05-26/boot.png"></li>
+<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/dd.png"></li>
+</ol>
+<h3 id="修补boot-img"><a href="#修补boot-img" class="headerlink" title="修补boot.img"></a>修补<code>boot.img</code></h3><p>将<code>boot.img</code>发送到手机，打开Magisk选择<code>安装</code>→<code>选择并修补一个文件</code>，选择你刚刚解包得到的<code>boot.img</code>，然后点击<code>安装</code>，这样就等到了被Magisk修补过的<code>boot.img</code>。<br><img src="/2023/01/20/15-05-26/xb.jpg"><br><img src="/2023/01/20/15-05-26/xb2.jpg"><br><img src="/2023/01/20/15-05-26/cq.jpg"><br><img src="/2023/01/20/15-05-26/wj.jpg"></p>
+<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在电脑上打开<code>adb</code>命令行，手机重启到fastboot引导模式，键入：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Fastboot flash boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件；<br>注意：如果你是vab分区设备，则不建议直接将<code>boot.img</code>文件刷入<code>boot</code>分区，需要使用使用以下命令来零时启动：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件。然后进入系统，此时root权限仍然存在，打开Magisk，点击<code>安装</code>→<code>直接安装（推荐）</code>→<code>开始</code>，随后根据提示重启即可。<br><img src="/2023/01/20/15-05-26/vab.jpg"></p>
+<h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>通过上述步骤就可以得到完整永久的root权限  </p>
+<h2 id="卡刷（不推荐）"><a href="#卡刷（不推荐）" class="headerlink" title="卡刷（不推荐）"></a>卡刷（不推荐）</h2><p>笔者刷机5年，不建议Magisk通过卡刷的方式刷入，而且Magisk的文档里从23.0开始就写到过不推荐卡刷，卡刷可能导致不稳定性和失败的可能。skkk（酷安@mi_block）也曾再讨论组里面提起过此事。刷入和卸载过程也十分简单，所以简述。<br><img src="/2023/01/20/15-05-26/skkk.jpg"></p>
+<h3 id="刷入："><a href="#刷入：" class="headerlink" title="刷入："></a>刷入：</h3><p>将下载到的<code>magisk.apk</code>更名为<code>magisk.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可安装获取root权限。</p>
+<h3 id="卸载："><a href="#卸载：" class="headerlink" title="卸载："></a>卸载：</h3><p>将<code>magisk.apk</code>更名为<code>uninstall.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可卸载Magisk。</p>
+<h1 id="升级保root教程"><a href="#升级保root教程" class="headerlink" title="升级保root教程"></a>升级保root教程</h1><p>手机升级的时候会更新系统的<code>boot.img</code>文件，所以需要让Magisk再修补一遍<code>boot.img</code>，然而，因为该过程的原理是修补未使用槽位系统里面的<code>boot.img</code>，所以only a分区机型无法使用这个方法。  </p>
+<ol>
+<li>下载全量（完整）卡刷包<br>因为增量包不完整，而且增量包的升级无法保证系统完整性，所以建议没有root升级的时候，也下载全量（完整）包。   </li>
+<li>等待系统提示安装完成之后不要同意系统给出的重启请求，打开Magisk，点击<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code><br><img src="/2023/01/20/15-05-26/ota.jpg"></li>
+<li>完成！</li>
+</ol>
+<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
+<li>注意<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code>这几步操作不能在没有系统更新的情况下操作，不然会卡米哟~</li>
+</ol>
 ]]></content>
       <tags>
         <tag>教程</tag>

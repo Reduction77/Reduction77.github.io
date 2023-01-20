@@ -20,22 +20,41 @@
     var CONFIG = {"hostname":"blog.reduction.one","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"always","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="前言本文用来收录miflash的一些报错及解决方案，并保持更新~   报错代码及解决方案">
+  <meta name="description" content="简介刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，再boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。   版本">
 <meta property="og:type" content="article">
-<meta property="og:title" content="miflash常见报错解决方案">
-<meta property="og:url" content="https://blog.reduction.one/2023/01/19/16-21-24/index.html">
+<meta property="og:title" content="Magisk及刷入方式">
+<meta property="og:url" content="https://blog.reduction.one/2023/01/20/15-05-26/index.html">
 <meta property="og:site_name" content="朱朱白白🍓博客">
-<meta property="og:description" content="前言本文用来收录miflash的一些报错及解决方案，并保持更新~   报错代码及解决方案">
+<meta property="og:description" content="简介刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，再boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。   版本">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-01-19T08:21:24.000Z">
-<meta property="article:modified_time" content="2023-01-19T09:31:50.205Z">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/a.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/a2.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/d.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/d2.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/y.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/y2.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/xsb.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/jb.png">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/jb2.png">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/boot.png">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/dd.png">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/xb.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/xb2.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/cq.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/wj.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/vab.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/skkk.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/20/15-05-26/ota.jpg">
+<meta property="article:published_time" content="2023-01-20T07:05:26.000Z">
+<meta property="article:modified_time" content="2023-01-20T10:16:53.130Z">
 <meta property="article:author" content="朱朱白白🍓">
 <meta property="article:tag" content="教程">
 <meta property="article:tag" content="玩机">
 <meta property="article:tag" content="小米">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blog.reduction.one/2023/01/20/15-05-26/a.jpg">
 
-<link rel="canonical" href="https://blog.reduction.one/2023/01/19/16-21-24/">
+<link rel="canonical" href="https://blog.reduction.one/2023/01/20/15-05-26/">
 
 
 <script id="page-configurations">
@@ -48,7 +67,7 @@
   };
 </script>
 <link rel="stylesheet" href="https://lib.baomitu.com/social-share.js/1.0.16/css/share.min.css">
-  <title>miflash常见报错解决方案 | 朱朱白白🍓博客</title>
+  <title>Magisk及刷入方式 | 朱朱白白🍓博客</title>
   
 
 
@@ -187,7 +206,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://blog.reduction.one/2023/01/19/16-21-24/">
+    <link itemprop="mainEntityOfPage" href="https://blog.reduction.one/2023/01/20/15-05-26/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/header.jpg">
@@ -200,7 +219,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          miflash常见报错解决方案
+          Magisk及刷入方式
         </h1>
 
         <div class="post-meta">
@@ -211,7 +230,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2023-01-19 16:21:24 / 修改时间：17:31:50" itemprop="dateCreated datePublished" datetime="2023-01-19T16:21:24+08:00">2023-01-19</time>
+              <time title="创建时间：2023-01-20 15:05:26 / 修改时间：18:16:53" itemprop="dateCreated datePublished" datetime="2023-01-20T15:05:26+08:00">2023-01-20</time>
             </span>
 
           
@@ -227,14 +246,14 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">本文字数：</span>
-              <span>1.2k</span>
+              <span>1.7k</span>
             </span>
             <span class="post-meta-item" title="阅读时长">
               <span class="post-meta-item-icon">
                 <i class="far fa-clock"></i>
               </span>
                 <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>1 分钟</span>
+              <span>2 分钟</span>
             </span>
 
         </div>
@@ -246,34 +265,35 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文用来收录miflash的一些报错及解决方案，并保持更新~  </p>
-<h1 id="报错代码及解决方案"><a href="#报错代码及解决方案" class="headerlink" title="报错代码及解决方案"></a>报错代码及解决方案</h1><h2 id="error-FAILED-remote-Erase-is-not-allowed-in-Lock-State"><a href="#error-FAILED-remote-Erase-is-not-allowed-in-Lock-State" class="headerlink" title="error: FAILED (remote: Erase is not allowed in Lock State)"></a>error: FAILED (remote: Erase is not allowed in Lock State)</h2><h3 id="解决方案："><a href="#解决方案：" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
-<li>没有解除 BL 设备锁，小米线刷需要先完成 BL 解锁；   </li>
-<li>如果之前线刷不成功，由于线刷默认上了 BL 锁，只能重新进入 fastboot 模式重新解锁；   </li>
-<li>如果因为某些原因手机退出了小米帐号，又无法进入系统，这种情况只能送小米售后强刷；</li>
+        <h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，再boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
+<h1 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h1><p>Magisk分为了四个主要版本，分别是Magisk，Magisk Alpha，Magisk Delta，Magisk Canary，个人感觉只是功能不同，比如Magisk原版功能少但是可以保证稳定，Magisk Alpha和Magisk Delta自带了隐藏root功能，而且Magisk Delta的Zygisk和MagiskHide可以共存。几张图可以参考……<br><img src="/2023/01/20/15-05-26/a.jpg"><br><img src="/2023/01/20/15-05-26/a2.jpg"><br><img src="/2023/01/20/15-05-26/d.jpg"><br><img src="/2023/01/20/15-05-26/d2.jpg"><br><img src="/2023/01/20/15-05-26/y.jpg"><br><img src="/2023/01/20/15-05-26/y2.jpg">   </p>
+<h1 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h1><p>上述提到的四个版本都可以在Github上下载到，其中Magisk原版可以在酷安直接下载，也可以到Magisk的Github仓库下载（自备魔法），其他几个版本需要自己在酷安上找别人分享的下载链接，笔者只找到了TG频道的下载方式，没有找到其他的，欢迎各位大佬引路！<br>1.	Magisk：<a target="_blank" rel="noopener" href="https://github.com/topjohnwu/Magisk">点击访问</a><br>搬运地址：<a target="_blank" rel="noopener" href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/Android%E7%AB%AF/Magisk">点击访问</a><br>2.	Magisk Alpha：<a target="_blank" rel="noopener" href="https://t.me/magiskalpha">点击访问</a><br>3.	Magisk Delta：<a target="_blank" rel="noopener" href="https://t.me/magiskdelta">点击访问</a>   </p>
+<h1 id="刷入教程"><a href="#刷入教程" class="headerlink" title="刷入教程"></a>刷入教程</h1><h2 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h2><h3 id="提取boot-img"><a href="#提取boot-img" class="headerlink" title="提取boot.img"></a>提取<code>boot.img</code></h3><p>Magisk需要修补<code>boot.img</code>来获得权限，所以需要寻找<code>boot.img</code>，线刷包的<code>boot.img</code>一般在线刷包的<code>images</code>文件夹里面，直接拉出来就可以。<br><img src="/2023/01/20/15-05-26/xsb.jpg"><br>卡刷包的<code>boot.img</code>需要从<code>payload.bin</code>提取，流程如下：  </p>
+<ol>
+<li>下载解包工具<a target="_blank" rel="noopener" href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/PC%E7%AB%AF/payload_dumper-win64.zip">点击访问</a>   </li>
+<li>解压自己的卡刷包得到<code>payload.bin</code>，并将其放入工具的<code>payload_input</code>文件夹。<br><img src="/2023/01/20/15-05-26/jb.png"><br><img src="/2023/01/20/15-05-26/jb2.png"></li>
+<li>双击<code>exe</code>文件，等待<code>boot</code>出现后关闭窗口<br><img src="/2023/01/20/15-05-26/boot.png"></li>
+<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/dd.png"></li>
 </ol>
-<h2 id="error-FAILED-data-transfer-failure-Too-many-links"><a href="#error-FAILED-data-transfer-failure-Too-many-links" class="headerlink" title="error: FAILED (data transfer failure (Too many links))"></a>error: FAILED (data transfer failure (Too many links))</h2><h3 id="解决方案：-1"><a href="#解决方案：-1" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
-<li>可能需要更换电脑USB端口连接。如果可能，尽量使用USB2.0 端口操作；   </li>
-<li>更换USB数据线，尽量使用原装数据线，质量会好些；   </li>
-<li>关闭电脑防火墙等杀毒软件，排除潜在的干扰，以管理员身份运行小米线刷工具；</li>
+<h3 id="修补boot-img"><a href="#修补boot-img" class="headerlink" title="修补boot.img"></a>修补<code>boot.img</code></h3><p>将<code>boot.img</code>发送到手机，打开Magisk选择<code>安装</code>→<code>选择并修补一个文件</code>，选择你刚刚解包得到的<code>boot.img</code>，然后点击<code>安装</code>，这样就等到了被Magisk修补过的<code>boot.img</code>。<br><img src="/2023/01/20/15-05-26/xb.jpg"><br><img src="/2023/01/20/15-05-26/xb2.jpg"><br><img src="/2023/01/20/15-05-26/cq.jpg"><br><img src="/2023/01/20/15-05-26/wj.jpg"></p>
+<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在电脑上打开<code>adb</code>命令行，手机重启到fastboot引导模式，键入：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Fastboot flash boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件；<br>注意：如果你是vab分区设备，则不建议直接将<code>boot.img</code>文件刷入<code>boot</code>分区，需要使用使用以下命令来零时启动：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件。然后进入系统，此时root权限仍然存在，打开Magisk，点击<code>安装</code>→<code>直接安装（推荐）</code>→<code>开始</code>，随后根据提示重启即可。<br><img src="/2023/01/20/15-05-26/vab.jpg"></p>
+<h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>通过上述步骤就可以得到完整永久的root权限  </p>
+<h2 id="卡刷（不推荐）"><a href="#卡刷（不推荐）" class="headerlink" title="卡刷（不推荐）"></a>卡刷（不推荐）</h2><p>笔者刷机5年，不建议Magisk通过卡刷的方式刷入，而且Magisk的文档里从23.0开始就写到过不推荐卡刷，卡刷可能导致不稳定性和失败的可能。skkk（酷安@mi_block）也曾再讨论组里面提起过此事。刷入和卸载过程也十分简单，所以简述。<br><img src="/2023/01/20/15-05-26/skkk.jpg"></p>
+<h3 id="刷入："><a href="#刷入：" class="headerlink" title="刷入："></a>刷入：</h3><p>将下载到的<code>magisk.apk</code>更名为<code>magisk.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可安装获取root权限。</p>
+<h3 id="卸载："><a href="#卸载：" class="headerlink" title="卸载："></a>卸载：</h3><p>将<code>magisk.apk</code>更名为<code>uninstall.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可卸载Magisk。</p>
+<h1 id="升级保root教程"><a href="#升级保root教程" class="headerlink" title="升级保root教程"></a>升级保root教程</h1><p>手机升级的时候会更新系统的<code>boot.img</code>文件，所以需要让Magisk再修补一遍<code>boot.img</code>，然而，因为该过程的原理是修补未使用槽位系统里面的<code>boot.img</code>，所以only a分区机型无法使用这个方法。  </p>
+<ol>
+<li>下载全量（完整）卡刷包<br>因为增量包不完整，而且增量包的升级无法保证系统完整性，所以建议没有root升级的时候，也下载全量（完整）包。   </li>
+<li>等待系统提示安装完成之后不要同意系统给出的重启请求，打开Magisk，点击<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code><br><img src="/2023/01/20/15-05-26/ota.jpg"></li>
+<li>完成！</li>
 </ol>
-<h2 id="can-not-found-file-flash-all-lock-bat"><a href="#can-not-found-file-flash-all-lock-bat" class="headerlink" title="can not found file flash_all_lock.bat"></a>can not found file flash_all_lock.bat</h2><h3 id="解决方案：-2"><a href="#解决方案：-2" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
-<li>检查下载是否为线刷包，下载是否完整，有无完整解压，存放路径不要有中文或空格，也不要解压到U盘；   </li>
-<li>线刷工具界面选择正确解压文件夹路径，务必务必选择根目录；   </li>
-<li>检查下载的刷机包是否为线刷包（.tgz 后缀），并且确保已经完整解压（使用360压缩解压），在 MiFlash 选择的刷机文件路径没有错误（选择解压得到的文件夹，在这个目录下可以找到 flash_all_lock.bat 文件）；   </li>
-<li>如果是早期的小米手机，由于还没有 BL 锁，对应的刷机包也就没有这个加锁刷机脚本，这时在 MiFlash 界面右下角只能选择“全部删除”模式刷机才能刷机；</li>
+<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
+<li>注意<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code>这几步操作不能在没有系统更新的情况下操作，不然会卡米哟~</li>
 </ol>
-<h2 id="error-Antirollback-check-error"><a href="#error-Antirollback-check-error" class="headerlink" title="error: Antirollback check error"></a>error: Antirollback check error</h2><p>防回滚触发，请查阅注意事项</p>
-<h2 id="error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done"><a href="#error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done" class="headerlink" title="error:Not catch checkpoint ($fastboot -s .*lock), flash is not done"></a>error:Not catch checkpoint ($fastboot -s .*lock), flash is not done</h2><p>该错误可以忽略，实际不影响手机使用，可以正常开机</p>
-<h2 id="error-Missmatching-image-and-device-error"><a href="#error-Missmatching-image-and-device-error" class="headerlink" title="error: Missmatching image and device error"></a>error: Missmatching image and device error</h2><p>你下载错刷机包了，机型不对</p>
-<h2 id="error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file"><a href="#error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file" class="headerlink" title="error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)"></a>error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)</h2><p>手机与电脑连接不畅</p>
-<h3 id="解决方案：-3"><a href="#解决方案：-3" class="headerlink" title="解决方案："></a>解决方案：</h3><p>通常换个数据线或连接端口便可解决（建议优先使用原装数据线和电脑 USB2.0 端口）（很小很小概率遇到这个问题）  </p>
-<h2 id="fastboot-s-xxxx-getvar-product-2-gt-amp-1-findstr-x2F-r-x2F-c-”-mproduct-sagit”-echo-Missmatching-image-and-device"><a href="#fastboot-s-xxxx-getvar-product-2-gt-amp-1-findstr-x2F-r-x2F-c-”-mproduct-sagit”-echo-Missmatching-image-and-device" class="headerlink" title="$fastboot -s xxxx getvar product 2&gt;&amp;1 | findstr&#x2F;r &#x2F;c:” mproduct: *sagit”|| echo Missmatching image and device"></a>$fastboot -s xxxx getvar product 2&gt;&amp;1 | findstr&#x2F;r &#x2F;c:” mproduct: *sagit”|| echo Missmatching image and device</h2><p>手机与电脑连接不良导致</p>
-<h3 id="解决方案：-4"><a href="#解决方案：-4" class="headerlink" title="解决方案："></a>解决方案：</h3><p>重新插电脑，尝试换个 USB 端口或数据线</p>
-<h2 id="手机屏幕显示-press-any-key-to-shutdown-信息"><a href="#手机屏幕显示-press-any-key-to-shutdown-信息" class="headerlink" title="手机屏幕显示 press any key to shutdown 信息"></a>手机屏幕显示 press any key to shutdown 信息</h2><p>电脑识别设备失败</p>
-<h3 id="解决方案：-5"><a href="#解决方案：-5" class="headerlink" title="解决方案："></a>解决方案：</h3><p>更换电脑 USB 2.0 端口连接便可解决</p>
-<h2 id="加载设备提示-Length-cannot-be-less-than-zero-错误"><a href="#加载设备提示-Length-cannot-be-less-than-zero-错误" class="headerlink" title="加载设备提示 Length cannot be less than zero 错误"></a>加载设备提示 Length cannot be less than zero 错误</h2><p>电脑系统运行环境问题</p>
-<h3 id="解决方案：-6"><a href="#解决方案：-6" class="headerlink" title="解决方案："></a>解决方案：</h3><p>关闭防火墙软件、重新下载Mi-Flash运行、更换数据线和 USB 端口</p>
 
     </div>
 
@@ -324,7 +344,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="https://blog.reduction.one/2023/01/19/16-21-24/" title="miflash常见报错解决方案">https://blog.reduction.one/2023/01/19/16-21-24/</a>
+    <a href="https://blog.reduction.one/2023/01/20/15-05-26/" title="Magisk及刷入方式">https://blog.reduction.one/2023/01/20/15-05-26/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -346,13 +366,10 @@
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/2023/01/14/13-05-05/" rel="prev" title="Gapps简介及刷入方式">
-      <i class="fa fa-chevron-left"></i> Gapps简介及刷入方式
+    <a href="/2023/01/19/16-21-24/" rel="prev" title="miflash常见报错解决方案">
+      <i class="fa fa-chevron-left"></i> miflash常见报错解决方案
     </a></div>
-      <div class="post-nav-item">
-    <a href="/2023/01/20/15-05-26/" rel="next" title="Magisk及刷入方式">
-      Magisk及刷入方式 <i class="fa fa-chevron-right"></i>
-    </a></div>
+      <div class="post-nav-item"></div>
     </div>
       </footer>
     
@@ -416,7 +433,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-number">1.</span> <span class="nav-text">前言</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%8A%A5%E9%94%99%E4%BB%A3%E7%A0%81%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"><span class="nav-number">2.</span> <span class="nav-text">报错代码及解决方案</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#error-FAILED-remote-Erase-is-not-allowed-in-Lock-State"><span class="nav-number">2.1.</span> <span class="nav-text">error: FAILED (remote: Erase is not allowed in Lock State)</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9A"><span class="nav-number">2.1.1.</span> <span class="nav-text">解决方案：</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#error-FAILED-data-transfer-failure-Too-many-links"><span class="nav-number">2.2.</span> <span class="nav-text">error: FAILED (data transfer failure (Too many links))</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9A-1"><span class="nav-number">2.2.1.</span> <span class="nav-text">解决方案：</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#can-not-found-file-flash-all-lock-bat"><span class="nav-number">2.3.</span> <span class="nav-text">can not found file flash_all_lock.bat</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9A-2"><span class="nav-number">2.3.1.</span> <span class="nav-text">解决方案：</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#error-Antirollback-check-error"><span class="nav-number">2.4.</span> <span class="nav-text">error: Antirollback check error</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done"><span class="nav-number">2.5.</span> <span class="nav-text">error:Not catch checkpoint ($fastboot -s .*lock), flash is not done</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#error-Missmatching-image-and-device-error"><span class="nav-number">2.6.</span> <span class="nav-text">error: Missmatching image and device error</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#error-Sending-sparse-%E2%80%98xxx%E2%80%99-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file"><span class="nav-number">2.7.</span> <span class="nav-text">error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9A-3"><span class="nav-number">2.7.1.</span> <span class="nav-text">解决方案：</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#fastboot-s-xxxx-getvar-product-2-gt-amp-1-findstr-x2F-r-x2F-c-%E2%80%9D-mproduct-sagit%E2%80%9D-echo-Missmatching-image-and-device"><span class="nav-number">2.8.</span> <span class="nav-text">$fastboot -s xxxx getvar product 2&gt;&amp;1 | findstr&#x2F;r &#x2F;c:” mproduct: *sagit”|| echo Missmatching image and device</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9A-4"><span class="nav-number">2.8.1.</span> <span class="nav-text">解决方案：</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E6%98%BE%E7%A4%BA-press-any-key-to-shutdown-%E4%BF%A1%E6%81%AF"><span class="nav-number">2.9.</span> <span class="nav-text">手机屏幕显示 press any key to shutdown 信息</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9A-5"><span class="nav-number">2.9.1.</span> <span class="nav-text">解决方案：</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8A%A0%E8%BD%BD%E8%AE%BE%E5%A4%87%E6%8F%90%E7%A4%BA-Length-cannot-be-less-than-zero-%E9%94%99%E8%AF%AF"><span class="nav-number">2.10.</span> <span class="nav-text">加载设备提示 Length cannot be less than zero 错误</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9A-6"><span class="nav-number">2.10.1.</span> <span class="nav-text">解决方案：</span></a></li></ol></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AE%80%E4%BB%8B"><span class="nav-number">1.</span> <span class="nav-text">简介</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%89%88%E6%9C%AC"><span class="nav-number">2.</span> <span class="nav-text">版本</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%8E%B7%E5%8F%96"><span class="nav-number">3.</span> <span class="nav-text">获取</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%88%B7%E5%85%A5%E6%95%99%E7%A8%8B"><span class="nav-number">4.</span> <span class="nav-text">刷入教程</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BA%BF%E5%88%B7"><span class="nav-number">4.1.</span> <span class="nav-text">线刷</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%8F%90%E5%8F%96boot-img"><span class="nav-number">4.1.1.</span> <span class="nav-text">提取boot.img</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BF%AE%E8%A1%A5boot-img"><span class="nav-number">4.1.2.</span> <span class="nav-text">修补boot.img</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%B7%E5%85%A5"><span class="nav-number">4.1.3.</span> <span class="nav-text">刷入</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AE%8C%E6%88%90"><span class="nav-number">4.1.4.</span> <span class="nav-text">完成</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8D%A1%E5%88%B7%EF%BC%88%E4%B8%8D%E6%8E%A8%E8%8D%90%EF%BC%89"><span class="nav-number">4.2.</span> <span class="nav-text">卡刷（不推荐）</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%B7%E5%85%A5%EF%BC%9A"><span class="nav-number">4.2.1.</span> <span class="nav-text">刷入：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8D%B8%E8%BD%BD%EF%BC%9A"><span class="nav-number">4.2.2.</span> <span class="nav-text">卸载：</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8D%87%E7%BA%A7%E4%BF%9Droot%E6%95%99%E7%A8%8B"><span class="nav-number">5.</span> <span class="nav-text">升级保root教程</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E"><span class="nav-number">6.</span> <span class="nav-text">写在最后</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
