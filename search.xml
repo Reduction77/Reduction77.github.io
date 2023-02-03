@@ -1093,7 +1093,7 @@
   <entry>
     <title>Magisk及刷入方式</title>
     <url>/2023/01/20/15-05-26/</url>
-    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><img src="/2023/01/20/15-05-26/m.png"><br>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，再boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
+    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><img src="/2023/01/20/15-05-26/m.png"><br>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，在boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
 <h1 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h1><p>Magisk分为了四个主要版本，分别是Magisk，Magisk Alpha，Magisk Delta，Magisk Canary，个人感觉只是功能不同，比如Magisk原版功能少但是可以保证稳定，Magisk Alpha和Magisk Delta自带了隐藏root功能，而且Magisk Delta的Zygisk和MagiskHide可以共存。几张图可以参考……<br><img src="/2023/01/20/15-05-26/a.jpg"><br><img src="/2023/01/20/15-05-26/a2.jpg"><br><img src="/2023/01/20/15-05-26/d.jpg"><br><img src="/2023/01/20/15-05-26/d2.jpg"><br><img src="/2023/01/20/15-05-26/y.jpg"><br><img src="/2023/01/20/15-05-26/y2.jpg">   </p>
 <h1 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h1><p>上述提到的四个版本都可以在Github上下载到，其中Magisk原版可以在酷安直接下载，也可以到Magisk的Github仓库下载（自备魔法），其他几个版本需要自己在酷安上找别人分享的下载链接，笔者只找到了TG频道的下载方式，没有找到其他的，欢迎各位大佬引路！<br>1.	Magisk：<a href="https://github.com/topjohnwu/Magisk">点击访问</a><br>搬运地址：<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/Android%E7%AB%AF/Magisk">点击访问</a><br>2.	Magisk Alpha：<a href="https://t.me/magiskalpha">点击访问</a><br>3.	Magisk Delta：<a href="https://t.me/magiskdelta">点击访问</a>   </p>
 <h1 id="刷入教程"><a href="#刷入教程" class="headerlink" title="刷入教程"></a>刷入教程</h1><h2 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h2><h3 id="提取boot-img"><a href="#提取boot-img" class="headerlink" title="提取boot.img"></a>提取<code>boot.img</code></h3><p>Magisk需要修补<code>boot.img</code>来获得权限，所以需要寻找<code>boot.img</code>，线刷包的<code>boot.img</code>一般在线刷包的<code>images</code>文件夹里面，直接拉出来就可以。<br><img src="/2023/01/20/15-05-26/xsb.jpg"><br>卡刷包的<code>boot.img</code>需要从<code>payload.bin</code>提取，流程如下：  </p>
@@ -1131,6 +1131,36 @@
         <tag>教程</tag>
         <tag>玩机</tag>
         <tag>小米</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【转载】DSU及安装方案</title>
+    <url>/2023/02/03/12-47-21/</url>
+    <content><![CDATA[<h1 id="关于DSU"><a href="#关于DSU" class="headerlink" title="关于DSU"></a>关于DSU</h1><p>谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并<strong>不损伤你当前的现有系统</strong>，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！</p>
+<h1 id="条件"><a href="#条件" class="headerlink" title="条件"></a>条件</h1><p>首先你的手机需要Root且运行安卓11以上的系统（安卓10上的DSU功能有限，而且如果您使用的是国内定制系统，功能几乎被阉割殆尽），下载Treble Infor和DSU Sideloader，下载类原生ROM的GSI镜像，<strong>不要下载AOSP的增量包，因为不便于刷入；也不要下载Nippon GSI，这是从其他手机提取的ROM制作而成的GSI镜像文件，会损伤您的设备（水龙的MIUI14 安卓13使用的就是Nippon GSI适配的）</strong></p>
+<h1 id="查看VNDK版本"><a href="#查看VNDK版本" class="headerlink" title="查看VNDK版本"></a>查看VNDK版本</h1><p>打开Treble信息查看<br><img src="/2023/02/03/12-47-21/2.jpg"><br>您只能选择高于VNDK版本的GSI包，比如该设备显示的VNDK版本为，所以只能选择安卓13及以上的GSI刷入，需要注意的是，<strong>VNDK与安卓版本不一定是对应的，有些ROM在升级安卓底层的时候并不会升级VNDK版本，所以通过安卓版本判断VNDK版本是不可靠的！</strong></p>
+<h1 id="下载GSI"><a href="#下载GSI" class="headerlink" title="下载GSI"></a>下载GSI</h1><p>打开Treble信息查看上面显示的映像类型<br><img src="/2023/02/03/12-47-21/1.jpg"><br>进入<a href="https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list">该地址</a>挑选下载GSI。<br>GSI包一般有几种命名规格：如果下载页面有“silm”这种命名，那么普通版就是有GAPPS的版本；如果下载页面有“GAPPS”这种命名，那普通版就属于没有GAPPS的版本；另外还有一种bvN和bgN的版本号，v指vanila就是普通版，g指GAPPS就是带套件的版本。</p>
+<h1 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h1><ol>
+<li>打开DSU Sideloader并授予Root权限<br><img src="/2023/02/03/12-47-21/4.jpg"></li>
+<li>选择你下载的GSI镜像文件<br>（可以设置DSU用户空间大小，也就是DSU系统里的可用空间）   </li>
+<li>然后进入右上角“设置”，打开“使用内部安装器”，然后回到主页点击安装<br><img src="/2023/02/03/12-47-21/3.jpg"> </li>
+<li>安装结束后，如图，可以直接点击“重启”进入DSU系统</li>
+</ol>
+<h1 id="在DSU中使用Magisk"><a href="#在DSU中使用Magisk" class="headerlink" title="在DSU中使用Magisk"></a>在DSU中使用Magisk</h1><p>如果你需要在DSU里使用Magisk，直接安装Magisk App并按指示修复su即可正常使用</p>
+<h1 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h1><ol>
+<li>用过DSU之后回原来系统发现刷的Magisk模块咋全都被禁用了？使用DSU会被救砖模块判定为启动失败从而自动禁用所有xp模块，所以要么就手动切换模块开关，要么就禁用救砖模块   </li>
+<li>刷完镜像之后重启直接回原来系统或者不停转圈？多半是所用的GSI和vendor底包兼容性不好导致的，这多出现于使用手机原厂ROM的情况（笔者的EvoX GSI和本机ArrowOS使用的甚至是同一个设备树进行编译，所以底包兼容性极佳），可以考虑换一个不同的包进行测试，多测试几次应该就能找到能用的GSI包了</li>
+</ol>
+]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+        <category>转载</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>玩机</tag>
+        <tag>DSU</tag>
       </tags>
   </entry>
 </search>

@@ -20,18 +20,27 @@
     var CONFIG = {"hostname":"blog.reduction.one","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"always","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="慕君之心，至死方休">
-<meta property="og:type" content="website">
-<meta property="og:title" content="朱朱白白🍓博客">
-<meta property="og:url" content="https://blog.reduction.one/archives/2023/01/index.html">
+  <meta name="description" content="关于DSU谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并不损伤你当前的现有系统，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！ 条件">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【转载】DSU及安装方案">
+<meta property="og:url" content="https://blog.reduction.one/2023/02/03/12-47-21/index.html">
 <meta property="og:site_name" content="朱朱白白🍓博客">
-<meta property="og:description" content="慕君之心，至死方休">
+<meta property="og:description" content="关于DSU谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并不损伤你当前的现有系统，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！ 条件">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://blog.reduction.one/2023/02/03/12-47-21/2.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/02/03/12-47-21/1.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/02/03/12-47-21/4.jpg">
+<meta property="og:image" content="https://blog.reduction.one/2023/02/03/12-47-21/3.jpg">
+<meta property="article:published_time" content="2023-02-03T04:47:21.000Z">
+<meta property="article:modified_time" content="2023-02-03T05:06:51.272Z">
 <meta property="article:author" content="朱朱白白🍓">
+<meta property="article:tag" content="教程">
 <meta property="article:tag" content="玩机">
+<meta property="article:tag" content="DSU">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blog.reduction.one/2023/02/03/12-47-21/2.jpg">
 
-<link rel="canonical" href="https://blog.reduction.one/archives/2023/01/">
+<link rel="canonical" href="https://blog.reduction.one/2023/02/03/12-47-21/">
 
 
 <script id="page-configurations">
@@ -39,12 +48,12 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
 <link rel="stylesheet" href="https://lib.baomitu.com/social-share.js/1.0.16/css/share.min.css">
-  <title>归档 | 朱朱白白🍓博客</title>
+  <title>【转载】DSU及安装方案 | 朱朱白白🍓博客</title>
   
 
 
@@ -181,176 +190,197 @@
         <div class="content-wrap">
           
 
-          <div class="content archive">
+          <div class="content post posts-expand">
             
 
+    
   
   
-  
-  <div class="post-block">
-    <div class="posts-collapse">
-      <div class="collection-title">
-        <span class="collection-header">嗯..! 目前共计 8 篇文章。 继续努力。</span>
-      </div>
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://blog.reduction.one/2023/02/03/12-47-21/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/header.jpg">
+      <meta itemprop="name" content="朱朱白白🍓">
+      <meta itemprop="description" content="慕君之心，至死方休">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="朱朱白白🍓博客">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【转载】DSU及安装方案
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2023-02-03 12:47:21 / 修改时间：13:06:51" itemprop="dateCreated datePublished" datetime="2023-02-03T12:47:21+08:00">2023-02-03</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%95%B0%E7%A0%81/" itemprop="url" rel="index"><span itemprop="name">数码</span></a>
+                </span>
+                  ，
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%95%B0%E7%A0%81/%E6%95%99%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">教程</span></a>
+                </span>
+                  ，
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%BD%AC%E8%BD%BD/" itemprop="url" rel="index"><span itemprop="name">转载</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span><br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>1.1k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>1 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-    <div class="collection-year">
-      <span class="collection-header">2023</span>
+        <h1 id="关于DSU"><a href="#关于DSU" class="headerlink" title="关于DSU"></a>关于DSU</h1><p>谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并<strong>不损伤你当前的现有系统</strong>，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！</p>
+<h1 id="条件"><a href="#条件" class="headerlink" title="条件"></a>条件</h1><p>首先你的手机需要Root且运行安卓11以上的系统（安卓10上的DSU功能有限，而且如果您使用的是国内定制系统，功能几乎被阉割殆尽），下载Treble Infor和DSU Sideloader，下载类原生ROM的GSI镜像，<strong>不要下载AOSP的增量包，因为不便于刷入；也不要下载Nippon GSI，这是从其他手机提取的ROM制作而成的GSI镜像文件，会损伤您的设备（水龙的MIUI14 安卓13使用的就是Nippon GSI适配的）</strong></p>
+<h1 id="查看VNDK版本"><a href="#查看VNDK版本" class="headerlink" title="查看VNDK版本"></a>查看VNDK版本</h1><p>打开Treble信息查看<br><img src="/2023/02/03/12-47-21/2.jpg"><br>您只能选择高于VNDK版本的GSI包，比如该设备显示的VNDK版本为，所以只能选择安卓13及以上的GSI刷入，需要注意的是，<strong>VNDK与安卓版本不一定是对应的，有些ROM在升级安卓底层的时候并不会升级VNDK版本，所以通过安卓版本判断VNDK版本是不可靠的！</strong></p>
+<h1 id="下载GSI"><a href="#下载GSI" class="headerlink" title="下载GSI"></a>下载GSI</h1><p>打开Treble信息查看上面显示的映像类型<br><img src="/2023/02/03/12-47-21/1.jpg"><br>进入<a target="_blank" rel="noopener" href="https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list">该地址</a>挑选下载GSI。<br>GSI包一般有几种命名规格：如果下载页面有“silm”这种命名，那么普通版就是有GAPPS的版本；如果下载页面有“GAPPS”这种命名，那普通版就属于没有GAPPS的版本；另外还有一种bvN和bgN的版本号，v指vanila就是普通版，g指GAPPS就是带套件的版本。</p>
+<h1 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h1><ol>
+<li>打开DSU Sideloader并授予Root权限<br><img src="/2023/02/03/12-47-21/4.jpg"></li>
+<li>选择你下载的GSI镜像文件<br>（可以设置DSU用户空间大小，也就是DSU系统里的可用空间）   </li>
+<li>然后进入右上角“设置”，打开“使用内部安装器”，然后回到主页点击安装<br><img src="/2023/02/03/12-47-21/3.jpg"> </li>
+<li>安装结束后，如图，可以直接点击“重启”进入DSU系统</li>
+</ol>
+<h1 id="在DSU中使用Magisk"><a href="#在DSU中使用Magisk" class="headerlink" title="在DSU中使用Magisk"></a>在DSU中使用Magisk</h1><p>如果你需要在DSU里使用Magisk，直接安装Magisk App并按指示修复su即可正常使用</p>
+<h1 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h1><ol>
+<li>用过DSU之后回原来系统发现刷的Magisk模块咋全都被禁用了？使用DSU会被救砖模块判定为启动失败从而自动禁用所有xp模块，所以要么就手动切换模块开关，要么就禁用救砖模块   </li>
+<li>刷完镜像之后重启直接回原来系统或者不停转圈？多半是所用的GSI和vendor底包兼容性不好导致的，这多出现于使用手机原厂ROM的情况（笔者的EvoX GSI和本机ArrowOS使用的甚至是同一个设备树进行编译，所以底包兼容性极佳），可以考虑换一个不同的包进行测试，多测试几次应该就能找到能用的GSI包了</li>
+</ol>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-01-20T15:05:26+08:00"
-              content="2023-01-20">
-          01-20
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/01/20/15-05-26/" itemprop="url">
-            <span itemprop="name">Magisk及刷入方式</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-01-19T16:21:24+08:00"
-              content="2023-01-19">
-          01-19
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/01/19/16-21-24/" itemprop="url">
-            <span itemprop="name">miflash常见报错解决方案</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-01-14T13:05:05+08:00"
-              content="2023-01-14">
-          01-14
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/01/14/13-05-05/" itemprop="url">
-            <span itemprop="name">Gapps简介及刷入方式</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-01-13T18:14:03+08:00"
-              content="2023-01-13">
-          01-13
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/01/13/18-14-03/" itemprop="url">
-            <span itemprop="name">简述线刷和卡刷的刷机方式</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-01-10T15:32:14+08:00"
-              content="2023-01-10">
-          01-10
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/01/10/15-32-14/" itemprop="url">
-            <span itemprop="name">利用Cloudflare Workers路由为AlistV3实现反代加速OneDrive下载</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-01-09T20:13:38+08:00"
-              content="2023-01-09">
-          01-09
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/01/09/20-13-38/" itemprop="url">
-            <span itemprop="name">第三方Recovery及刷入方法</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-01-07T13:00:12+08:00"
-              content="2023-01-07">
-          01-07
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/01/07/13-00-12/" itemprop="url">
-            <span itemprop="name">小米设备代号表</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-
+    
+    
+    <div class="post-widgets">
+    <div
+      class="social-share"
+      
+        data-sites="weibo,qq,wechat,tencent,qzone"
+      
+      
+        data-wechat-qrcode-title="share.title"
+      
+      
+        data-wechat-qrcode-helper="share.prompt"
+      
+    >
     </div>
   </div>
-  
-  
-  
+  <script src="https://lib.baomitu.com/social-share.js/1.0.16/js/social-share.min.js"></script>
+        <div class="reward-container">
+  <div>喜欢的话，你会请我喝一杯奶茶咩？🍓</div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    当然会！
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="/images/wechatpay.png" alt="朱朱白白🍓 小而美">
+        <p>小而美</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="/images/alipay.png" alt="朱朱白白🍓 支付宝">
+        <p>支付宝</p>
+      </div>
 
+  </div>
+</div>
+
+        
+
+<div>
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者： </strong>朱朱白白🍓
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="https://blog.reduction.one/2023/02/03/12-47-21/" title="【转载】DSU及安装方案">https://blog.reduction.one/2023/02/03/12-47-21/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%95%99%E7%A8%8B/" rel="tag"># 教程</a>
+              <a href="/tags/%E7%8E%A9%E6%9C%BA/" rel="tag"># 玩机</a>
+              <a href="/tags/DSU/" rel="tag"># DSU</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2023/01/20/15-05-26/" rel="prev" title="Magisk及刷入方式">
+      <i class="fa fa-chevron-left"></i> Magisk及刷入方式
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
   
 
 
 
           </div>
           
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81Nzg4My8zNDM0Ng=="></div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -397,6 +427,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%B3%E4%BA%8EDSU"><span class="nav-number">1.</span> <span class="nav-text">关于DSU</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%9D%A1%E4%BB%B6"><span class="nav-number">2.</span> <span class="nav-text">条件</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%9F%A5%E7%9C%8BVNDK%E7%89%88%E6%9C%AC"><span class="nav-number">3.</span> <span class="nav-text">查看VNDK版本</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%8B%E8%BD%BDGSI"><span class="nav-number">4.</span> <span class="nav-text">下载GSI</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%88%B7%E5%85%A5"><span class="nav-number">5.</span> <span class="nav-text">刷入</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%9C%A8DSU%E4%B8%AD%E4%BD%BF%E7%94%A8Magisk"><span class="nav-number">6.</span> <span class="nav-text">在DSU中使用Magisk</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4"><span class="nav-number">7.</span> <span class="nav-text">故障排除</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -590,6 +621,21 @@
 
   
 
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
 
 </body>
 </html>
