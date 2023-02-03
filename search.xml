@@ -15,6 +15,10 @@
 <h2 id="设置AlistV3"><a href="#设置AlistV3" class="headerlink" title="设置AlistV3"></a>设置AlistV3</h2><p>在AlistV3的储存选项里，选择一个OneDrive储存器，在“下载代理URL”里填入刚刚的自定义域并开启“Web代理”选项，然后点击保存即可<br><img src="/2023/01/10/15-32-14/10.png"><br>接下来下载文件，就应该通过Workers路由了~</p>
 <h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><p>1.下载代理中转只会在你挂载的路径下生效；<br>2.这种方法理论上可以适用于其他网盘，但也许没必要，用在其他网盘上也有可能有被封号的风险；<br>3.体验进入<a href="https://wwl.pan-reduction.one/">网盘</a>下载文件即可</p>
 ]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>教程</tag>
         <tag>Cloudflare</tag>
@@ -867,6 +871,10 @@
 </tr>
 </tbody></table>
 ]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>玩机</tag>
         <tag>小米</tag>
@@ -908,6 +916,10 @@
 <li>有关于报错的详细分析，请参考另外一篇帖子，我之后会写~</li>
 </ol>
 ]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>教程</tag>
         <tag>玩机</tag>
@@ -970,6 +982,10 @@
 <li>Recovery需要与安卓版本对应才能成功解密（解密的密码一般是自己的锁屏密码），有些A12的Recovery也可用于A13，但是如果能找到A13的Recovery，就请使用A13的Recovery</li>
 </ol>
 ]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>教程</tag>
         <tag>玩机</tag>
@@ -1022,6 +1038,10 @@
 </li>
 </ol>
 ]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>教程</tag>
         <tag>玩机</tag>
@@ -1060,6 +1080,10 @@
 <h2 id="加载设备提示-Length-cannot-be-less-than-zero-错误"><a href="#加载设备提示-Length-cannot-be-less-than-zero-错误" class="headerlink" title="加载设备提示 Length cannot be less than zero 错误"></a>加载设备提示 Length cannot be less than zero 错误</h2><p>电脑系统运行环境问题</p>
 <h3 id="解决方案：-6"><a href="#解决方案：-6" class="headerlink" title="解决方案："></a>解决方案：</h3><p>关闭防火墙软件、重新下载Mi-Flash运行、更换数据线和 USB 端口</p>
 ]]></content>
+      <categories>
+        <category>数码</category>
+        <category>问题排查</category>
+      </categories>
       <tags>
         <tag>教程</tag>
         <tag>玩机</tag>
@@ -1099,6 +1123,10 @@
 <li>注意<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code>这几步操作不能在没有系统更新的情况下操作，不然会卡米哟~</li>
 </ol>
 ]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>教程</tag>
         <tag>玩机</tag>
