@@ -1102,7 +1102,6 @@
 <strong>注意：如果以上命令运行出错，请更新adb工具包或者使用以下命令</strong><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery_a xxx.img</span><br><span class="line">fastboot flash recovery_b xxx.img</span><br></pre></td></tr></table></figure></li>
 <li>重启到Recovery<br>请手动，或在cmd内键入以下命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
 <img src="/2023/01/09/20-13-38/cq.png">   </li>
-<li>固化Recovery<br>在Twrp高级里面选择刷入当前Twrp选项，然后重启Recovery<br><img src="/2023/01/09/20-13-38/gh.png"><br><img src="/2023/01/09/20-13-38/gh2.png"></li>
 <li>完成！</li>
 </ol>
 <h2 id="通过搞机助手刷入Recovery"><a href="#通过搞机助手刷入Recovery" class="headerlink" title="通过搞机助手刷入Recovery"></a>通过搞机助手刷入Recovery</h2><p>首先你需要在<a href="https://lsdy.top/">官网下载</a>搞机助手这个软件,该过程较为简单</p>
