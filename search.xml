@@ -180,6 +180,11 @@
 <li>安装结束后，如图，可以直接点击“重启”进入DSU系统</li>
 </ol>
 <h1 id="在DSU中使用Magisk"><a href="#在DSU中使用Magisk" class="headerlink" title="在DSU中使用Magisk"></a>在DSU中使用Magisk</h1><p>如果你需要在DSU里使用Magisk，直接安装Magisk App并按指示修复su即可正常使用</p>
+<h1 id="进阶玩法"><a href="#进阶玩法" class="headerlink" title="进阶玩法"></a>进阶玩法</h1><p>可以使用指令开启<strong>粘性模式</strong>，使手机重启后仍然回到DSU系统，你只需要在CMD中键入以下命令开启或关闭该模式：<br><strong>开启</strong>   </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool enable</span><br></pre></td></tr></table></figure>
+<p><strong>关闭</strong>    </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool disable</span><br></pre></td></tr></table></figure>
+
 <h1 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h1><ol>
 <li>用过DSU之后回原来系统发现刷的Magisk模块咋全都被禁用了？使用DSU会被救砖模块判定为启动失败从而自动禁用所有xp模块，所以要么就手动切换模块开关，要么就禁用救砖模块   </li>
 <li>刷完镜像之后重启直接回原来系统或者不停转圈？多半是所用的GSI和vendor底包兼容性不好导致的，这多出现于使用手机原厂ROM的情况（笔者的EvoX GSI和本机ArrowOS使用的甚至是同一个设备树进行编译，所以底包兼容性极佳），可以考虑换一个不同的包进行测试，多测试几次应该就能找到能用的GSI包了</li>
