@@ -20,20 +20,23 @@
     var CONFIG = {"hostname":"blog.reduction.one","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"always","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="简介Gapps全称为Google Apps Package，由于一些ROM没有内置谷歌服务框架，而我们有时候会用到，所以就需要刷入Gapps，简单的来说，刷入Gapps就可以使用谷歌服务了。目前主流的Gapps主要有OpenGapps和NikGapps，均采用Recovery刷入的方式。 OpenGapps">
+  <meta name="description" content="简介Gapps全称为Google Apps Package，谷歌要求每个Android设备制造商遵循兼容性定义文档(CDD)，通过兼容性测试套件(CTS)，这样他们就可以被允许预装谷歌应用程序和服务。然而，自定义ROM开发者不能轻易地将这些谷歌应用和服务与他们的构建捆绑在一起。由于这些应用没有使用Apache或GPLv2许可证，将它们捆绑在ROM中会带来法律上的挑战。这正是GApps包的用武之地。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Gapps简介及刷入方式">
 <meta property="og:url" content="https://blog.reduction.one/2023/01/14/13-05-05/index.html">
 <meta property="og:site_name" content="朱朱白白🍓博客">
-<meta property="og:description" content="简介Gapps全称为Google Apps Package，由于一些ROM没有内置谷歌服务框架，而我们有时候会用到，所以就需要刷入Gapps，简单的来说，刷入Gapps就可以使用谷歌服务了。目前主流的Gapps主要有OpenGapps和NikGapps，均采用Recovery刷入的方式。 OpenGapps">
+<meta property="og:description" content="简介Gapps全称为Google Apps Package，谷歌要求每个Android设备制造商遵循兼容性定义文档(CDD)，通过兼容性测试套件(CTS)，这样他们就可以被允许预装谷歌应用程序和服务。然而，自定义ROM开发者不能轻易地将这些谷歌应用和服务与他们的构建捆绑在一起。由于这些应用没有使用Apache或GPLv2许可证，将它们捆绑在ROM中会带来法律上的挑战。这正是GApps包的用武之地。">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/og.png">
 <meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/ng.png">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/FlameGapps.png">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/BiTGapps.png">
+<meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/LiteGapps.png">
 <meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/1.jpg">
 <meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/2.jpg">
 <meta property="og:image" content="https://blog.reduction.one/2023/01/14/13-05-05/3.jpg">
 <meta property="article:published_time" content="2023-01-14T05:05:05.000Z">
-<meta property="article:modified_time" content="2023-02-03T04:13:13.072Z">
+<meta property="article:modified_time" content="2023-02-14T09:52:43.398Z">
 <meta property="article:author" content="朱朱白白🍓">
 <meta property="article:tag" content="教程">
 <meta property="article:tag" content="玩机">
@@ -228,7 +231,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2023-02-03 12:13:13" itemprop="dateModified" datetime="2023-02-03T12:13:13+08:00">2023-02-03</time>
+                <time title="修改时间：2023-02-14 17:52:43" itemprop="dateModified" datetime="2023-02-14T17:52:43+08:00">2023-02-14</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -257,7 +260,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">本文字数：</span>
-              <span>3k</span>
+              <span>3.6k</span>
             </span>
             <span class="post-meta-item" title="阅读时长">
               <span class="post-meta-item-icon">
@@ -276,10 +279,15 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Gapps全称为Google Apps Package，由于一些ROM没有内置谷歌服务框架，而我们有时候会用到，所以就需要刷入Gapps，简单的来说，刷入Gapps就可以使用谷歌服务了。目前主流的Gapps主要有OpenGapps和NikGapps，均采用Recovery刷入的方式。</p>
-<h1 id="OpenGapps"><a href="#OpenGapps" class="headerlink" title="OpenGapps"></a>OpenGapps</h1><p><img src="/2023/01/14/13-05-05/og.png"><br>官网地址：<a target="_blank" rel="noopener" href="https://opengapps.org/">点击访问</a><br>OpenGapps比较老牌，但是他现在的版本只更新到A11版本，没有A12版本的Gapps。  </p>
-<h1 id="NikGapps"><a href="#NikGapps" class="headerlink" title="NikGapps"></a>NikGapps</h1><p><img src="/2023/01/14/13-05-05/ng.png"><br>官网地址：<a target="_blank" rel="noopener" href="https://nikgapps.com/">官网地址</a><br>搬运地址：<a target="_blank" rel="noopener" href="https://wwl.pan-reduction.one/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/NikGapps">点击访问</a><br>NikGapps仍在定期维护，支持A12、A12.1和A13  </p>
-<h1 id="各版本介绍"><a href="#各版本介绍" class="headerlink" title="各版本介绍"></a>各版本介绍</h1><h2 id="翻译-本人的理解介绍"><a href="#翻译-本人的理解介绍" class="headerlink" title="翻译+本人的理解介绍"></a>翻译+本人的理解介绍</h2><ol>
+        <h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Gapps全称为Google Apps Package，谷歌要求每个Android设备制造商遵循兼容性定义文档(CDD)，通过兼容性测试套件(CTS)，这样他们就可以被允许预装谷歌应用程序和服务。然而，自定义ROM开发者不能轻易地将这些谷歌应用和服务与他们的构建捆绑在一起。由于这些应用没有使用Apache或GPLv2许可证，将它们捆绑在ROM中会带来法律上的挑战。这正是GApps包的用武之地。GApps维护者依赖于构建脚本，这些脚本允许定期自动创建新的更新包。另一方面，ROM开发者通常以这样一种方式构建自定义ROM，最终用户可以在他们的构建之上闪现第三方GApps发行版，并无缝地获得使用谷歌Play Store或任何其他需要谷歌Play Services的应用程序的能力。</p>
+<p>请记住，<strong>谷歌应用程序不需要引导或运行大多数自定义rom。然而，许多用户发现它们有利于充分利用Android生态系统</strong>。<br><a target="_blank" rel="noopener" href="https://www.xda-developers.com/download-google-apps-gapps/">XDA上有关于Gapps的介绍和推荐</a></p>
+<h1 id="OpenGapps"><a href="#OpenGapps" class="headerlink" title="OpenGapps"></a>OpenGapps</h1><p><img src="/2023/01/14/13-05-05/og.png"><br>官网地址：<a target="_blank" rel="noopener" href="https://opengapps.org/">点击访问</a><br>OpenGapps比较老牌，但是他现在的官方版本只更新到A11版本，没有A12版本的Gapps。<br>支持安卓版本：4.4 ~ 11<br>支持平台：ARM, ARM64, x86, and x86_64   </p>
+<h1 id="NikGapps"><a href="#NikGapps" class="headerlink" title="NikGapps"></a>NikGapps</h1><p><img src="/2023/01/14/13-05-05/ng.png"><br>官网地址：<a target="_blank" rel="noopener" href="https://nikgapps.com/">点击访问</a><br>搬运地址：<a target="_blank" rel="noopener" href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Gapps">点击访问</a><br>支持安卓版本：10 ~ 13<br>支持平台：ARM64   </p>
+<h1 id="FlameGapps（ExLiteGApps）"><a href="#FlameGapps（ExLiteGApps）" class="headerlink" title="FlameGapps（ExLiteGApps）"></a>FlameGapps（ExLiteGApps）</h1><p><img src="/2023/01/14/13-05-05/FlameGapps.png"><br>官网地址：<a target="_blank" rel="noopener" href="https://flamegapps.github.io/download#downloads">点击访问</a><br>支持安卓版本：10 ~ 12.1<br>支持平台：ARM64   </p>
+<h1 id="BiTGapps"><a href="#BiTGapps" class="headerlink" title="BiTGapps"></a>BiTGapps</h1><p><img src="/2023/01/14/13-05-05/BiTGapps.png"><br>官网地址：<a target="_blank" rel="noopener" href="https://bitgapps.github.io/">点击访问</a><br>支持安卓版本：7.1.1 ~ 13 （不包括安卓12.1）<br>支持平台：ARM, ARM64<br><strong>注：可以当作Magisk模块挂载</strong>   </p>
+<h1 id="LiteGapps"><a href="#LiteGapps" class="headerlink" title="LiteGapps"></a>LiteGapps</h1><p><img src="/2023/01/14/13-05-05/LiteGapps.png"><br>官网地址：<a target="_blank" rel="noopener" href="https://litegapps.site/">点击访问</a><br>支持安卓版本：5.0 ~ 13<br>支持平台：ARM, ARM64<br><strong>注：可以当作Magisk模块挂载</strong></p>
+<h1 id="MindTheGapps"><a href="#MindTheGapps" class="headerlink" title="MindTheGapps"></a>MindTheGapps</h1><p>官网地址：<a target="_blank" rel="noopener" href="http://downloads.codefi.re/jdcteam/javelinanddart/gapps">点击访问</a><br>搬运地址：<a target="_blank" rel="noopener" href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Gapps">点击访问</a><br>支持安卓版本：10 ~ 13 （不包括安卓12.1）<br>支持平台：ARM, ARM64<br><strong>注：LineageOS官方推荐的Gapps类型，也用于LineageOS的Official构建中</strong></p>
+<h1 id="NikGapps各版本介绍"><a href="#NikGapps各版本介绍" class="headerlink" title="NikGapps各版本介绍"></a>NikGapps各版本介绍</h1><h2 id="翻译-本人的理解介绍"><a href="#翻译-本人的理解介绍" class="headerlink" title="翻译+本人的理解介绍"></a>翻译+本人的理解介绍</h2><ol>
 <li><p>Core<br>最小，如果你只想正常打开 Play Store 的话刷它足矣。包含 谷歌 Play Store 本体、谷歌移动服务核心、谷歌服务框架、谷歌备忘录同步服务、谷歌日历同步服务和其它谷歌应用必需的文件。  </p>
 </li>
 <li><p>Go<br>包括 Core 的所有内容，以及 谷歌助理精简版、谷歌相册精简版、谷歌邮箱精简版、谷歌搜索精简版、谷歌地图精简版、谷歌地图导航精简版（以上均非官方翻译，精简版即原版软件加上 Go）、Pixel Launcher、Device Personalization Services、Vanced Manager。  </p>
@@ -460,7 +468,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AE%80%E4%BB%8B"><span class="nav-number">1.</span> <span class="nav-text">简介</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#OpenGapps"><span class="nav-number">2.</span> <span class="nav-text">OpenGapps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#NikGapps"><span class="nav-number">3.</span> <span class="nav-text">NikGapps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%90%84%E7%89%88%E6%9C%AC%E4%BB%8B%E7%BB%8D"><span class="nav-number">4.</span> <span class="nav-text">各版本介绍</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BF%BB%E8%AF%91-%E6%9C%AC%E4%BA%BA%E7%9A%84%E7%90%86%E8%A7%A3%E4%BB%8B%E7%BB%8D"><span class="nav-number">4.1.</span> <span class="nav-text">翻译+本人的理解介绍</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%98%E7%BD%91%E7%9A%84%E4%BB%8B%E7%BB%8D%EF%BC%9A"><span class="nav-number">4.2.</span> <span class="nav-text">官网的介绍：</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%88%B7%E5%85%A5%E6%96%B9%E6%B3%95"><span class="nav-number">5.</span> <span class="nav-text">刷入方法</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9F%A5%E7%9C%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E5%8D%93%E7%89%88%E6%9C%AC"><span class="nav-number">5.1.</span> <span class="nav-text">查看设备安卓版本</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9F%A5%E7%9C%8B%E8%AE%BE%E5%A4%87%E6%9E%84%E6%9E%B6"><span class="nav-number">5.2.</span> <span class="nav-text">查看设备构架</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8B%E8%BD%BDGapps"><span class="nav-number">5.3.</span> <span class="nav-text">下载Gapps</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%B7%E5%85%A5"><span class="nav-number">5.4.</span> <span class="nav-text">刷入</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="nav-number">6.</span> <span class="nav-text">注意事项</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AE%80%E4%BB%8B"><span class="nav-number">1.</span> <span class="nav-text">简介</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#OpenGapps"><span class="nav-number">2.</span> <span class="nav-text">OpenGapps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#NikGapps"><span class="nav-number">3.</span> <span class="nav-text">NikGapps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#FlameGapps%EF%BC%88ExLiteGApps%EF%BC%89"><span class="nav-number">4.</span> <span class="nav-text">FlameGapps（ExLiteGApps）</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#BiTGapps"><span class="nav-number">5.</span> <span class="nav-text">BiTGapps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#LiteGapps"><span class="nav-number">6.</span> <span class="nav-text">LiteGapps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#MindTheGapps"><span class="nav-number">7.</span> <span class="nav-text">MindTheGapps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#NikGapps%E5%90%84%E7%89%88%E6%9C%AC%E4%BB%8B%E7%BB%8D"><span class="nav-number">8.</span> <span class="nav-text">NikGapps各版本介绍</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%BF%BB%E8%AF%91-%E6%9C%AC%E4%BA%BA%E7%9A%84%E7%90%86%E8%A7%A3%E4%BB%8B%E7%BB%8D"><span class="nav-number">8.1.</span> <span class="nav-text">翻译+本人的理解介绍</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%98%E7%BD%91%E7%9A%84%E4%BB%8B%E7%BB%8D%EF%BC%9A"><span class="nav-number">8.2.</span> <span class="nav-text">官网的介绍：</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%88%B7%E5%85%A5%E6%96%B9%E6%B3%95"><span class="nav-number">9.</span> <span class="nav-text">刷入方法</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9F%A5%E7%9C%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E5%8D%93%E7%89%88%E6%9C%AC"><span class="nav-number">9.1.</span> <span class="nav-text">查看设备安卓版本</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9F%A5%E7%9C%8B%E8%AE%BE%E5%A4%87%E6%9E%84%E6%9E%B6"><span class="nav-number">9.2.</span> <span class="nav-text">查看设备构架</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8B%E8%BD%BDGapps"><span class="nav-number">9.3.</span> <span class="nav-text">下载Gapps</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%B7%E5%85%A5"><span class="nav-number">9.4.</span> <span class="nav-text">刷入</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="nav-number">10.</span> <span class="nav-text">注意事项</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -605,12 +613,12 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="站点总字数">20k</span>
+    <span title="站点总字数">21k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="站点阅读时长">18 分钟</span>
+    <span title="站点阅读时长">19 分钟</span>
 </div>
   <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
   </div><script color="0,0,255" opacity="0.5" zIndex="-1" count="99" src="https://lib.baomitu.com/canvas-nest.js/1.0.1/canvas-nest.js"></script>
