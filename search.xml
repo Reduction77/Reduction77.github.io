@@ -20,6 +20,24 @@
       </tags>
   </entry>
   <entry>
+    <title>2023年4月15日更新汇总</title>
+    <url>/2023/04/16/00-49-46/</url>
+    <content><![CDATA[<h1 id="2023年4月15日更新内容"><a href="#2023年4月15日更新内容" class="headerlink" title="2023年4月15日更新内容"></a>2023年4月15日更新内容</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MiuiSR_Wiston_Alioth_Stable_Hotfix_02.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae74da6e65.png" alt="2.png"><br><code>AGNi_kernel-haydn-stable-v2.9-MIUI-ST</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae751e6972.png" alt="3.png"><br><code>OFFICIAL_MIUI Ori 14.0.3 EU V3 D10M4</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae7524506b.png" alt="1.png"><br><code>ALIOTH-IN_OP9Pro_LE2123_11.F.75_20230415</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae754dbd70.png" alt="4.png"><br><code>GhostDroid-13.4-20230415-alioth-v13.0</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae757f260d.png" alt="8.png"><br>&#96;&#96;<br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75917888.png" alt="5.png"><br><code>Meme Hub 13.0.6 final</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae759771dd.png" alt="7.png"><br><code>BootleggersROM-Tirimbino4munch.7.1-Stable-Unshishufied-GApps-20230414-130245</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75cb58a4.png" alt="9.png"><br><code>Cherish-OS-v4.7-20230414-1219-munch-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75d97cec.png" alt="10.png"><br><code>DerpFest-13-Community-Tango-munch-20230414-1444</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75f35688.png" alt="11.png"><br><code>PixelOS_alioth-13.0-20230415-0710</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75fe486b.png" alt="6.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2023年4月14日更新汇总</title>
     <url>/2023/04/15/00-52-35/</url>
     <content><![CDATA[<h1 id="2023年4月14日更新内容"><a href="#2023年4月14日更新内容" class="headerlink" title="2023年4月14日更新内容"></a>2023年4月14日更新内容</h1><p>来源：TG<br>内容：ROM</p>
@@ -31,24 +49,6 @@
 <h1 id="AwankenOS-v3-6源码更新"><a href="#AwankenOS-v3-6源码更新" class="headerlink" title="AwankenOS v3.6源码更新"></a>AwankenOS v3.6源码更新</h1><h3 id="New-features"><a href="#New-features" class="headerlink" title="New features:"></a>New features:</h3><p>• Do not skip fingerprint authentication for UDFPS<br>• Enabled media player wave&#x2F;shimmering effects<br>• Introduced new wallpaper for triton-void release<br>• Introduced UDFPS animation from NothingOS<br>• Merged hidden app with applock     </p>
 <h3 id="Fixed-issues"><a href="#Fixed-issues" class="headerlink" title="Fixed issues:"></a>Fixed issues:</h3><p>• Fixed Pixel launcher issues for tablet mode<br>• Misc fixes and improvements    </p>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MikuUI-TDA-odin-23041317-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985ca54eb6.png" alt="屏幕截图 2023-04-15 004838.png"><br><code>PixelOS_alioth-13.0-20230414-0407</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cad9b9b.png" alt="屏幕截图 2023-04-15 004822.png"><br><code>SuperiorOS-Thirteen-alioth-20230414-0310</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb0ecbb.png" alt="屏幕截图 2023-04-15 004852.png"><br><code>dEaD sHot edition14.0.2 id stable</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb2df79.png" alt="屏幕截图 2023-04-15 004906.png"><br><code>DerpFest-13-Community-Tango-haydn-20230413-2029</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb8e219.png" alt="屏幕截图 2023-04-15 005134.png"><br><code>alioth_beta-upb1.230309.014-Pixel5-v1</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cba05d2.png" alt="屏幕截图 2023-04-15 005205.png">    </p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月15日更新汇总</title>
-    <url>/2023/04/16/00-49-46/</url>
-    <content><![CDATA[<h1 id="2023年4月15日更新内容"><a href="#2023年4月15日更新内容" class="headerlink" title="2023年4月15日更新内容"></a>2023年4月15日更新内容</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MiuiSR_Wiston_Alioth_Stable_Hotfix_02.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae74da6e65.png" alt="2.png"><br><code>AGNi_kernel-haydn-stable-v2.9-MIUI-ST</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae751e6972.png" alt="3.png"><br><code>OFFICIAL_MIUI Ori 14.0.3 EU V3 D10M4</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae7524506b.png" alt="1.png"><br><code>ALIOTH-IN_OP9Pro_LE2123_11.F.75_20230415</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae754dbd70.png" alt="4.png"><br><code>GhostDroid-13.4-20230415-alioth-v13.0</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae757f260d.png" alt="8.png"><br>&#96;&#96;<br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75917888.png" alt="5.png"><br><code>Meme Hub 13.0.6 final</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae759771dd.png" alt="7.png"><br><code>BootleggersROM-Tirimbino4munch.7.1-Stable-Unshishufied-GApps-20230414-130245</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75cb58a4.png" alt="9.png"><br><code>Cherish-OS-v4.7-20230414-1219-munch-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75d97cec.png" alt="10.png"><br><code>DerpFest-13-Community-Tango-munch-20230414-1444</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75f35688.png" alt="11.png"><br><code>PixelOS_alioth-13.0-20230415-0710</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75fe486b.png" alt="6.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -80,6 +80,48 @@
         <tag>教程</tag>
         <tag>Cloudflare</tag>
         <tag>Alist</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>miflash常见报错解决方案</title>
+    <url>/2023/01/19/16-21-24/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文用来收录miflash的一些报错及解决方案，并保持更新~  </p>
+<h1 id="报错代码及解决方案"><a href="#报错代码及解决方案" class="headerlink" title="报错代码及解决方案"></a>报错代码及解决方案</h1><h2 id="error-FAILED-remote-Erase-is-not-allowed-in-Lock-State"><a href="#error-FAILED-remote-Erase-is-not-allowed-in-Lock-State" class="headerlink" title="error: FAILED (remote: Erase is not allowed in Lock State)"></a>error: FAILED (remote: Erase is not allowed in Lock State)</h2><h3 id="解决方案："><a href="#解决方案：" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
+<li>没有解除 BL 设备锁，小米线刷需要先完成 BL 解锁；   </li>
+<li>如果之前线刷不成功，由于线刷默认上了 BL 锁，只能重新进入 fastboot 模式重新解锁；   </li>
+<li>如果因为某些原因手机退出了小米帐号，又无法进入系统，这种情况只能送小米售后强刷；</li>
+</ol>
+<h2 id="error-FAILED-data-transfer-failure-Too-many-links"><a href="#error-FAILED-data-transfer-failure-Too-many-links" class="headerlink" title="error: FAILED (data transfer failure (Too many links))"></a>error: FAILED (data transfer failure (Too many links))</h2><h3 id="解决方案：-1"><a href="#解决方案：-1" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
+<li>可能需要更换电脑USB端口连接。如果可能，尽量使用USB2.0 端口操作；   </li>
+<li>更换USB数据线，尽量使用原装数据线，质量会好些；   </li>
+<li>关闭电脑防火墙等杀毒软件，排除潜在的干扰，以管理员身份运行小米线刷工具；</li>
+</ol>
+<h2 id="can-not-found-file-flash-all-lock-bat"><a href="#can-not-found-file-flash-all-lock-bat" class="headerlink" title="can not found file flash_all_lock.bat"></a>can not found file flash_all_lock.bat</h2><h3 id="解决方案：-2"><a href="#解决方案：-2" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
+<li>检查下载是否为线刷包，下载是否完整，有无完整解压，存放路径不要有中文或空格，也不要解压到U盘；   </li>
+<li>线刷工具界面选择正确解压文件夹路径，务必务必选择根目录；   </li>
+<li>检查下载的刷机包是否为线刷包（.tgz 后缀），并且确保已经完整解压（使用360压缩解压），在 MiFlash 选择的刷机文件路径没有错误（选择解压得到的文件夹，在这个目录下可以找到 flash_all_lock.bat 文件）；   </li>
+<li>如果是早期的小米手机，由于还没有 BL 锁，对应的刷机包也就没有这个加锁刷机脚本，这时在 MiFlash 界面右下角只能选择“全部删除”模式刷机才能刷机；</li>
+</ol>
+<h2 id="error-Antirollback-check-error"><a href="#error-Antirollback-check-error" class="headerlink" title="error: Antirollback check error"></a>error: Antirollback check error</h2><p>防回滚触发，参考乌堆大佬的解决方案（我也不知道帖子链接了，欢迎各位大佬引路~）</p>
+<h2 id="error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done"><a href="#error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done" class="headerlink" title="error:Not catch checkpoint ($fastboot -s .*lock), flash is not done"></a>error:Not catch checkpoint ($fastboot -s .*lock), flash is not done</h2><p>该错误可以忽略，实际不影响手机使用，可以正常开机</p>
+<h2 id="error-Missmatching-image-and-device-error"><a href="#error-Missmatching-image-and-device-error" class="headerlink" title="error: Missmatching image and device error"></a>error: Missmatching image and device error</h2><p>你下载错刷机包了，机型不对</p>
+<h2 id="error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file"><a href="#error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file" class="headerlink" title="error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)"></a>error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)</h2><p>手机与电脑连接不畅</p>
+<h3 id="解决方案：-3"><a href="#解决方案：-3" class="headerlink" title="解决方案："></a>解决方案：</h3><p>通常换个数据线或连接端口便可解决（建议优先使用原装数据线和电脑 USB2.0 端口）（很小很小概率遇到这个问题）  </p>
+<h2 id="fastboot-s-xxxx-getvar-product-2-gt-amp-1-findstr-x2F-r-x2F-c-”-mproduct-sagit”-echo-Missmatching-image-and-device"><a href="#fastboot-s-xxxx-getvar-product-2-gt-amp-1-findstr-x2F-r-x2F-c-”-mproduct-sagit”-echo-Missmatching-image-and-device" class="headerlink" title="$fastboot -s xxxx getvar product 2&gt;&amp;1 | findstr&#x2F;r &#x2F;c:” mproduct: *sagit”|| echo Missmatching image and device"></a>$fastboot -s xxxx getvar product 2&gt;&amp;1 | findstr&#x2F;r &#x2F;c:” mproduct: *sagit”|| echo Missmatching image and device</h2><p>手机与电脑连接不良导致</p>
+<h3 id="解决方案：-4"><a href="#解决方案：-4" class="headerlink" title="解决方案："></a>解决方案：</h3><p>重新插电脑，尝试换个 USB 端口或数据线</p>
+<h2 id="手机屏幕显示-press-any-key-to-shutdown-信息"><a href="#手机屏幕显示-press-any-key-to-shutdown-信息" class="headerlink" title="手机屏幕显示 press any key to shutdown 信息"></a>手机屏幕显示 press any key to shutdown 信息</h2><p>电脑识别设备失败</p>
+<h3 id="解决方案：-5"><a href="#解决方案：-5" class="headerlink" title="解决方案："></a>解决方案：</h3><p>更换电脑 USB 2.0 端口连接便可解决</p>
+<h2 id="加载设备提示-Length-cannot-be-less-than-zero-错误"><a href="#加载设备提示-Length-cannot-be-less-than-zero-错误" class="headerlink" title="加载设备提示 Length cannot be less than zero 错误"></a>加载设备提示 Length cannot be less than zero 错误</h2><p>电脑系统运行环境问题</p>
+<h3 id="解决方案：-6"><a href="#解决方案：-6" class="headerlink" title="解决方案："></a>解决方案：</h3><p>关闭防火墙软件、重新下载Mi-Flash运行、更换数据线和 USB 端口</p>
+]]></content>
+      <categories>
+        <category>数码</category>
+        <category>问题排查</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>玩机</tag>
+        <tag>小米</tag>
       </tags>
   </entry>
   <entry>
@@ -219,48 +261,6 @@
         <tag>教程</tag>
         <tag>玩机</tag>
         <tag>DSU</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>miflash常见报错解决方案</title>
-    <url>/2023/01/19/16-21-24/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文用来收录miflash的一些报错及解决方案，并保持更新~  </p>
-<h1 id="报错代码及解决方案"><a href="#报错代码及解决方案" class="headerlink" title="报错代码及解决方案"></a>报错代码及解决方案</h1><h2 id="error-FAILED-remote-Erase-is-not-allowed-in-Lock-State"><a href="#error-FAILED-remote-Erase-is-not-allowed-in-Lock-State" class="headerlink" title="error: FAILED (remote: Erase is not allowed in Lock State)"></a>error: FAILED (remote: Erase is not allowed in Lock State)</h2><h3 id="解决方案："><a href="#解决方案：" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
-<li>没有解除 BL 设备锁，小米线刷需要先完成 BL 解锁；   </li>
-<li>如果之前线刷不成功，由于线刷默认上了 BL 锁，只能重新进入 fastboot 模式重新解锁；   </li>
-<li>如果因为某些原因手机退出了小米帐号，又无法进入系统，这种情况只能送小米售后强刷；</li>
-</ol>
-<h2 id="error-FAILED-data-transfer-failure-Too-many-links"><a href="#error-FAILED-data-transfer-failure-Too-many-links" class="headerlink" title="error: FAILED (data transfer failure (Too many links))"></a>error: FAILED (data transfer failure (Too many links))</h2><h3 id="解决方案：-1"><a href="#解决方案：-1" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
-<li>可能需要更换电脑USB端口连接。如果可能，尽量使用USB2.0 端口操作；   </li>
-<li>更换USB数据线，尽量使用原装数据线，质量会好些；   </li>
-<li>关闭电脑防火墙等杀毒软件，排除潜在的干扰，以管理员身份运行小米线刷工具；</li>
-</ol>
-<h2 id="can-not-found-file-flash-all-lock-bat"><a href="#can-not-found-file-flash-all-lock-bat" class="headerlink" title="can not found file flash_all_lock.bat"></a>can not found file flash_all_lock.bat</h2><h3 id="解决方案：-2"><a href="#解决方案：-2" class="headerlink" title="解决方案："></a>解决方案：</h3><ol>
-<li>检查下载是否为线刷包，下载是否完整，有无完整解压，存放路径不要有中文或空格，也不要解压到U盘；   </li>
-<li>线刷工具界面选择正确解压文件夹路径，务必务必选择根目录；   </li>
-<li>检查下载的刷机包是否为线刷包（.tgz 后缀），并且确保已经完整解压（使用360压缩解压），在 MiFlash 选择的刷机文件路径没有错误（选择解压得到的文件夹，在这个目录下可以找到 flash_all_lock.bat 文件）；   </li>
-<li>如果是早期的小米手机，由于还没有 BL 锁，对应的刷机包也就没有这个加锁刷机脚本，这时在 MiFlash 界面右下角只能选择“全部删除”模式刷机才能刷机；</li>
-</ol>
-<h2 id="error-Antirollback-check-error"><a href="#error-Antirollback-check-error" class="headerlink" title="error: Antirollback check error"></a>error: Antirollback check error</h2><p>防回滚触发，参考乌堆大佬的解决方案（我也不知道帖子链接了，欢迎各位大佬引路~）</p>
-<h2 id="error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done"><a href="#error-Not-catch-checkpoint-fastboot-s-lock-flash-is-not-done" class="headerlink" title="error:Not catch checkpoint ($fastboot -s .*lock), flash is not done"></a>error:Not catch checkpoint ($fastboot -s .*lock), flash is not done</h2><p>该错误可以忽略，实际不影响手机使用，可以正常开机</p>
-<h2 id="error-Missmatching-image-and-device-error"><a href="#error-Missmatching-image-and-device-error" class="headerlink" title="error: Missmatching image and device error"></a>error: Missmatching image and device error</h2><p>你下载错刷机包了，机型不对</p>
-<h2 id="error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file"><a href="#error-Sending-sparse-‘xxx’-x-x2F-x-xxx-KB-FAILED-Error-reading-sparse-file" class="headerlink" title="error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)"></a>error: Sending sparse ‘xxx’ x&#x2F;x (xxx KB) FAILED (Error reading sparse file)</h2><p>手机与电脑连接不畅</p>
-<h3 id="解决方案：-3"><a href="#解决方案：-3" class="headerlink" title="解决方案："></a>解决方案：</h3><p>通常换个数据线或连接端口便可解决（建议优先使用原装数据线和电脑 USB2.0 端口）（很小很小概率遇到这个问题）  </p>
-<h2 id="fastboot-s-xxxx-getvar-product-2-gt-amp-1-findstr-x2F-r-x2F-c-”-mproduct-sagit”-echo-Missmatching-image-and-device"><a href="#fastboot-s-xxxx-getvar-product-2-gt-amp-1-findstr-x2F-r-x2F-c-”-mproduct-sagit”-echo-Missmatching-image-and-device" class="headerlink" title="$fastboot -s xxxx getvar product 2&gt;&amp;1 | findstr&#x2F;r &#x2F;c:” mproduct: *sagit”|| echo Missmatching image and device"></a>$fastboot -s xxxx getvar product 2&gt;&amp;1 | findstr&#x2F;r &#x2F;c:” mproduct: *sagit”|| echo Missmatching image and device</h2><p>手机与电脑连接不良导致</p>
-<h3 id="解决方案：-4"><a href="#解决方案：-4" class="headerlink" title="解决方案："></a>解决方案：</h3><p>重新插电脑，尝试换个 USB 端口或数据线</p>
-<h2 id="手机屏幕显示-press-any-key-to-shutdown-信息"><a href="#手机屏幕显示-press-any-key-to-shutdown-信息" class="headerlink" title="手机屏幕显示 press any key to shutdown 信息"></a>手机屏幕显示 press any key to shutdown 信息</h2><p>电脑识别设备失败</p>
-<h3 id="解决方案：-5"><a href="#解决方案：-5" class="headerlink" title="解决方案："></a>解决方案：</h3><p>更换电脑 USB 2.0 端口连接便可解决</p>
-<h2 id="加载设备提示-Length-cannot-be-less-than-zero-错误"><a href="#加载设备提示-Length-cannot-be-less-than-zero-错误" class="headerlink" title="加载设备提示 Length cannot be less than zero 错误"></a>加载设备提示 Length cannot be less than zero 错误</h2><p>电脑系统运行环境问题</p>
-<h3 id="解决方案：-6"><a href="#解决方案：-6" class="headerlink" title="解决方案："></a>解决方案：</h3><p>关闭防火墙软件、重新下载Mi-Flash运行、更换数据线和 USB 端口</p>
-]]></content>
-      <categories>
-        <category>数码</category>
-        <category>问题排查</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>玩机</tag>
-        <tag>小米</tag>
       </tags>
   </entry>
   <entry>
