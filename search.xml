@@ -20,24 +20,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月15日更新汇总</title>
-    <url>/2023/04/16/00-49-46/</url>
-    <content><![CDATA[<h1 id="2023年4月15日更新内容"><a href="#2023年4月15日更新内容" class="headerlink" title="2023年4月15日更新内容"></a>2023年4月15日更新内容</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MiuiSR_Wiston_Alioth_Stable_Hotfix_02.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae74da6e65.png" alt="2.png"><br><code>AGNi_kernel-haydn-stable-v2.9-MIUI-ST</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae751e6972.png" alt="3.png"><br><code>OFFICIAL_MIUI Ori 14.0.3 EU V3 D10M4</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae7524506b.png" alt="1.png"><br><code>ALIOTH-IN_OP9Pro_LE2123_11.F.75_20230415</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae754dbd70.png" alt="4.png"><br><code>GhostDroid-13.4-20230415-alioth-v13.0</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae757f260d.png" alt="8.png"><br>&#96;&#96;<br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75917888.png" alt="5.png"><br><code>Meme Hub 13.0.6 final</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae759771dd.png" alt="7.png"><br><code>BootleggersROM-Tirimbino4munch.7.1-Stable-Unshishufied-GApps-20230414-130245</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75cb58a4.png" alt="9.png"><br><code>Cherish-OS-v4.7-20230414-1219-munch-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75d97cec.png" alt="10.png"><br><code>DerpFest-13-Community-Tango-munch-20230414-1444</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75f35688.png" alt="11.png"><br><code>PixelOS_alioth-13.0-20230415-0710</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75fe486b.png" alt="6.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2023年4月14日更新汇总</title>
     <url>/2023/04/15/00-52-35/</url>
     <content><![CDATA[<h1 id="2023年4月14日更新内容"><a href="#2023年4月14日更新内容" class="headerlink" title="2023年4月14日更新内容"></a>2023年4月14日更新内容</h1><p>来源：TG<br>内容：ROM</p>
@@ -49,6 +31,24 @@
 <h1 id="AwankenOS-v3-6源码更新"><a href="#AwankenOS-v3-6源码更新" class="headerlink" title="AwankenOS v3.6源码更新"></a>AwankenOS v3.6源码更新</h1><h3 id="New-features"><a href="#New-features" class="headerlink" title="New features:"></a>New features:</h3><p>• Do not skip fingerprint authentication for UDFPS<br>• Enabled media player wave&#x2F;shimmering effects<br>• Introduced new wallpaper for triton-void release<br>• Introduced UDFPS animation from NothingOS<br>• Merged hidden app with applock     </p>
 <h3 id="Fixed-issues"><a href="#Fixed-issues" class="headerlink" title="Fixed issues:"></a>Fixed issues:</h3><p>• Fixed Pixel launcher issues for tablet mode<br>• Misc fixes and improvements    </p>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MikuUI-TDA-odin-23041317-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985ca54eb6.png" alt="屏幕截图 2023-04-15 004838.png"><br><code>PixelOS_alioth-13.0-20230414-0407</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cad9b9b.png" alt="屏幕截图 2023-04-15 004822.png"><br><code>SuperiorOS-Thirteen-alioth-20230414-0310</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb0ecbb.png" alt="屏幕截图 2023-04-15 004852.png"><br><code>dEaD sHot edition14.0.2 id stable</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb2df79.png" alt="屏幕截图 2023-04-15 004906.png"><br><code>DerpFest-13-Community-Tango-haydn-20230413-2029</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb8e219.png" alt="屏幕截图 2023-04-15 005134.png"><br><code>alioth_beta-upb1.230309.014-Pixel5-v1</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cba05d2.png" alt="屏幕截图 2023-04-15 005205.png">    </p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月15日更新汇总</title>
+    <url>/2023/04/16/00-49-46/</url>
+    <content><![CDATA[<h1 id="2023年4月15日更新内容"><a href="#2023年4月15日更新内容" class="headerlink" title="2023年4月15日更新内容"></a>2023年4月15日更新内容</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MiuiSR_Wiston_Alioth_Stable_Hotfix_02.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae74da6e65.png" alt="2.png"><br><code>AGNi_kernel-haydn-stable-v2.9-MIUI-ST</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae751e6972.png" alt="3.png"><br><code>OFFICIAL_MIUI Ori 14.0.3 EU V3 D10M4</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae7524506b.png" alt="1.png"><br><code>ALIOTH-IN_OP9Pro_LE2123_11.F.75_20230415</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae754dbd70.png" alt="4.png"><br><code>GhostDroid-13.4-20230415-alioth-v13.0</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae757f260d.png" alt="8.png"><br>&#96;&#96;<br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75917888.png" alt="5.png"><br><code>Meme Hub 13.0.6 final</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae759771dd.png" alt="7.png"><br><code>BootleggersROM-Tirimbino4munch.7.1-Stable-Unshishufied-GApps-20230414-130245</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75cb58a4.png" alt="9.png"><br><code>Cherish-OS-v4.7-20230414-1219-munch-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75d97cec.png" alt="10.png"><br><code>DerpFest-13-Community-Tango-munch-20230414-1444</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75f35688.png" alt="11.png"><br><code>PixelOS_alioth-13.0-20230415-0710</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75fe486b.png" alt="6.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -187,6 +187,41 @@
       </tags>
   </entry>
   <entry>
+    <title>【转载】DSU及安装方案</title>
+    <url>/2023/02/03/12-47-21/</url>
+    <content><![CDATA[<h1 id="关于DSU"><a href="#关于DSU" class="headerlink" title="关于DSU"></a>关于DSU</h1><p>谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并<strong>不损伤你当前的现有系统</strong>，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！</p>
+<h1 id="条件"><a href="#条件" class="headerlink" title="条件"></a>条件</h1><p>首先你的手机需要Root且运行安卓11以上的系统（安卓10上的DSU功能有限，而且如果您使用的是国内定制系统，功能几乎被阉割殆尽），下载Treble Infor和DSU Sideloader，下载类原生ROM的GSI镜像，<strong>不要下载AOSP的增量包，因为不便于刷入；也不要下载Nippon GSI，这是从其他手机提取的ROM制作而成的GSI镜像文件，会损伤您的设备（水龙的MIUI14 安卓13使用的就是Nippon GSI适配的）</strong></p>
+<h1 id="查看VNDK版本"><a href="#查看VNDK版本" class="headerlink" title="查看VNDK版本"></a>查看VNDK版本</h1><p>打开Treble信息查看<br><img src="/2023/02/03/12-47-21/2.jpg"><br>您只能选择高于VNDK版本的GSI包，比如该设备显示的VNDK版本为31，所以只能选择安卓12及以上的GSI刷入，需要注意的是，<strong>VNDK与安卓版本不一定是对应的，有些ROM在升级安卓底层的时候并不会升级VNDK版本，所以通过安卓版本判断VNDK版本是不可靠的！</strong></p>
+<h1 id="下载GSI"><a href="#下载GSI" class="headerlink" title="下载GSI"></a>下载GSI</h1><p>打开Treble信息查看上面显示的映像类型<br><img src="/2023/02/03/12-47-21/1.jpg"><br>进入<a href="https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list">该地址</a>挑选下载GSI。<br>GSI包一般有几种命名规格：如果下载页面有“silm”这种命名，那么普通版就是有GAPPS的版本；如果下载页面有“GAPPS”这种命名，那普通版就属于没有GAPPS的版本；另外还有一种bvN和bgN的版本号，v指vanila就是普通版，g指GAPPS就是带套件的版本。</p>
+<h1 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h1><ol>
+<li>打开DSU Sideloader并授予Root权限<br><img src="/2023/02/03/12-47-21/4.jpg"></li>
+<li>选择你下载的GSI镜像文件<br>（可以设置DSU用户空间大小，也就是DSU系统里的可用空间）   </li>
+<li>然后进入右上角“设置”，打开“使用内部安装器”，然后回到主页点击安装<br><img src="/2023/02/03/12-47-21/3.jpg"> </li>
+<li>安装结束后，如图，可以直接点击“重启”进入DSU系统</li>
+</ol>
+<h1 id="在DSU中使用Magisk"><a href="#在DSU中使用Magisk" class="headerlink" title="在DSU中使用Magisk"></a>在DSU中使用Magisk</h1><p>如果你需要在DSU里使用Magisk，直接安装Magisk App并按指示修复su即可正常使用</p>
+<h1 id="进阶玩法"><a href="#进阶玩法" class="headerlink" title="进阶玩法"></a>进阶玩法</h1><p>可以使用指令开启<strong>粘性模式</strong>，使手机重启后仍然回到DSU系统，你只需要在CMD中键入以下命令开启或关闭该模式：<br><strong>开启</strong>   </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool enable</span><br></pre></td></tr></table></figure>
+<p><strong>关闭</strong>    </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool disable</span><br></pre></td></tr></table></figure>
+
+<h1 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h1><ol>
+<li>用过DSU之后回原来系统发现刷的Magisk模块咋全都被禁用了？使用DSU会被救砖模块判定为启动失败从而自动禁用所有xp模块，所以要么就手动切换模块开关，要么就禁用救砖模块   </li>
+<li>刷完镜像之后重启直接回原来系统或者不停转圈？多半是所用的GSI和vendor底包兼容性不好导致的，这多出现于使用手机原厂ROM的情况（笔者的EvoX GSI和本机ArrowOS使用的甚至是同一个设备树进行编译，所以底包兼容性极佳），可以考虑换一个不同的包进行测试，多测试几次应该就能找到能用的GSI包了</li>
+</ol>
+]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+        <category>转载</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>玩机</tag>
+        <tag>DSU</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>miflash常见报错解决方案</title>
     <url>/2023/01/19/16-21-24/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文用来收录miflash的一些报错及解决方案，并保持更新~  </p>
@@ -226,41 +261,6 @@
         <tag>教程</tag>
         <tag>玩机</tag>
         <tag>小米</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【转载】DSU及安装方案</title>
-    <url>/2023/02/03/12-47-21/</url>
-    <content><![CDATA[<h1 id="关于DSU"><a href="#关于DSU" class="headerlink" title="关于DSU"></a>关于DSU</h1><p>谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并<strong>不损伤你当前的现有系统</strong>，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！</p>
-<h1 id="条件"><a href="#条件" class="headerlink" title="条件"></a>条件</h1><p>首先你的手机需要Root且运行安卓11以上的系统（安卓10上的DSU功能有限，而且如果您使用的是国内定制系统，功能几乎被阉割殆尽），下载Treble Infor和DSU Sideloader，下载类原生ROM的GSI镜像，<strong>不要下载AOSP的增量包，因为不便于刷入；也不要下载Nippon GSI，这是从其他手机提取的ROM制作而成的GSI镜像文件，会损伤您的设备（水龙的MIUI14 安卓13使用的就是Nippon GSI适配的）</strong></p>
-<h1 id="查看VNDK版本"><a href="#查看VNDK版本" class="headerlink" title="查看VNDK版本"></a>查看VNDK版本</h1><p>打开Treble信息查看<br><img src="/2023/02/03/12-47-21/2.jpg"><br>您只能选择高于VNDK版本的GSI包，比如该设备显示的VNDK版本为31，所以只能选择安卓12及以上的GSI刷入，需要注意的是，<strong>VNDK与安卓版本不一定是对应的，有些ROM在升级安卓底层的时候并不会升级VNDK版本，所以通过安卓版本判断VNDK版本是不可靠的！</strong></p>
-<h1 id="下载GSI"><a href="#下载GSI" class="headerlink" title="下载GSI"></a>下载GSI</h1><p>打开Treble信息查看上面显示的映像类型<br><img src="/2023/02/03/12-47-21/1.jpg"><br>进入<a href="https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list">该地址</a>挑选下载GSI。<br>GSI包一般有几种命名规格：如果下载页面有“silm”这种命名，那么普通版就是有GAPPS的版本；如果下载页面有“GAPPS”这种命名，那普通版就属于没有GAPPS的版本；另外还有一种bvN和bgN的版本号，v指vanila就是普通版，g指GAPPS就是带套件的版本。</p>
-<h1 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h1><ol>
-<li>打开DSU Sideloader并授予Root权限<br><img src="/2023/02/03/12-47-21/4.jpg"></li>
-<li>选择你下载的GSI镜像文件<br>（可以设置DSU用户空间大小，也就是DSU系统里的可用空间）   </li>
-<li>然后进入右上角“设置”，打开“使用内部安装器”，然后回到主页点击安装<br><img src="/2023/02/03/12-47-21/3.jpg"> </li>
-<li>安装结束后，如图，可以直接点击“重启”进入DSU系统</li>
-</ol>
-<h1 id="在DSU中使用Magisk"><a href="#在DSU中使用Magisk" class="headerlink" title="在DSU中使用Magisk"></a>在DSU中使用Magisk</h1><p>如果你需要在DSU里使用Magisk，直接安装Magisk App并按指示修复su即可正常使用</p>
-<h1 id="进阶玩法"><a href="#进阶玩法" class="headerlink" title="进阶玩法"></a>进阶玩法</h1><p>可以使用指令开启<strong>粘性模式</strong>，使手机重启后仍然回到DSU系统，你只需要在CMD中键入以下命令开启或关闭该模式：<br><strong>开启</strong>   </p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool enable</span><br></pre></td></tr></table></figure>
-<p><strong>关闭</strong>    </p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool disable</span><br></pre></td></tr></table></figure>
-
-<h1 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h1><ol>
-<li>用过DSU之后回原来系统发现刷的Magisk模块咋全都被禁用了？使用DSU会被救砖模块判定为启动失败从而自动禁用所有xp模块，所以要么就手动切换模块开关，要么就禁用救砖模块   </li>
-<li>刷完镜像之后重启直接回原来系统或者不停转圈？多半是所用的GSI和vendor底包兼容性不好导致的，这多出现于使用手机原厂ROM的情况（笔者的EvoX GSI和本机ArrowOS使用的甚至是同一个设备树进行编译，所以底包兼容性极佳），可以考虑换一个不同的包进行测试，多测试几次应该就能找到能用的GSI包了</li>
-</ol>
-]]></content>
-      <categories>
-        <category>数码</category>
-        <category>教程</category>
-        <category>转载</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>玩机</tag>
-        <tag>DSU</tag>
       </tags>
   </entry>
   <entry>
