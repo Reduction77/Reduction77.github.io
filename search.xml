@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2023年4月13日更新汇总</title>
-    <url>/2023/04/14/20-28-35/</url>
+    <title>2023年4月15日更新汇总</title>
+    <url>/2023/04/16/00-49-46/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>qassa-v2.1-sagit-20230411-1318-Vanilla</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511beb044.png" alt="屏幕截图 2023-04-14 210316.png"></p>
-<p><img src="http://photo.reduction.one/pro/2023/04/14/6439511c31699.png" alt="屏幕截图 2023-04-14 210334.png"><br><code>SuperiorOS-Thirteen-venus-20230413-0049</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e621f0.png" alt="屏幕截图 2023-04-14 210508.png"><br><code>DerpFest-13-Community-Tango-venus-20230408-1302</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e7179f.png" alt="屏幕截图 2023-04-14 210457.png"><br><code>tequila-tortilla-20230412-0207-OFFICIAL-alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511f3ec03.png" alt="屏幕截图 2023-04-14 210448.png"><br><code>project-zephyrus-CLO_alioth-13.2-20230410-0743</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951211a228.png" alt="屏幕截图 2023-04-14 210427.png"><br><code>DerpFest-13-CARROT-Tango-alioth-20230409-1630</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512129cbe.png" alt="屏幕截图 2023-04-14 210414.png"><br><code>MikuUI-TDA-wayne-23040609-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032705-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032711-GAPPS-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23040614-GAPPS-OFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951226bfec.png" alt="屏幕截图 2023-04-14 210520.png"><br><code>Cherish-OS-v4.7-20230413-0453-alioth-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512281f25.png" alt="屏幕截图 2023-04-14 210402.png"><br><code>evolution_haydn-ota-tq2a.230405.003.e1-04121941-unsigned</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512318c74.png" alt="屏幕截图 2023-04-14 210530.png"><br><code>PixysOS-v6.2.1-GAPPS-raphael-UNOFFICIAL-20230411-102009</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512405268.png" alt="屏幕截图 2023-04-14 210544.png"><br><code>tequila-tortilla-20230411-0902-OFFICIAL-umi</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124aa767.png" alt="屏幕截图 2023-04-14 210616.png"><br><code>PixelExtended-5.6_alioth-13.0-20230410-2024-UNOFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124d6b4f.png" alt="屏幕截图 2023-04-14 210436.png"><br><code>ALIOTH-IN_MYUI_5.0_MOTOX40_T1TR33.4-30-36_20230410.zip</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124e5e99.png" alt="屏幕截图 2023-04-14 210712.png"><br><code>GT_ROM_3.0_V14.0.23.3.20.DEV_13_alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126864bd.png" alt="屏幕截图 2023-04-14 210753.png"><br><code>RealKing</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126812f9.png" alt="屏幕截图 2023-04-14 210740.png"><br><code>OGK-014</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512723841.png" alt="屏幕截图 2023-04-14 210808.png"><br><code>SuperiorOS-Thirteen-raphael-20230413-0409</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951286a252.png" alt="屏幕截图 2023-04-14 210902.png"><br><code>MiuiSR_Wiston_Haydn_Nfc_Stable_05.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512996c4f.png" alt="屏幕截图 2023-04-14 210928.png"><br><code>MiModUi_14.22_MIUIVN_ALIOTH_V14_0_5_0_TKHCNXM_A13_Mi10TPro_23.4.11</code><br><code>MiModUi_14.23_MIUIVN_ALIOTH_V14.0.6.0.TKHCNXM_A13_Mi10TPro_23.4.13</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951299af8d.png" alt="屏幕截图 2023-04-14 210915.png"><br>(以上两个都是作者上传的，图片中未第二个，第一个是老版本的)</p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MiuiSR_Wiston_Alioth_Stable_Hotfix_02.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae74da6e65.png" alt="2.png"><br><code>AGNi_kernel-haydn-stable-v2.9-MIUI-ST</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae751e6972.png" alt="3.png"><br><code>OFFICIAL_MIUI Ori 14.0.3 EU V3 D10M4</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae7524506b.png" alt="1.png"><br><code>ALIOTH-IN_OP9Pro_LE2123_11.F.75_20230415</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae754dbd70.png" alt="4.png"><br><code>GhostDroid-13.4-20230415-alioth-v13.0</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae757f260d.png" alt="8.png"><br>&#96;&#96;<br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75917888.png" alt="5.png"><br><code>Meme Hub 13.0.6 final</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae759771dd.png" alt="7.png"><br><code>BootleggersROM-Tirimbino4munch.7.1-Stable-Unshishufied-GApps-20230414-130245</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75cb58a4.png" alt="9.png"><br><code>Cherish-OS-v4.7-20230414-1219-munch-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75d97cec.png" alt="10.png"><br><code>DerpFest-13-Community-Tango-munch-20230414-1444</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75f35688.png" alt="11.png"><br><code>PixelOS_alioth-13.0-20230415-0710</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75fe486b.png" alt="6.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -40,15 +39,34 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月15日更新汇总</title>
-    <url>/2023/04/16/00-49-46/</url>
+    <title>2023年4月13日更新汇总</title>
+    <url>/2023/04/14/20-28-35/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MiuiSR_Wiston_Alioth_Stable_Hotfix_02.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae74da6e65.png" alt="2.png"><br><code>AGNi_kernel-haydn-stable-v2.9-MIUI-ST</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae751e6972.png" alt="3.png"><br><code>OFFICIAL_MIUI Ori 14.0.3 EU V3 D10M4</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae7524506b.png" alt="1.png"><br><code>ALIOTH-IN_OP9Pro_LE2123_11.F.75_20230415</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae754dbd70.png" alt="4.png"><br><code>GhostDroid-13.4-20230415-alioth-v13.0</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae757f260d.png" alt="8.png"><br>&#96;&#96;<br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75917888.png" alt="5.png"><br><code>Meme Hub 13.0.6 final</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae759771dd.png" alt="7.png"><br><code>BootleggersROM-Tirimbino4munch.7.1-Stable-Unshishufied-GApps-20230414-130245</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75cb58a4.png" alt="9.png"><br><code>Cherish-OS-v4.7-20230414-1219-munch-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75d97cec.png" alt="10.png"><br><code>DerpFest-13-Community-Tango-munch-20230414-1444</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75f35688.png" alt="11.png"><br><code>PixelOS_alioth-13.0-20230415-0710</code><br><img src="http://photo.reduction.one/pro/2023/04/16/643ae75fe486b.png" alt="6.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>qassa-v2.1-sagit-20230411-1318-Vanilla</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511beb044.png" alt="屏幕截图 2023-04-14 210316.png"></p>
+<p><img src="http://photo.reduction.one/pro/2023/04/14/6439511c31699.png" alt="屏幕截图 2023-04-14 210334.png"><br><code>SuperiorOS-Thirteen-venus-20230413-0049</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e621f0.png" alt="屏幕截图 2023-04-14 210508.png"><br><code>DerpFest-13-Community-Tango-venus-20230408-1302</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e7179f.png" alt="屏幕截图 2023-04-14 210457.png"><br><code>tequila-tortilla-20230412-0207-OFFICIAL-alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511f3ec03.png" alt="屏幕截图 2023-04-14 210448.png"><br><code>project-zephyrus-CLO_alioth-13.2-20230410-0743</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951211a228.png" alt="屏幕截图 2023-04-14 210427.png"><br><code>DerpFest-13-CARROT-Tango-alioth-20230409-1630</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512129cbe.png" alt="屏幕截图 2023-04-14 210414.png"><br><code>MikuUI-TDA-wayne-23040609-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032705-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032711-GAPPS-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23040614-GAPPS-OFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951226bfec.png" alt="屏幕截图 2023-04-14 210520.png"><br><code>Cherish-OS-v4.7-20230413-0453-alioth-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512281f25.png" alt="屏幕截图 2023-04-14 210402.png"><br><code>evolution_haydn-ota-tq2a.230405.003.e1-04121941-unsigned</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512318c74.png" alt="屏幕截图 2023-04-14 210530.png"><br><code>PixysOS-v6.2.1-GAPPS-raphael-UNOFFICIAL-20230411-102009</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512405268.png" alt="屏幕截图 2023-04-14 210544.png"><br><code>tequila-tortilla-20230411-0902-OFFICIAL-umi</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124aa767.png" alt="屏幕截图 2023-04-14 210616.png"><br><code>PixelExtended-5.6_alioth-13.0-20230410-2024-UNOFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124d6b4f.png" alt="屏幕截图 2023-04-14 210436.png"><br><code>ALIOTH-IN_MYUI_5.0_MOTOX40_T1TR33.4-30-36_20230410.zip</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124e5e99.png" alt="屏幕截图 2023-04-14 210712.png"><br><code>GT_ROM_3.0_V14.0.23.3.20.DEV_13_alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126864bd.png" alt="屏幕截图 2023-04-14 210753.png"><br><code>RealKing</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126812f9.png" alt="屏幕截图 2023-04-14 210740.png"><br><code>OGK-014</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512723841.png" alt="屏幕截图 2023-04-14 210808.png"><br><code>SuperiorOS-Thirteen-raphael-20230413-0409</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951286a252.png" alt="屏幕截图 2023-04-14 210902.png"><br><code>MiuiSR_Wiston_Haydn_Nfc_Stable_05.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512996c4f.png" alt="屏幕截图 2023-04-14 210928.png"><br><code>MiModUi_14.22_MIUIVN_ALIOTH_V14_0_5_0_TKHCNXM_A13_Mi10TPro_23.4.11</code><br><code>MiModUi_14.23_MIUIVN_ALIOTH_V14.0.6.0.TKHCNXM_A13_Mi10TPro_23.4.13</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951299af8d.png" alt="屏幕截图 2023-04-14 210915.png"><br>(以上两个都是作者上传的，图片中未第二个，第一个是老版本的)</p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月16日更新汇总</title>
+    <url>/2023/04/17/12-41-18/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>OP9Pro_LE2123_11.F.75_NFC_FIX</code>(适用于Healer99移植的OxygenOS)<br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf6870cfb.png" alt="3.png"><br><code>Spark-13.5.5-UNOFFICIAL-haydn-20230324</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf68b983a.png" alt="4.png"><br><code>SuperiorOS-Thirteen-alioth-RELEASE-20230416-1549</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf68bf45d.png" alt="2.png"><br><code>riceDroid-13.0-202303291809-haydn-v10.2-PIXEL-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf68ebb61.png" alt="5.png"><br><code>OctaviOS-v4.3-haydn-20230416-1256-GAPPS-Unofficial</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf69370bb.png" alt="6.png"><br><code>BananaDroid-Tanduk-alioth-OFFICIAL-20230416-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf697d86b.png" alt="1.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -76,15 +94,15 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月16日更新汇总</title>
-    <url>/2023/04/17/12-41-18/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+    <title>2023年4月19日更新汇总</title>
+    <url>/2023/04/20/01-21-40/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM&amp;内核</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>OP9Pro_LE2123_11.F.75_NFC_FIX</code>(适用于Healer99移植的OxygenOS)<br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf6870cfb.png" alt="3.png"><br><code>Spark-13.5.5-UNOFFICIAL-haydn-20230324</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf68b983a.png" alt="4.png"><br><code>SuperiorOS-Thirteen-alioth-RELEASE-20230416-1549</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf68bf45d.png" alt="2.png"><br><code>riceDroid-13.0-202303291809-haydn-v10.2-PIXEL-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf68ebb61.png" alt="5.png"><br><code>OctaviOS-v4.3-haydn-20230416-1256-GAPPS-Unofficial</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf69370bb.png" alt="6.png"><br><code>BananaDroid-Tanduk-alioth-OFFICIAL-20230416-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/17/643ccf697d86b.png" alt="1.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/4.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -125,24 +143,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月19日更新汇总</title>
-    <url>/2023/04/20/01-21-40/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM&amp;内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/4.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2023年4月20日更新汇总</title>
     <url>/2023/04/20/23-41-22/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
@@ -158,6 +158,139 @@
       </categories>
       <tags>
         <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月21日更新汇总</title>
+    <url>/2023/04/22/01-52-31/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/4.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月22日更新汇总</title>
+    <url>/2023/04/23/09-27-23/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.png"><br><strong>下图是上图ROM匹配的内核</strong><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/6.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月23日更新汇总</title>
+    <url>/2023/04/24/22-18-25/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/8.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月24日更新汇总</title>
+    <url>/2023/04/24/22-18-47/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/7.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月25日更新汇总</title>
+    <url>/2023/04/26/00-21-16/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/9.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/10.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/11.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Magisk及刷入方式</title>
+    <url>/2023/01/20/15-05-26/</url>
+    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><img src="/2023/01/20/15-05-26/m.png"><br>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，在boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
+<h1 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h1><p>Magisk分为了四个主要版本，分别是Magisk，Magisk Alpha，Magisk Delta，Magisk Canary，个人感觉只是功能不同，比如Magisk原版功能少但是可以保证稳定，Magisk Alpha和Magisk Delta自带了隐藏root功能，而且Magisk Delta的Zygisk和MagiskHide可以共存。几张图可以参考……<br><img src="/2023/01/20/15-05-26/a.jpg"><br><img src="/2023/01/20/15-05-26/a2.jpg"><br><img src="/2023/01/20/15-05-26/d.jpg"><br><img src="/2023/01/20/15-05-26/d2.jpg"><br><img src="/2023/01/20/15-05-26/y.jpg"><br><img src="/2023/01/20/15-05-26/y2.jpg">   </p>
+<h1 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h1><p>上述提到的四个版本都可以在Github上下载到，其中Magisk原版可以在酷安直接下载，也可以到Magisk的Github仓库下载（自备魔法），其他几个版本需要自己在酷安上找别人分享的下载链接，笔者只找到了TG频道的下载方式，没有找到其他的，欢迎各位大佬引路！<br>1.	Magisk：<a href="https://github.com/topjohnwu/Magisk">点击访问</a><br>搬运地址：<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/Android%E7%AB%AF/Magisk">点击访问</a><br>2.	Magisk Alpha：<a href="https://t.me/magiskalpha">点击访问</a><br>3.	Magisk Delta：<a href="https://t.me/magiskdelta">点击访问</a>   </p>
+<h1 id="刷入教程"><a href="#刷入教程" class="headerlink" title="刷入教程"></a>刷入教程</h1><h2 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h2><h3 id="提取boot-img"><a href="#提取boot-img" class="headerlink" title="提取boot.img"></a>提取<code>boot.img</code></h3><p>Magisk需要修补<code>boot.img</code>来获得权限，所以需要寻找<code>boot.img</code>，线刷包的<code>boot.img</code>一般在线刷包的<code>images</code>文件夹里面，直接拉出来就可以。<br><img src="/2023/01/20/15-05-26/xsb.jpg"><br>卡刷包的<code>boot.img</code>需要从<code>payload.bin</code>提取，流程如下：  </p>
+<ol>
+<li>下载解包工具<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/PC%E7%AB%AF/payload_dumper-win64.zip">点击访问</a>   </li>
+<li>解压自己的卡刷包得到<code>payload.bin</code>，并将其放入工具的<code>payload_input</code>文件夹。<br><img src="/2023/01/20/15-05-26/jb.png"><br><img src="/2023/01/20/15-05-26/jb2.png"></li>
+<li>双击<code>exe</code>文件，等待<code>boot</code>出现后关闭窗口<br><img src="/2023/01/20/15-05-26/boot.png"></li>
+<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/ddboot.png"></li>
+</ol>
+<h3 id="修补boot-img"><a href="#修补boot-img" class="headerlink" title="修补boot.img"></a>修补<code>boot.img</code></h3><p>将<code>boot.img</code>发送到手机，打开Magisk选择<code>安装</code>→<code>选择并修补一个文件</code>，选择你刚刚解包得到的<code>boot.img</code>，然后点击<code>安装</code>，这样就等到了被Magisk修补过的<code>boot.img</code>。<br><img src="/2023/01/20/15-05-26/xb.jpg"><br><img src="/2023/01/20/15-05-26/xb2.jpg"><br><img src="/2023/01/20/15-05-26/cq.jpg"><br><img src="/2023/01/20/15-05-26/wj.jpg"></p>
+<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在电脑上打开<code>adb</code>命令行，手机重启到fastboot引导模式，键入：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Fastboot flash boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件；<br>注意：如果你是vab分区设备，则不建议直接将<code>boot.img</code>文件刷入<code>boot</code>分区，需要使用使用以下命令来零时启动：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件。然后进入系统，此时root权限仍然存在，打开Magisk，点击<code>安装</code>→<code>直接安装（推荐）</code>→<code>开始</code>，随后根据提示重启即可。<br><img src="/2023/01/20/15-05-26/vab.jpg"></p>
+<h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>通过上述步骤就可以得到完整永久的root权限  </p>
+<h2 id="卡刷（不推荐）"><a href="#卡刷（不推荐）" class="headerlink" title="卡刷（不推荐）"></a>卡刷（不推荐）</h2><p>笔者刷机5年，不建议Magisk通过卡刷的方式刷入，而且Magisk的文档里从23.0开始就写到过不推荐卡刷，卡刷可能导致不稳定性和失败的可能。skkk（酷安@mi_block）也曾再讨论组里面提起过此事。刷入和卸载过程也十分简单，所以简述。<br><img src="/2023/01/20/15-05-26/skkk.jpg"></p>
+<h3 id="刷入："><a href="#刷入：" class="headerlink" title="刷入："></a>刷入：</h3><p>将下载到的<code>magisk.apk</code>更名为<code>magisk.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可安装获取root权限。</p>
+<h3 id="卸载："><a href="#卸载：" class="headerlink" title="卸载："></a>卸载：</h3><p>将<code>magisk.apk</code>更名为<code>uninstall.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可卸载Magisk。</p>
+<h1 id="升级保root教程"><a href="#升级保root教程" class="headerlink" title="升级保root教程"></a>升级保root教程</h1><p>手机升级的时候会更新系统的<code>boot.img</code>文件，所以需要让Magisk再修补一遍<code>boot.img</code>，然而，因为该过程的原理是修补未使用槽位系统里面的<code>boot.img</code>，所以only a分区机型无法使用这个方法。  </p>
+<ol>
+<li>下载全量（完整）卡刷包<br>因为增量包不完整，而且增量包的升级无法保证系统完整性，所以建议没有root升级的时候，也下载全量（完整）包。   </li>
+<li>等待系统提示安装完成之后不要同意系统给出的重启请求，打开Magisk，点击<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code><br><img src="/2023/01/20/15-05-26/ota.jpg"></li>
+<li>完成！</li>
+</ol>
+<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
+<li>注意<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code>这几步操作不能在没有系统更新的情况下操作，不然会卡米哟~</li>
+</ol>
+]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>玩机</tag>
+        <tag>小米</tag>
       </tags>
   </entry>
   <entry>
@@ -247,49 +380,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Magisk及刷入方式</title>
-    <url>/2023/01/20/15-05-26/</url>
-    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><img src="/2023/01/20/15-05-26/m.png"><br>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，在boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
-<h1 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h1><p>Magisk分为了四个主要版本，分别是Magisk，Magisk Alpha，Magisk Delta，Magisk Canary，个人感觉只是功能不同，比如Magisk原版功能少但是可以保证稳定，Magisk Alpha和Magisk Delta自带了隐藏root功能，而且Magisk Delta的Zygisk和MagiskHide可以共存。几张图可以参考……<br><img src="/2023/01/20/15-05-26/a.jpg"><br><img src="/2023/01/20/15-05-26/a2.jpg"><br><img src="/2023/01/20/15-05-26/d.jpg"><br><img src="/2023/01/20/15-05-26/d2.jpg"><br><img src="/2023/01/20/15-05-26/y.jpg"><br><img src="/2023/01/20/15-05-26/y2.jpg">   </p>
-<h1 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h1><p>上述提到的四个版本都可以在Github上下载到，其中Magisk原版可以在酷安直接下载，也可以到Magisk的Github仓库下载（自备魔法），其他几个版本需要自己在酷安上找别人分享的下载链接，笔者只找到了TG频道的下载方式，没有找到其他的，欢迎各位大佬引路！<br>1.	Magisk：<a href="https://github.com/topjohnwu/Magisk">点击访问</a><br>搬运地址：<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/Android%E7%AB%AF/Magisk">点击访问</a><br>2.	Magisk Alpha：<a href="https://t.me/magiskalpha">点击访问</a><br>3.	Magisk Delta：<a href="https://t.me/magiskdelta">点击访问</a>   </p>
-<h1 id="刷入教程"><a href="#刷入教程" class="headerlink" title="刷入教程"></a>刷入教程</h1><h2 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h2><h3 id="提取boot-img"><a href="#提取boot-img" class="headerlink" title="提取boot.img"></a>提取<code>boot.img</code></h3><p>Magisk需要修补<code>boot.img</code>来获得权限，所以需要寻找<code>boot.img</code>，线刷包的<code>boot.img</code>一般在线刷包的<code>images</code>文件夹里面，直接拉出来就可以。<br><img src="/2023/01/20/15-05-26/xsb.jpg"><br>卡刷包的<code>boot.img</code>需要从<code>payload.bin</code>提取，流程如下：  </p>
-<ol>
-<li>下载解包工具<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/PC%E7%AB%AF/payload_dumper-win64.zip">点击访问</a>   </li>
-<li>解压自己的卡刷包得到<code>payload.bin</code>，并将其放入工具的<code>payload_input</code>文件夹。<br><img src="/2023/01/20/15-05-26/jb.png"><br><img src="/2023/01/20/15-05-26/jb2.png"></li>
-<li>双击<code>exe</code>文件，等待<code>boot</code>出现后关闭窗口<br><img src="/2023/01/20/15-05-26/boot.png"></li>
-<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/ddboot.png"></li>
-</ol>
-<h3 id="修补boot-img"><a href="#修补boot-img" class="headerlink" title="修补boot.img"></a>修补<code>boot.img</code></h3><p>将<code>boot.img</code>发送到手机，打开Magisk选择<code>安装</code>→<code>选择并修补一个文件</code>，选择你刚刚解包得到的<code>boot.img</code>，然后点击<code>安装</code>，这样就等到了被Magisk修补过的<code>boot.img</code>。<br><img src="/2023/01/20/15-05-26/xb.jpg"><br><img src="/2023/01/20/15-05-26/xb2.jpg"><br><img src="/2023/01/20/15-05-26/cq.jpg"><br><img src="/2023/01/20/15-05-26/wj.jpg"></p>
-<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在电脑上打开<code>adb</code>命令行，手机重启到fastboot引导模式，键入：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Fastboot flash boot xxx.img</span><br></pre></td></tr></table></figure>
-<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件；<br>注意：如果你是vab分区设备，则不建议直接将<code>boot.img</code>文件刷入<code>boot</code>分区，需要使用使用以下命令来零时启动：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
-<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件。然后进入系统，此时root权限仍然存在，打开Magisk，点击<code>安装</code>→<code>直接安装（推荐）</code>→<code>开始</code>，随后根据提示重启即可。<br><img src="/2023/01/20/15-05-26/vab.jpg"></p>
-<h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>通过上述步骤就可以得到完整永久的root权限  </p>
-<h2 id="卡刷（不推荐）"><a href="#卡刷（不推荐）" class="headerlink" title="卡刷（不推荐）"></a>卡刷（不推荐）</h2><p>笔者刷机5年，不建议Magisk通过卡刷的方式刷入，而且Magisk的文档里从23.0开始就写到过不推荐卡刷，卡刷可能导致不稳定性和失败的可能。skkk（酷安@mi_block）也曾再讨论组里面提起过此事。刷入和卸载过程也十分简单，所以简述。<br><img src="/2023/01/20/15-05-26/skkk.jpg"></p>
-<h3 id="刷入："><a href="#刷入：" class="headerlink" title="刷入："></a>刷入：</h3><p>将下载到的<code>magisk.apk</code>更名为<code>magisk.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可安装获取root权限。</p>
-<h3 id="卸载："><a href="#卸载：" class="headerlink" title="卸载："></a>卸载：</h3><p>将<code>magisk.apk</code>更名为<code>uninstall.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可卸载Magisk。</p>
-<h1 id="升级保root教程"><a href="#升级保root教程" class="headerlink" title="升级保root教程"></a>升级保root教程</h1><p>手机升级的时候会更新系统的<code>boot.img</code>文件，所以需要让Magisk再修补一遍<code>boot.img</code>，然而，因为该过程的原理是修补未使用槽位系统里面的<code>boot.img</code>，所以only a分区机型无法使用这个方法。  </p>
-<ol>
-<li>下载全量（完整）卡刷包<br>因为增量包不完整，而且增量包的升级无法保证系统完整性，所以建议没有root升级的时候，也下载全量（完整）包。   </li>
-<li>等待系统提示安装完成之后不要同意系统给出的重启请求，打开Magisk，点击<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code><br><img src="/2023/01/20/15-05-26/ota.jpg"></li>
-<li>完成！</li>
-</ol>
-<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
-<li>注意<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code>这几步操作不能在没有系统更新的情况下操作，不然会卡米哟~</li>
-</ol>
-]]></content>
-      <categories>
-        <category>数码</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>玩机</tag>
-        <tag>小米</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>miflash常见报错解决方案</title>
     <url>/2023/01/19/16-21-24/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文用来收录miflash的一些报错及解决方案，并保持更新~  </p>
@@ -332,16 +422,21 @@
       </tags>
   </entry>
   <entry>
-    <title>一些摘抄</title>
-    <url>/2023/03/20/07-42-46/</url>
-    <content><![CDATA[<p>放松点，不必取悦所有人。不用妥协退让寻求别人的喜欢，你本来就独一无二，你本就弥足珍贵。<br>——画师：阿竹uzoo   </p>
+    <title>2023年4月26日更新汇总</title>
+    <url>/2023/04/26/23-48-28/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/5.png"></p>
 ]]></content>
       <categories>
-        <category>感</category>
+        <category>搬运</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
-        <tag>摘抄</tag>
+        <tag>搬运</tag>
       </tags>
   </entry>
   <entry>
@@ -380,6 +475,19 @@
       </tags>
   </entry>
   <entry>
+    <title>一些摘抄</title>
+    <url>/2023/03/20/07-42-46/</url>
+    <content><![CDATA[<p>放松点，不必取悦所有人。不用妥协退让寻求别人的喜欢，你本来就独一无二，你本就弥足珍贵。<br>——画师：阿竹uzoo   </p>
+]]></content>
+      <categories>
+        <category>感</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>摘抄</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>你为什么大学不谈恋爱？</title>
     <url>/2023/03/20/07-21-20/</url>
     <content><![CDATA[<h4 id="我在知乎上看到了这个问题，和我想得貌似差不多…………"><a href="#我在知乎上看到了这个问题，和我想得貌似差不多…………" class="headerlink" title="我在知乎上看到了这个问题，和我想得貌似差不多…………"></a>我在知乎上看到了这个问题，和我想得貌似差不多…………</h4><p>她以后会是别人明媒正娶的妻子，而我呢，只不过是她年少时犯的一个错罢了，她以后会是别人的母亲别人的妻子，但她永远是我那年的太阳，炽热又耀眼，可望不可得，她不会发福不会变老，她永远在我的记忆里，穿着洁白的长裙笑颜如花，她永远站在那里望向我，又好像喊着我得名字。后来起风了，吹起了她凌乱的发丝，吹起了满地的落叶，还吹起了无限的心动，但风吹过了，以后也不会再有了..<br>我以为一直不回消息的人不礼貌，后来发现一直发消息的才不礼貌。<br><img src="/2023/03/20/07-21-20/1.jpg"></p>
@@ -389,84 +497,6 @@
       </categories>
       <tags>
         <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第三方Recovery及刷入方法</title>
-    <url>/2023/01/09/20-13-38/</url>
-    <content><![CDATA[<h1 id="有关于Recovery的个人认识"><a href="#有关于Recovery的个人认识" class="headerlink" title="有关于Recovery的个人认识"></a>有关于Recovery的个人认识</h1><p>经常刷机的友友们都知道，类原生的刷机包中一般都有recovery.img文件，这个就是Recovery，在老的机型里是存在Recovery分区的 ，到了出场安卓11以上机型之后，Recovery分区被去除，加入了A&#x2F;B动态分区模式，支持无缝升级，但是在小米8gen1以上的机型中又加回了Recovery分区。接下来我拿小米说开去（毕竟我只买得起小米这种Soc优秀又能搞机的手机）。</p>
-<h2 id="小米的官方Recovery"><a href="#小米的官方Recovery" class="headerlink" title="小米的官方Recovery"></a>小米的官方Recovery</h2><p>小米的官方Recovery基本上是残废的，只能清除用户数据和通过电脑连接到小米助手（说句实话，连接小米助手这功能在某些设备上貌似也用不成）。<br><img src="/2023/01/09/20-13-38/1.png"> </p>
-<h2 id="类原生的官方Recovery"><a href="#类原生的官方Recovery" class="headerlink" title="类原生的官方Recovery"></a>类原生的官方Recovery</h2><p>类原生的官方Recovery的功能比小米的多一点，对应的可以实现工厂级格式化格式化（Factory reset）、adb sideload升级系统（Apply update）、高级（Advanced）等等功能。（通过Recovey升级系统请参考另外一篇文章）<br><img src="/2023/01/09/20-13-38/2.jpg"><br><img src="/2023/01/09/20-13-38/3.jpg">  </p>
-<h2 id="第三方Recovery"><a href="#第三方Recovery" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery的功能很多，基本上可以满足刷机玩机的全部需求，更像一个小型的系统，直接对相应分区进行修改。<br><img src="/2023/01/09/20-13-38/4.jpg"></p>
-<h1 id="获取Recovery的途径"><a href="#获取Recovery的途径" class="headerlink" title="获取Recovery的途径"></a>获取Recovery的途径</h1><h2 id="官方的Recovery"><a href="#官方的Recovery" class="headerlink" title="官方的Recovery"></a>官方的Recovery</h2><p>官方的Recovery基本上可以在对应的官方网站上下载，例如下面的LineageOS的下载界面，可以看到有Recovery字样的文件<br><img src="/2023/01/09/20-13-38/5.png"></p>
-<h2 id="第三方Recovery-1"><a href="#第三方Recovery-1" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery主流的有Twrp和Ofox橙狐</p>
-<h3 id="Twrp"><a href="#Twrp" class="headerlink" title="Twrp"></a>Twrp</h3><p><img src="/2023/01/09/20-13-38/Twrp.jpg"><br>官方网址：<a href="https://twrp.me/">点击访问</a><br>可以选择自己对应的设备下载使用~</p>
-<p>Twrp现在的主要维护者是skkk（酷安@mi_block）大佬，可以前往这位大佬的123云盘下载：<br>123网盘链接：<a href="https://www.123pan.com/s/qHhDVv-nuQJv">https://www.123pan.com/s/qHhDVv-nuQJv</a><br>一键刷入工具：<a href="https://wwl.pan-reduction.one/d/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery/%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5%E5%B7%A5%E5%85%B7/SKKK%20TWRP%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5V4.0.zip?sign=KuBGSya7vPZoVBnqXhf6UGZV7EdYZ5k5kidQ7yDL5J0=:0">点击下载</a></p>
-<p>历史维护者是wzsx150大佬，可以前往这位大佬的共享云盘下载：<br>链接： <a href="https://pan.hchl.top/s/oe4T4?path=/">https://pan.hchl.top/s/oe4T4?path=%2F</a><br>密码：wzsx150    </p>
-<p>搬运站点下载：<a href="https://wwl.pan-reduction.one/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery">点击访问</a></p>
-<h3 id="Ofox橙狐"><a href="#Ofox橙狐" class="headerlink" title="Ofox橙狐"></a>Ofox橙狐</h3><p>官网链接：<a href="https://xiaomitools.com/orangefox-recovery-cn/">点击访问</a><br>官方下载链接：<a href="https://orangefox.download/">点击访问</a><br><img src="/2023/01/09/20-13-38/Ofox.png"><br>橙狐的界面很美观，而且有很多自定义设置项，比较贴近MIUI的审美风格  </p>
-<h1 id="Recovery的刷入方式"><a href="#Recovery的刷入方式" class="headerlink" title="Recovery的刷入方式"></a>Recovery的刷入方式</h1><p>介于大部分Recovery的刷入方式不太一样，这里只介绍两种最稳妥的刷入方式，使用的是第三方Recovery Twrp  </p>
-<h2 id="前提条件"><a href="#前提条件" class="headerlink" title="前提条件"></a>前提条件</h2><p>1.首先<a href="https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn">点击下载</a>适合你当前平台的ADB工具，通过按住 电源键 + 音量下 进入Fastboot引导模式。然后，使用 USB 连接到你的电脑，运行 cmd 或者 bash 并执行命令以下所有命令（不推荐使用Windows Powershell）<br>2.清楚自己设备的分区类型，如图，图上说的很清楚我不过多赘述~<br><img src="/2023/01/09/20-13-38/fq.jpg"></p>
-<h2 id="Only-A设备刷入方式"><a href="#Only-A设备刷入方式" class="headerlink" title="Only A设备刷入方式"></a>Only A设备刷入方式</h2><p>演示设备：小米6    </p>
-<ol>
-<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
-<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
-亦或是<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
-返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">   </li>
-<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery xxx.img</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/flash.png"><br><img src="/2023/01/09/20-13-38/flash2.png"></li>
-<li>重启到Recovery<br>在cmd中键入命令<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/cq.png">   </li>
-<li>完成！</li>
-</ol>
-<h2 id="VAB设备刷入方式"><a href="#VAB设备刷入方式" class="headerlink" title="VAB设备刷入方式"></a>VAB设备刷入方式</h2><p>演示设备：Redmi K40</p>
-<ol>
-<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
-<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
-亦或是   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
-返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">    </li>
-<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/boot.png"><br><img src="/2023/01/09/20-13-38/boot2.png"> </li>
-<li>重启到Recovery<br>理论上会自动重启到Recovery，因为上一步的命令是boot（启动的意思），如果没有重启到Recovery，请手动。  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/cq.png">   </li>
-<li>固化Recovery<br>在Twrp高级里面选择刷入当前Twrp选项，然后重启Recovery<br><img src="/2023/01/09/20-13-38/gh.png"><br><img src="/2023/01/09/20-13-38/gh2.png"></li>
-<li>完成！</li>
-</ol>
-<h2 id="小米8Gen2以上设备刷入方式"><a href="#小米8Gen2以上设备刷入方式" class="headerlink" title="小米8Gen2以上设备刷入方式"></a>小米8Gen2以上设备刷入方式</h2><p>演示设备：小米13</p>
-<ol>
-<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
-<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
-亦或是   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
-返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">    </li>
-<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery_ab xxx.img</span><br></pre></td></tr></table></figure>
-<strong>注意：如果以上命令运行出错，请更新adb工具包或者使用以下命令</strong><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery_a xxx.img</span><br><span class="line">fastboot flash recovery_b xxx.img</span><br></pre></td></tr></table></figure></li>
-<li>重启到Recovery<br>请手动，或在cmd内键入以下命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
-<img src="/2023/01/09/20-13-38/cq.png">   </li>
-<li>完成！</li>
-</ol>
-<h2 id="通过搞机助手刷入Recovery"><a href="#通过搞机助手刷入Recovery" class="headerlink" title="通过搞机助手刷入Recovery"></a>通过搞机助手刷入Recovery</h2><p>首先你需要在<a href="https://lsdy.top/">官网下载</a>搞机助手这个软件,该过程较为简单</p>
-<ol>
-<li>将手机重启到引导模式<br><img src="/2023/01/09/20-13-38/f.png">  </li>
-<li>在侧边栏“引导模式”中选择“刷入REC”选项  </li>
-<li>选择Recovery文件<br><img src="/2023/01/09/20-13-38/x.png">  </li>
-<li>如果你是Only A分区结构的设备请选择“刷入”选项；如果你是VAB分区结构的设备请选择“临时刷入（A&#x2F;B分区设备）”选项，随后按上面的步骤固化Recovery。<br><img src="/2023/01/09/20-13-38/s.png">  </li>
-<li>完成！</li>
-</ol>
-<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
-<li>建议学习命令行形式的刷入，因为软件里的adb文件随时可能过期而无法适应新的内容，而谷歌官方的adb文件始终是可以的，学习的过程对自己来说也是一种提升~     </li>
-<li>如果你使用的是skkk的Recovery，一定要仔细阅读skkk提供的说明，核对好文件最前面的名称之后，再选择刷入的方式，切忌不能直接将任何Recovery直接刷入boot分区！！！<br><img src="/2023/01/09/20-13-38/skkk.jpg">      </li>
-<li>任何Recovery的名称后缀一定是.img，如果你下载下来是.zip，请解压后使用   </li>
-<li>Recovery需要与安卓版本对应才能成功解密（解密的密码一般是自己的锁屏密码），有些A12的Recovery也可用于A13，但是如果能找到A13的Recovery，就请使用A13的Recovery</li>
-</ol>
-]]></content>
-      <categories>
-        <category>数码</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>玩机</tag>
-        <tag>Recovery</tag>
       </tags>
   </entry>
   <entry>
@@ -1371,93 +1401,81 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月21日更新汇总</title>
-    <url>/2023/04/22/01-52-31/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+    <title>第三方Recovery及刷入方法</title>
+    <url>/2023/01/09/20-13-38/</url>
+    <content><![CDATA[<h1 id="有关于Recovery的个人认识"><a href="#有关于Recovery的个人认识" class="headerlink" title="有关于Recovery的个人认识"></a>有关于Recovery的个人认识</h1><p>经常刷机的友友们都知道，类原生的刷机包中一般都有recovery.img文件，这个就是Recovery，在老的机型里是存在Recovery分区的 ，到了出场安卓11以上机型之后，Recovery分区被去除，加入了A&#x2F;B动态分区模式，支持无缝升级，但是在小米8gen1以上的机型中又加回了Recovery分区。接下来我拿小米说开去（毕竟我只买得起小米这种Soc优秀又能搞机的手机）。</p>
+<h2 id="小米的官方Recovery"><a href="#小米的官方Recovery" class="headerlink" title="小米的官方Recovery"></a>小米的官方Recovery</h2><p>小米的官方Recovery基本上是残废的，只能清除用户数据和通过电脑连接到小米助手（说句实话，连接小米助手这功能在某些设备上貌似也用不成）。<br><img src="/2023/01/09/20-13-38/1.png"> </p>
+<h2 id="类原生的官方Recovery"><a href="#类原生的官方Recovery" class="headerlink" title="类原生的官方Recovery"></a>类原生的官方Recovery</h2><p>类原生的官方Recovery的功能比小米的多一点，对应的可以实现工厂级格式化格式化（Factory reset）、adb sideload升级系统（Apply update）、高级（Advanced）等等功能。（通过Recovey升级系统请参考另外一篇文章）<br><img src="/2023/01/09/20-13-38/2.jpg"><br><img src="/2023/01/09/20-13-38/3.jpg">  </p>
+<h2 id="第三方Recovery"><a href="#第三方Recovery" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery的功能很多，基本上可以满足刷机玩机的全部需求，更像一个小型的系统，直接对相应分区进行修改。<br><img src="/2023/01/09/20-13-38/4.jpg"></p>
+<h1 id="获取Recovery的途径"><a href="#获取Recovery的途径" class="headerlink" title="获取Recovery的途径"></a>获取Recovery的途径</h1><h2 id="官方的Recovery"><a href="#官方的Recovery" class="headerlink" title="官方的Recovery"></a>官方的Recovery</h2><p>官方的Recovery基本上可以在对应的官方网站上下载，例如下面的LineageOS的下载界面，可以看到有Recovery字样的文件<br><img src="/2023/01/09/20-13-38/5.png"></p>
+<h2 id="第三方Recovery-1"><a href="#第三方Recovery-1" class="headerlink" title="第三方Recovery"></a>第三方Recovery</h2><p>第三方Recovery主流的有Twrp和Ofox橙狐</p>
+<h3 id="Twrp"><a href="#Twrp" class="headerlink" title="Twrp"></a>Twrp</h3><p><img src="/2023/01/09/20-13-38/Twrp.jpg"><br>官方网址：<a href="https://twrp.me/">点击访问</a><br>可以选择自己对应的设备下载使用~</p>
+<p>Twrp现在的主要维护者是skkk（酷安@mi_block）大佬，可以前往这位大佬的123云盘下载：<br>123网盘链接：<a href="https://www.123pan.com/s/qHhDVv-nuQJv">https://www.123pan.com/s/qHhDVv-nuQJv</a><br>一键刷入工具：<a href="https://wwl.pan-reduction.one/d/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery/%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5%E5%B7%A5%E5%85%B7/SKKK%20TWRP%E4%B8%80%E9%94%AE%E5%88%B7%E5%85%A5V4.0.zip?sign=KuBGSya7vPZoVBnqXhf6UGZV7EdYZ5k5kidQ7yDL5J0=:0">点击下载</a></p>
+<p>历史维护者是wzsx150大佬，可以前往这位大佬的共享云盘下载：<br>链接： <a href="https://pan.hchl.top/s/oe4T4?path=/">https://pan.hchl.top/s/oe4T4?path=%2F</a><br>密码：wzsx150    </p>
+<p>搬运站点下载：<a href="https://wwl.pan-reduction.one/OneDrive/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/Recovery">点击访问</a></p>
+<h3 id="Ofox橙狐"><a href="#Ofox橙狐" class="headerlink" title="Ofox橙狐"></a>Ofox橙狐</h3><p>官网链接：<a href="https://xiaomitools.com/orangefox-recovery-cn/">点击访问</a><br>官方下载链接：<a href="https://orangefox.download/">点击访问</a><br><img src="/2023/01/09/20-13-38/Ofox.png"><br>橙狐的界面很美观，而且有很多自定义设置项，比较贴近MIUI的审美风格  </p>
+<h1 id="Recovery的刷入方式"><a href="#Recovery的刷入方式" class="headerlink" title="Recovery的刷入方式"></a>Recovery的刷入方式</h1><p>介于大部分Recovery的刷入方式不太一样，这里只介绍两种最稳妥的刷入方式，使用的是第三方Recovery Twrp  </p>
+<h2 id="前提条件"><a href="#前提条件" class="headerlink" title="前提条件"></a>前提条件</h2><p>1.首先<a href="https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn">点击下载</a>适合你当前平台的ADB工具，通过按住 电源键 + 音量下 进入Fastboot引导模式。然后，使用 USB 连接到你的电脑，运行 cmd 或者 bash 并执行命令以下所有命令（不推荐使用Windows Powershell）<br>2.清楚自己设备的分区类型，如图，图上说的很清楚我不过多赘述~<br><img src="/2023/01/09/20-13-38/fq.jpg"></p>
+<h2 id="Only-A设备刷入方式"><a href="#Only-A设备刷入方式" class="headerlink" title="Only A设备刷入方式"></a>Only A设备刷入方式</h2><p>演示设备：小米6    </p>
+<ol>
+<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
+<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
+亦或是<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
+返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">   </li>
+<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery xxx.img</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/flash.png"><br><img src="/2023/01/09/20-13-38/flash2.png"></li>
+<li>重启到Recovery<br>在cmd中键入命令<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/cq.png">   </li>
+<li>完成！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/4.png"></p>
+<h2 id="VAB设备刷入方式"><a href="#VAB设备刷入方式" class="headerlink" title="VAB设备刷入方式"></a>VAB设备刷入方式</h2><p>演示设备：Redmi K40</p>
+<ol>
+<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
+<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
+亦或是   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
+返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">    </li>
+<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/boot.png"><br><img src="/2023/01/09/20-13-38/boot2.png"> </li>
+<li>重启到Recovery<br>理论上会自动重启到Recovery，因为上一步的命令是boot（启动的意思），如果没有重启到Recovery，请手动。  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/cq.png">   </li>
+<li>固化Recovery<br>在Twrp高级里面选择刷入当前Twrp选项，然后重启Recovery<br><img src="/2023/01/09/20-13-38/gh.png"><br><img src="/2023/01/09/20-13-38/gh2.png"></li>
+<li>完成！</li>
+</ol>
+<h2 id="小米8Gen2以上设备刷入方式"><a href="#小米8Gen2以上设备刷入方式" class="headerlink" title="小米8Gen2以上设备刷入方式"></a>小米8Gen2以上设备刷入方式</h2><p>演示设备：小米13</p>
+<ol>
+<li>在文件管理器里输入<code>cmd</code>启动命令行窗口<br><img src="/2023/01/09/20-13-38/cmd.png">  </li>
+<li>检测设备连接情况<br>在cmd中键入命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices</span><br></pre></td></tr></table></figure>
+亦或是   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb devices -l</span><br></pre></td></tr></table></figure>
+返回提示已连接即可<br><img src="/2023/01/09/20-13-38/jc.png">    </li>
+<li>刷入Recovery<br>在cmd中键入命令，其中xxx.img是你Recovery文件的路径，可以直接拖入cmd窗口<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery_ab xxx.img</span><br></pre></td></tr></table></figure>
+<strong>注意：如果以上命令运行出错，请更新adb工具包或者使用以下命令</strong><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot flash recovery_a xxx.img</span><br><span class="line">fastboot flash recovery_b xxx.img</span><br></pre></td></tr></table></figure></li>
+<li>重启到Recovery<br>请手动，或在cmd内键入以下命令  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot reboot recovery</span><br></pre></td></tr></table></figure>
+<img src="/2023/01/09/20-13-38/cq.png">   </li>
+<li>完成！</li>
+</ol>
+<h2 id="通过搞机助手刷入Recovery"><a href="#通过搞机助手刷入Recovery" class="headerlink" title="通过搞机助手刷入Recovery"></a>通过搞机助手刷入Recovery</h2><p>首先你需要在<a href="https://lsdy.top/">官网下载</a>搞机助手这个软件,该过程较为简单</p>
+<ol>
+<li>将手机重启到引导模式<br><img src="/2023/01/09/20-13-38/f.png">  </li>
+<li>在侧边栏“引导模式”中选择“刷入REC”选项  </li>
+<li>选择Recovery文件<br><img src="/2023/01/09/20-13-38/x.png">  </li>
+<li>如果你是Only A分区结构的设备请选择“刷入”选项；如果你是VAB分区结构的设备请选择“临时刷入（A&#x2F;B分区设备）”选项，随后按上面的步骤固化Recovery。<br><img src="/2023/01/09/20-13-38/s.png">  </li>
+<li>完成！</li>
+</ol>
+<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
+<li>建议学习命令行形式的刷入，因为软件里的adb文件随时可能过期而无法适应新的内容，而谷歌官方的adb文件始终是可以的，学习的过程对自己来说也是一种提升~     </li>
+<li>如果你使用的是skkk的Recovery，一定要仔细阅读skkk提供的说明，核对好文件最前面的名称之后，再选择刷入的方式，切忌不能直接将任何Recovery直接刷入boot分区！！！<br><img src="/2023/01/09/20-13-38/skkk.jpg">      </li>
+<li>任何Recovery的名称后缀一定是.img，如果你下载下来是.zip，请解压后使用   </li>
+<li>Recovery需要与安卓版本对应才能成功解密（解密的密码一般是自己的锁屏密码），有些A12的Recovery也可用于A13，但是如果能找到A13的Recovery，就请使用A13的Recovery</li>
+</ol>
 ]]></content>
       <categories>
-        <category>搬运</category>
+        <category>数码</category>
+        <category>教程</category>
       </categories>
       <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月22日更新汇总</title>
-    <url>/2023/04/23/09-27-23/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.png"><br><strong>下图是上图ROM匹配的内核</strong><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/6.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月23日更新汇总</title>
-    <url>/2023/04/24/22-18-25/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/8.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月24日更新汇总</title>
-    <url>/2023/04/24/22-18-47/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/7.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月25日更新汇总</title>
-    <url>/2023/04/26/00-21-16/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/9.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/10.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/11.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
+        <tag>教程</tag>
+        <tag>玩机</tag>
+        <tag>Recovery</tag>
       </tags>
   </entry>
 </search>
