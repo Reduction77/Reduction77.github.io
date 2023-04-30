@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2023年4月14日更新汇总</title>
-    <url>/2023/04/15/00-52-35/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="AwankenOS-v3-6源码更新"><a href="#AwankenOS-v3-6源码更新" class="headerlink" title="AwankenOS v3.6源码更新"></a>AwankenOS v3.6源码更新</h1><h3 id="New-features"><a href="#New-features" class="headerlink" title="New features:"></a>New features:</h3><p>• Do not skip fingerprint authentication for UDFPS<br>• Enabled media player wave&#x2F;shimmering effects<br>• Introduced new wallpaper for triton-void release<br>• Introduced UDFPS animation from NothingOS<br>• Merged hidden app with applock     </p>
-<h3 id="Fixed-issues"><a href="#Fixed-issues" class="headerlink" title="Fixed issues:"></a>Fixed issues:</h3><p>• Fixed Pixel launcher issues for tablet mode<br>• Misc fixes and improvements    </p>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MikuUI-TDA-odin-23041317-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985ca54eb6.png" alt="屏幕截图 2023-04-15 004838.png"><br><code>PixelOS_alioth-13.0-20230414-0407</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cad9b9b.png" alt="屏幕截图 2023-04-15 004822.png"><br><code>SuperiorOS-Thirteen-alioth-20230414-0310</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb0ecbb.png" alt="屏幕截图 2023-04-15 004852.png"><br><code>dEaD sHot edition14.0.2 id stable</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb2df79.png" alt="屏幕截图 2023-04-15 004906.png"><br><code>DerpFest-13-Community-Tango-haydn-20230413-2029</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb8e219.png" alt="屏幕截图 2023-04-15 005134.png"><br><code>alioth_beta-upb1.230309.014-Pixel5-v1</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cba05d2.png" alt="屏幕截图 2023-04-15 005205.png">    </p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2023年4月13日更新汇总</title>
     <url>/2023/04/14/20-28-35/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
@@ -76,24 +56,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月17日更新汇总</title>
-    <url>/2023/04/18/00-50-10/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件或者点击上面的链接直接访问目录！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><a href="https://pan.reduction.one/OneDrive1/Rom/rapheal/Unofficial/LineageOS/A13/penglezos/lineage-20.0-20230417-UNOFFICIAL-raphael">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7aec8af25.png" alt="1.png"><br><a href="https://pan.reduction.one/OneDrive1/Rom/haydn/Unofficial/ArrowOS/A13.1/William_sadoyui/Arrow-v13.1-haydn-UNOFFICIAL-20230417-GAPPS">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7af61dea4.png" alt="2.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2023年4月18日更新汇总</title>
     <url>/2023/04/18/08-14-23/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
@@ -116,6 +78,44 @@
 <p><img src="https://photo.reduction.one/i/2023/04/19/643ed05fd0d03.png" alt="12.png"></p>
 <p><img src="https://photo.reduction.one/i/2023/04/19/643ed06079b40.png" alt="6.png"></p>
 <p><img src="https://photo.reduction.one/i/2023/04/19/643ed43d0fae8.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月14日更新汇总</title>
+    <url>/2023/04/15/00-52-35/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="AwankenOS-v3-6源码更新"><a href="#AwankenOS-v3-6源码更新" class="headerlink" title="AwankenOS v3.6源码更新"></a>AwankenOS v3.6源码更新</h1><h3 id="New-features"><a href="#New-features" class="headerlink" title="New features:"></a>New features:</h3><p>• Do not skip fingerprint authentication for UDFPS<br>• Enabled media player wave&#x2F;shimmering effects<br>• Introduced new wallpaper for triton-void release<br>• Introduced UDFPS animation from NothingOS<br>• Merged hidden app with applock     </p>
+<h3 id="Fixed-issues"><a href="#Fixed-issues" class="headerlink" title="Fixed issues:"></a>Fixed issues:</h3><p>• Fixed Pixel launcher issues for tablet mode<br>• Misc fixes and improvements    </p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MikuUI-TDA-odin-23041317-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985ca54eb6.png" alt="屏幕截图 2023-04-15 004838.png"><br><code>PixelOS_alioth-13.0-20230414-0407</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cad9b9b.png" alt="屏幕截图 2023-04-15 004822.png"><br><code>SuperiorOS-Thirteen-alioth-20230414-0310</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb0ecbb.png" alt="屏幕截图 2023-04-15 004852.png"><br><code>dEaD sHot edition14.0.2 id stable</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb2df79.png" alt="屏幕截图 2023-04-15 004906.png"><br><code>DerpFest-13-Community-Tango-haydn-20230413-2029</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb8e219.png" alt="屏幕截图 2023-04-15 005134.png"><br><code>alioth_beta-upb1.230309.014-Pixel5-v1</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cba05d2.png" alt="屏幕截图 2023-04-15 005205.png">    </p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月17日更新汇总</title>
+    <url>/2023/04/18/00-50-10/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件或者点击上面的链接直接访问目录！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><a href="https://pan.reduction.one/OneDrive1/Rom/rapheal/Unofficial/LineageOS/A13/penglezos/lineage-20.0-20230417-UNOFFICIAL-raphael">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7aec8af25.png" alt="1.png"><br><a href="https://pan.reduction.one/OneDrive1/Rom/haydn/Unofficial/ArrowOS/A13.1/William_sadoyui/Arrow-v13.1-haydn-UNOFFICIAL-20230417-GAPPS">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7af61dea4.png" alt="2.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -197,24 +197,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月24日更新汇总</title>
-    <url>/2023/04/24/22-18-47/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/7.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2023年4月23日更新汇总</title>
     <url>/2023/04/24/22-18-25/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
@@ -224,6 +206,24 @@
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/8.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月24日更新汇总</title>
+    <url>/2023/04/24/22-18-47/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/7.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -287,6 +287,30 @@
       </tags>
   </entry>
   <entry>
+    <title>2023年4月29日更新汇总</title>
+    <url>/2023/04/30/01-08-31/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/5.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/6.png)-->
+<p><img src="https://photo.reduction.one/i/2023/04/30/644d4eb045c0d.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb0a7ed8.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb1af3ff.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb535317.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb56a820.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb597061.png" alt="6.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2023年4月28日更新汇总</title>
     <url>/2023/04/29/00-45-17/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
@@ -301,6 +325,31 @@
 ![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/3.png)
 ![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/4.png)
 ![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/5.png)-->]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月30日更新汇总</title>
+    <url>/2023/05/01/00-09-18/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/5.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/6.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/7.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/01/644e936446845.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936501052.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9365e1b60.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936689dfa.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93668a4bd.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93671f0dc.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9367852e3.png" alt="3.png"></p>
+]]></content>
       <categories>
         <category>搬运</category>
       </categories>
@@ -331,6 +380,49 @@
         <tag>教程</tag>
         <tag>Cloudflare</tag>
         <tag>Alist</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Magisk及刷入方式</title>
+    <url>/2023/01/20/15-05-26/</url>
+    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><img src="/2023/01/20/15-05-26/m.png"><br>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，在boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
+<h1 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h1><p>Magisk分为了四个主要版本，分别是Magisk，Magisk Alpha，Magisk Delta，Magisk Canary，个人感觉只是功能不同，比如Magisk原版功能少但是可以保证稳定，Magisk Alpha和Magisk Delta自带了隐藏root功能，而且Magisk Delta的Zygisk和MagiskHide可以共存。几张图可以参考……<br><img src="/2023/01/20/15-05-26/a.jpg"><br><img src="/2023/01/20/15-05-26/a2.jpg"><br><img src="/2023/01/20/15-05-26/d.jpg"><br><img src="/2023/01/20/15-05-26/d2.jpg"><br><img src="/2023/01/20/15-05-26/y.jpg"><br><img src="/2023/01/20/15-05-26/y2.jpg">   </p>
+<h1 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h1><p>上述提到的四个版本都可以在Github上下载到，其中Magisk原版可以在酷安直接下载，也可以到Magisk的Github仓库下载（自备魔法），其他几个版本需要自己在酷安上找别人分享的下载链接，笔者只找到了TG频道的下载方式，没有找到其他的，欢迎各位大佬引路！<br>1.	Magisk：<a href="https://github.com/topjohnwu/Magisk">点击访问</a><br>搬运地址：<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/Android%E7%AB%AF/Magisk">点击访问</a><br>2.	Magisk Alpha：<a href="https://t.me/magiskalpha">点击访问</a><br>3.	Magisk Delta：<a href="https://t.me/magiskdelta">点击访问</a>   </p>
+<h1 id="刷入教程"><a href="#刷入教程" class="headerlink" title="刷入教程"></a>刷入教程</h1><h2 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h2><h3 id="提取boot-img"><a href="#提取boot-img" class="headerlink" title="提取boot.img"></a>提取<code>boot.img</code></h3><p>Magisk需要修补<code>boot.img</code>来获得权限，所以需要寻找<code>boot.img</code>，线刷包的<code>boot.img</code>一般在线刷包的<code>images</code>文件夹里面，直接拉出来就可以。<br><img src="/2023/01/20/15-05-26/xsb.jpg"><br>卡刷包的<code>boot.img</code>需要从<code>payload.bin</code>提取，流程如下：  </p>
+<ol>
+<li>下载解包工具<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/PC%E7%AB%AF/payload_dumper-win64.zip">点击访问</a>   </li>
+<li>解压自己的卡刷包得到<code>payload.bin</code>，并将其放入工具的<code>payload_input</code>文件夹。<br><img src="/2023/01/20/15-05-26/jb.png"><br><img src="/2023/01/20/15-05-26/jb2.png"></li>
+<li>双击<code>exe</code>文件，等待<code>boot</code>出现后关闭窗口<br><img src="/2023/01/20/15-05-26/boot.png"></li>
+<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/ddboot.png"></li>
+</ol>
+<h3 id="修补boot-img"><a href="#修补boot-img" class="headerlink" title="修补boot.img"></a>修补<code>boot.img</code></h3><p>将<code>boot.img</code>发送到手机，打开Magisk选择<code>安装</code>→<code>选择并修补一个文件</code>，选择你刚刚解包得到的<code>boot.img</code>，然后点击<code>安装</code>，这样就等到了被Magisk修补过的<code>boot.img</code>。<br><img src="/2023/01/20/15-05-26/xb.jpg"><br><img src="/2023/01/20/15-05-26/xb2.jpg"><br><img src="/2023/01/20/15-05-26/cq.jpg"><br><img src="/2023/01/20/15-05-26/wj.jpg"></p>
+<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在电脑上打开<code>adb</code>命令行，手机重启到fastboot引导模式，键入：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Fastboot flash boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件；<br>注意：如果你是vab分区设备，则不建议直接将<code>boot.img</code>文件刷入<code>boot</code>分区，需要使用使用以下命令来零时启动：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
+<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件。然后进入系统，此时root权限仍然存在，打开Magisk，点击<code>安装</code>→<code>直接安装（推荐）</code>→<code>开始</code>，随后根据提示重启即可。<br><img src="/2023/01/20/15-05-26/vab.jpg"></p>
+<h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>通过上述步骤就可以得到完整永久的root权限  </p>
+<h2 id="卡刷（不推荐）"><a href="#卡刷（不推荐）" class="headerlink" title="卡刷（不推荐）"></a>卡刷（不推荐）</h2><p>笔者刷机5年，不建议Magisk通过卡刷的方式刷入，而且Magisk的文档里从23.0开始就写到过不推荐卡刷，卡刷可能导致不稳定性和失败的可能。skkk（酷安@mi_block）也曾再讨论组里面提起过此事。刷入和卸载过程也十分简单，所以简述。<br><img src="/2023/01/20/15-05-26/skkk.jpg"></p>
+<h3 id="刷入："><a href="#刷入：" class="headerlink" title="刷入："></a>刷入：</h3><p>将下载到的<code>magisk.apk</code>更名为<code>magisk.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可安装获取root权限。</p>
+<h3 id="卸载："><a href="#卸载：" class="headerlink" title="卸载："></a>卸载：</h3><p>将<code>magisk.apk</code>更名为<code>uninstall.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可卸载Magisk。</p>
+<h1 id="升级保root教程"><a href="#升级保root教程" class="headerlink" title="升级保root教程"></a>升级保root教程</h1><p>手机升级的时候会更新系统的<code>boot.img</code>文件，所以需要让Magisk再修补一遍<code>boot.img</code>，然而，因为该过程的原理是修补未使用槽位系统里面的<code>boot.img</code>，所以only a分区机型无法使用这个方法。  </p>
+<ol>
+<li>下载全量（完整）卡刷包<br>因为增量包不完整，而且增量包的升级无法保证系统完整性，所以建议没有root升级的时候，也下载全量（完整）包。   </li>
+<li>等待系统提示安装完成之后不要同意系统给出的重启请求，打开Magisk，点击<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code><br><img src="/2023/01/20/15-05-26/ota.jpg"></li>
+<li>完成！</li>
+</ol>
+<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
+<li>注意<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code>这几步操作不能在没有系统更新的情况下操作，不然会卡米哟~</li>
+</ol>
+]]></content>
+      <categories>
+        <category>数码</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>玩机</tag>
+        <tag>小米</tag>
       </tags>
   </entry>
   <entry>
@@ -382,49 +474,6 @@
 <li><pre><code>不正确的Gapps版本的刷入会导致设备在使用过程中出现问题，包括但不限于自动重启等等。
 </code></pre>
 </li>
-</ol>
-]]></content>
-      <categories>
-        <category>数码</category>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>玩机</tag>
-        <tag>小米</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Magisk及刷入方式</title>
-    <url>/2023/01/20/15-05-26/</url>
-    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p><img src="/2023/01/20/15-05-26/m.png"><br>刷入Magisk就等于成功Root手机，Magsik作为Root的授权管理器，在boot里面创建钩子，进而构建出一个能再system基础上能够自定义替换，增加和删除的文件系统，所有的操作均在开机的时候完成，所以在解锁Root了之后，你会感觉开机貌似变慢了。  </p>
-<h1 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h1><p>Magisk分为了四个主要版本，分别是Magisk，Magisk Alpha，Magisk Delta，Magisk Canary，个人感觉只是功能不同，比如Magisk原版功能少但是可以保证稳定，Magisk Alpha和Magisk Delta自带了隐藏root功能，而且Magisk Delta的Zygisk和MagiskHide可以共存。几张图可以参考……<br><img src="/2023/01/20/15-05-26/a.jpg"><br><img src="/2023/01/20/15-05-26/a2.jpg"><br><img src="/2023/01/20/15-05-26/d.jpg"><br><img src="/2023/01/20/15-05-26/d2.jpg"><br><img src="/2023/01/20/15-05-26/y.jpg"><br><img src="/2023/01/20/15-05-26/y2.jpg">   </p>
-<h1 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h1><p>上述提到的四个版本都可以在Github上下载到，其中Magisk原版可以在酷安直接下载，也可以到Magisk的Github仓库下载（自备魔法），其他几个版本需要自己在酷安上找别人分享的下载链接，笔者只找到了TG频道的下载方式，没有找到其他的，欢迎各位大佬引路！<br>1.	Magisk：<a href="https://github.com/topjohnwu/Magisk">点击访问</a><br>搬运地址：<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/Android%E7%AB%AF/Magisk">点击访问</a><br>2.	Magisk Alpha：<a href="https://t.me/magiskalpha">点击访问</a><br>3.	Magisk Delta：<a href="https://t.me/magiskdelta">点击访问</a>   </p>
-<h1 id="刷入教程"><a href="#刷入教程" class="headerlink" title="刷入教程"></a>刷入教程</h1><h2 id="线刷"><a href="#线刷" class="headerlink" title="线刷"></a>线刷</h2><h3 id="提取boot-img"><a href="#提取boot-img" class="headerlink" title="提取boot.img"></a>提取<code>boot.img</code></h3><p>Magisk需要修补<code>boot.img</code>来获得权限，所以需要寻找<code>boot.img</code>，线刷包的<code>boot.img</code>一般在线刷包的<code>images</code>文件夹里面，直接拉出来就可以。<br><img src="/2023/01/20/15-05-26/xsb.jpg"><br>卡刷包的<code>boot.img</code>需要从<code>payload.bin</code>提取，流程如下：  </p>
-<ol>
-<li>下载解包工具<a href="https://pan.sakuraikaede.online/OneDrive-%E6%9C%B1%E6%9C%B1%E7%99%BD%E7%99%BD/%E7%8E%A9%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%8E%A9%E6%9C%BA%E8%BD%AF%E4%BB%B6/PC%E7%AB%AF/payload_dumper-win64.zip">点击访问</a>   </li>
-<li>解压自己的卡刷包得到<code>payload.bin</code>，并将其放入工具的<code>payload_input</code>文件夹。<br><img src="/2023/01/20/15-05-26/jb.png"><br><img src="/2023/01/20/15-05-26/jb2.png"></li>
-<li>双击<code>exe</code>文件，等待<code>boot</code>出现后关闭窗口<br><img src="/2023/01/20/15-05-26/boot.png"></li>
-<li>打开<code>payload_output</code>文件夹，得到<code>boot.img</code><br><img src="/2023/01/20/15-05-26/ddboot.png"></li>
-</ol>
-<h3 id="修补boot-img"><a href="#修补boot-img" class="headerlink" title="修补boot.img"></a>修补<code>boot.img</code></h3><p>将<code>boot.img</code>发送到手机，打开Magisk选择<code>安装</code>→<code>选择并修补一个文件</code>，选择你刚刚解包得到的<code>boot.img</code>，然后点击<code>安装</code>，这样就等到了被Magisk修补过的<code>boot.img</code>。<br><img src="/2023/01/20/15-05-26/xb.jpg"><br><img src="/2023/01/20/15-05-26/xb2.jpg"><br><img src="/2023/01/20/15-05-26/cq.jpg"><br><img src="/2023/01/20/15-05-26/wj.jpg"></p>
-<h3 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h3><p>在电脑上打开<code>adb</code>命令行，手机重启到fastboot引导模式，键入：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Fastboot flash boot xxx.img</span><br></pre></td></tr></table></figure>
-<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件；<br>注意：如果你是vab分区设备，则不建议直接将<code>boot.img</code>文件刷入<code>boot</code>分区，需要使用使用以下命令来零时启动：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fastboot boot xxx.img</span><br></pre></td></tr></table></figure>
-<p>其中<code>xxx.img</code>是刚刚得到的被Magisk修补过的<code>boot.img</code>文件。然后进入系统，此时root权限仍然存在，打开Magisk，点击<code>安装</code>→<code>直接安装（推荐）</code>→<code>开始</code>，随后根据提示重启即可。<br><img src="/2023/01/20/15-05-26/vab.jpg"></p>
-<h3 id="完成"><a href="#完成" class="headerlink" title="完成"></a>完成</h3><p>通过上述步骤就可以得到完整永久的root权限  </p>
-<h2 id="卡刷（不推荐）"><a href="#卡刷（不推荐）" class="headerlink" title="卡刷（不推荐）"></a>卡刷（不推荐）</h2><p>笔者刷机5年，不建议Magisk通过卡刷的方式刷入，而且Magisk的文档里从23.0开始就写到过不推荐卡刷，卡刷可能导致不稳定性和失败的可能。skkk（酷安@mi_block）也曾再讨论组里面提起过此事。刷入和卸载过程也十分简单，所以简述。<br><img src="/2023/01/20/15-05-26/skkk.jpg"></p>
-<h3 id="刷入："><a href="#刷入：" class="headerlink" title="刷入："></a>刷入：</h3><p>将下载到的<code>magisk.apk</code>更名为<code>magisk.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可安装获取root权限。</p>
-<h3 id="卸载："><a href="#卸载：" class="headerlink" title="卸载："></a>卸载：</h3><p>将<code>magisk.apk</code>更名为<code>uninstall.zip</code>，在第三方Recovery中点击<code>安装</code>，选择<code>magisk.zip</code>，刷入即可卸载Magisk。</p>
-<h1 id="升级保root教程"><a href="#升级保root教程" class="headerlink" title="升级保root教程"></a>升级保root教程</h1><p>手机升级的时候会更新系统的<code>boot.img</code>文件，所以需要让Magisk再修补一遍<code>boot.img</code>，然而，因为该过程的原理是修补未使用槽位系统里面的<code>boot.img</code>，所以only a分区机型无法使用这个方法。  </p>
-<ol>
-<li>下载全量（完整）卡刷包<br>因为增量包不完整，而且增量包的升级无法保证系统完整性，所以建议没有root升级的时候，也下载全量（完整）包。   </li>
-<li>等待系统提示安装完成之后不要同意系统给出的重启请求，打开Magisk，点击<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code><br><img src="/2023/01/20/15-05-26/ota.jpg"></li>
-<li>完成！</li>
-</ol>
-<h1 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h1><ol>
-<li>注意<code>安装</code>→<code>安装到未使用的槽位（OTA后）</code>→<code>开始</code>这几步操作不能在没有系统更新的情况下操作，不然会卡米哟~</li>
 </ol>
 ]]></content>
       <categories>
@@ -525,6 +574,18 @@
       <tags>
         <tag>随笔</tag>
         <tag>摘抄</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你为什么大学不谈恋爱？</title>
+    <url>/2023/03/20/07-21-20/</url>
+    <content><![CDATA[<h4 id="我在知乎上看到了这个问题，和我想得貌似差不多…………"><a href="#我在知乎上看到了这个问题，和我想得貌似差不多…………" class="headerlink" title="我在知乎上看到了这个问题，和我想得貌似差不多…………"></a>我在知乎上看到了这个问题，和我想得貌似差不多…………</h4><p>她以后会是别人明媒正娶的妻子，而我呢，只不过是她年少时犯的一个错罢了，她以后会是别人的母亲别人的妻子，但她永远是我那年的太阳，炽热又耀眼，可望不可得，她不会发福不会变老，她永远在我的记忆里，穿着洁白的长裙笑颜如花，她永远站在那里望向我，又好像喊着我得名字。后来起风了，吹起了她凌乱的发丝，吹起了满地的落叶，还吹起了无限的心动，但风吹过了，以后也不会再有了..<br>我以为一直不回消息的人不礼貌，后来发现一直发消息的才不礼貌。<br><img src="/2023/03/20/07-21-20/1.jpg"></p>
+]]></content>
+      <categories>
+        <category>感</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -1383,18 +1444,6 @@
       </tags>
   </entry>
   <entry>
-    <title>你为什么大学不谈恋爱？</title>
-    <url>/2023/03/20/07-21-20/</url>
-    <content><![CDATA[<h4 id="我在知乎上看到了这个问题，和我想得貌似差不多…………"><a href="#我在知乎上看到了这个问题，和我想得貌似差不多…………" class="headerlink" title="我在知乎上看到了这个问题，和我想得貌似差不多…………"></a>我在知乎上看到了这个问题，和我想得貌似差不多…………</h4><p>她以后会是别人明媒正娶的妻子，而我呢，只不过是她年少时犯的一个错罢了，她以后会是别人的母亲别人的妻子，但她永远是我那年的太阳，炽热又耀眼，可望不可得，她不会发福不会变老，她永远在我的记忆里，穿着洁白的长裙笑颜如花，她永远站在那里望向我，又好像喊着我得名字。后来起风了，吹起了她凌乱的发丝，吹起了满地的落叶，还吹起了无限的心动，但风吹过了，以后也不会再有了..<br>我以为一直不回消息的人不礼貌，后来发现一直发消息的才不礼貌。<br><img src="/2023/03/20/07-21-20/1.jpg"></p>
-]]></content>
-      <categories>
-        <category>感</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第三方Recovery及刷入方法</title>
     <url>/2023/01/09/20-13-38/</url>
     <content><![CDATA[<h1 id="有关于Recovery的个人认识"><a href="#有关于Recovery的个人认识" class="headerlink" title="有关于Recovery的个人认识"></a>有关于Recovery的个人认识</h1><p>经常刷机的友友们都知道，类原生的刷机包中一般都有recovery.img文件，这个就是Recovery，在老的机型里是存在Recovery分区的 ，到了出场安卓11以上机型之后，Recovery分区被去除，加入了A&#x2F;B动态分区模式，支持无缝升级，但是在小米8gen1以上的机型中又加回了Recovery分区。接下来我拿小米说开去（毕竟我只买得起小米这种Soc优秀又能搞机的手机）。</p>
@@ -1516,55 +1565,6 @@
         <tag>教程</tag>
         <tag>玩机</tag>
         <tag>小米</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月29日更新汇总</title>
-    <url>/2023/04/30/01-08-31/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/6.png)-->
-<p><img src="https://photo.reduction.one/i/2023/04/30/644d4eb045c0d.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb0a7ed8.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb1af3ff.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb535317.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb56a820.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb597061.png" alt="6.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月30日更新汇总</title>
-    <url>/2023/05/01/00-09-18/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/7.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/01/644e936446845.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936501052.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9365e1b60.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936689dfa.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93668a4bd.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93671f0dc.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9367852e3.png" alt="3.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
       </tags>
   </entry>
 </search>
