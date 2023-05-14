@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2023年4月13日更新汇总</title>
+    <url>/2023/04/14/20-28-35/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>qassa-v2.1-sagit-20230411-1318-Vanilla</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511beb044.png" alt="屏幕截图 2023-04-14 210316.png"></p>
+<p><img src="http://photo.reduction.one/pro/2023/04/14/6439511c31699.png" alt="屏幕截图 2023-04-14 210334.png"><br><code>SuperiorOS-Thirteen-venus-20230413-0049</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e621f0.png" alt="屏幕截图 2023-04-14 210508.png"><br><code>DerpFest-13-Community-Tango-venus-20230408-1302</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e7179f.png" alt="屏幕截图 2023-04-14 210457.png"><br><code>tequila-tortilla-20230412-0207-OFFICIAL-alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511f3ec03.png" alt="屏幕截图 2023-04-14 210448.png"><br><code>project-zephyrus-CLO_alioth-13.2-20230410-0743</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951211a228.png" alt="屏幕截图 2023-04-14 210427.png"><br><code>DerpFest-13-CARROT-Tango-alioth-20230409-1630</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512129cbe.png" alt="屏幕截图 2023-04-14 210414.png"><br><code>MikuUI-TDA-wayne-23040609-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032705-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032711-GAPPS-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23040614-GAPPS-OFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951226bfec.png" alt="屏幕截图 2023-04-14 210520.png"><br><code>Cherish-OS-v4.7-20230413-0453-alioth-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512281f25.png" alt="屏幕截图 2023-04-14 210402.png"><br><code>evolution_haydn-ota-tq2a.230405.003.e1-04121941-unsigned</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512318c74.png" alt="屏幕截图 2023-04-14 210530.png"><br><code>PixysOS-v6.2.1-GAPPS-raphael-UNOFFICIAL-20230411-102009</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512405268.png" alt="屏幕截图 2023-04-14 210544.png"><br><code>tequila-tortilla-20230411-0902-OFFICIAL-umi</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124aa767.png" alt="屏幕截图 2023-04-14 210616.png"><br><code>PixelExtended-5.6_alioth-13.0-20230410-2024-UNOFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124d6b4f.png" alt="屏幕截图 2023-04-14 210436.png"><br><code>ALIOTH-IN_MYUI_5.0_MOTOX40_T1TR33.4-30-36_20230410.zip</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124e5e99.png" alt="屏幕截图 2023-04-14 210712.png"><br><code>GT_ROM_3.0_V14.0.23.3.20.DEV_13_alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126864bd.png" alt="屏幕截图 2023-04-14 210753.png"><br><code>RealKing</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126812f9.png" alt="屏幕截图 2023-04-14 210740.png"><br><code>OGK-014</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512723841.png" alt="屏幕截图 2023-04-14 210808.png"><br><code>SuperiorOS-Thirteen-raphael-20230413-0409</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951286a252.png" alt="屏幕截图 2023-04-14 210902.png"><br><code>MiuiSR_Wiston_Haydn_Nfc_Stable_05.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512996c4f.png" alt="屏幕截图 2023-04-14 210928.png"><br><code>MiModUi_14.22_MIUIVN_ALIOTH_V14_0_5_0_TKHCNXM_A13_Mi10TPro_23.4.11</code><br><code>MiModUi_14.23_MIUIVN_ALIOTH_V14.0.6.0.TKHCNXM_A13_Mi10TPro_23.4.13</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951299af8d.png" alt="屏幕截图 2023-04-14 210915.png"><br>(以上两个都是作者上传的，图片中未第二个，第一个是老版本的)</p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月14日更新汇总</title>
+    <url>/2023/04/15/00-52-35/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="AwankenOS-v3-6源码更新"><a href="#AwankenOS-v3-6源码更新" class="headerlink" title="AwankenOS v3.6源码更新"></a>AwankenOS v3.6源码更新</h1><h3 id="New-features"><a href="#New-features" class="headerlink" title="New features:"></a>New features:</h3><p>• Do not skip fingerprint authentication for UDFPS<br>• Enabled media player wave&#x2F;shimmering effects<br>• Introduced new wallpaper for triton-void release<br>• Introduced UDFPS animation from NothingOS<br>• Merged hidden app with applock     </p>
+<h3 id="Fixed-issues"><a href="#Fixed-issues" class="headerlink" title="Fixed issues:"></a>Fixed issues:</h3><p>• Fixed Pixel launcher issues for tablet mode<br>• Misc fixes and improvements    </p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MikuUI-TDA-odin-23041317-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985ca54eb6.png" alt="屏幕截图 2023-04-15 004838.png"><br><code>PixelOS_alioth-13.0-20230414-0407</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cad9b9b.png" alt="屏幕截图 2023-04-15 004822.png"><br><code>SuperiorOS-Thirteen-alioth-20230414-0310</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb0ecbb.png" alt="屏幕截图 2023-04-15 004852.png"><br><code>dEaD sHot edition14.0.2 id stable</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb2df79.png" alt="屏幕截图 2023-04-15 004906.png"><br><code>DerpFest-13-Community-Tango-haydn-20230413-2029</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb8e219.png" alt="屏幕截图 2023-04-15 005134.png"><br><code>alioth_beta-upb1.230309.014-Pixel5-v1</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cba05d2.png" alt="屏幕截图 2023-04-15 005205.png">    </p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2023年4月15日更新汇总</title>
     <url>/2023/04/16/00-49-46/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
@@ -37,54 +76,15 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月17日更新汇总</title>
-    <url>/2023/04/18/00-50-10/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+    <title>2023年4月19日更新汇总</title>
+    <url>/2023/04/20/01-21-40/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM&amp;内核</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件或者点击上面的链接直接访问目录！</li>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><a href="https://pan.reduction.one/OneDrive1/Rom/rapheal/Unofficial/LineageOS/A13/penglezos/lineage-20.0-20230417-UNOFFICIAL-raphael">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7aec8af25.png" alt="1.png"><br><a href="https://pan.reduction.one/OneDrive1/Rom/haydn/Unofficial/ArrowOS/A13.1/William_sadoyui/Arrow-v13.1-haydn-UNOFFICIAL-20230417-GAPPS">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7af61dea4.png" alt="2.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月13日更新汇总</title>
-    <url>/2023/04/14/20-28-35/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>qassa-v2.1-sagit-20230411-1318-Vanilla</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511beb044.png" alt="屏幕截图 2023-04-14 210316.png"></p>
-<p><img src="http://photo.reduction.one/pro/2023/04/14/6439511c31699.png" alt="屏幕截图 2023-04-14 210334.png"><br><code>SuperiorOS-Thirteen-venus-20230413-0049</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e621f0.png" alt="屏幕截图 2023-04-14 210508.png"><br><code>DerpFest-13-Community-Tango-venus-20230408-1302</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511e7179f.png" alt="屏幕截图 2023-04-14 210457.png"><br><code>tequila-tortilla-20230412-0207-OFFICIAL-alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439511f3ec03.png" alt="屏幕截图 2023-04-14 210448.png"><br><code>project-zephyrus-CLO_alioth-13.2-20230410-0743</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951211a228.png" alt="屏幕截图 2023-04-14 210427.png"><br><code>DerpFest-13-CARROT-Tango-alioth-20230409-1630</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512129cbe.png" alt="屏幕截图 2023-04-14 210414.png"><br><code>MikuUI-TDA-wayne-23040609-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032705-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032711-GAPPS-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23040614-GAPPS-OFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951226bfec.png" alt="屏幕截图 2023-04-14 210520.png"><br><code>Cherish-OS-v4.7-20230413-0453-alioth-OFFICIAL-GApps</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512281f25.png" alt="屏幕截图 2023-04-14 210402.png"><br><code>evolution_haydn-ota-tq2a.230405.003.e1-04121941-unsigned</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512318c74.png" alt="屏幕截图 2023-04-14 210530.png"><br><code>PixysOS-v6.2.1-GAPPS-raphael-UNOFFICIAL-20230411-102009</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512405268.png" alt="屏幕截图 2023-04-14 210544.png"><br><code>tequila-tortilla-20230411-0902-OFFICIAL-umi</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124aa767.png" alt="屏幕截图 2023-04-14 210616.png"><br><code>PixelExtended-5.6_alioth-13.0-20230410-2024-UNOFFICIAL</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124d6b4f.png" alt="屏幕截图 2023-04-14 210436.png"><br><code>ALIOTH-IN_MYUI_5.0_MOTOX40_T1TR33.4-30-36_20230410.zip</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395124e5e99.png" alt="屏幕截图 2023-04-14 210712.png"><br><code>GT_ROM_3.0_V14.0.23.3.20.DEV_13_alioth</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126864bd.png" alt="屏幕截图 2023-04-14 210753.png"><br><code>RealKing</code><br><img src="http://photo.reduction.one/pro/2023/04/14/64395126812f9.png" alt="屏幕截图 2023-04-14 210740.png"><br><code>OGK-014</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512723841.png" alt="屏幕截图 2023-04-14 210808.png"><br><code>SuperiorOS-Thirteen-raphael-20230413-0409</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951286a252.png" alt="屏幕截图 2023-04-14 210902.png"><br><code>MiuiSR_Wiston_Haydn_Nfc_Stable_05.04.23</code><br><img src="http://photo.reduction.one/pro/2023/04/14/6439512996c4f.png" alt="屏幕截图 2023-04-14 210928.png"><br><code>MiModUi_14.22_MIUIVN_ALIOTH_V14_0_5_0_TKHCNXM_A13_Mi10TPro_23.4.11</code><br><code>MiModUi_14.23_MIUIVN_ALIOTH_V14.0.6.0.TKHCNXM_A13_Mi10TPro_23.4.13</code><br><img src="http://photo.reduction.one/pro/2023/04/14/643951299af8d.png" alt="屏幕截图 2023-04-14 210915.png"><br>(以上两个都是作者上传的，图片中未第二个，第一个是老版本的)</p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月14日更新汇总</title>
-    <url>/2023/04/15/00-52-35/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="AwankenOS-v3-6源码更新"><a href="#AwankenOS-v3-6源码更新" class="headerlink" title="AwankenOS v3.6源码更新"></a>AwankenOS v3.6源码更新</h1><h3 id="New-features"><a href="#New-features" class="headerlink" title="New features:"></a>New features:</h3><p>• Do not skip fingerprint authentication for UDFPS<br>• Enabled media player wave&#x2F;shimmering effects<br>• Introduced new wallpaper for triton-void release<br>• Introduced UDFPS animation from NothingOS<br>• Merged hidden app with applock     </p>
-<h3 id="Fixed-issues"><a href="#Fixed-issues" class="headerlink" title="Fixed issues:"></a>Fixed issues:</h3><p>• Fixed Pixel launcher issues for tablet mode<br>• Misc fixes and improvements    </p>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MikuUI-TDA-odin-23041317-COMMUNITY</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985ca54eb6.png" alt="屏幕截图 2023-04-15 004838.png"><br><code>PixelOS_alioth-13.0-20230414-0407</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cad9b9b.png" alt="屏幕截图 2023-04-15 004822.png"><br><code>SuperiorOS-Thirteen-alioth-20230414-0310</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb0ecbb.png" alt="屏幕截图 2023-04-15 004852.png"><br><code>dEaD sHot edition14.0.2 id stable</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb2df79.png" alt="屏幕截图 2023-04-15 004906.png"><br><code>DerpFest-13-Community-Tango-haydn-20230413-2029</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cb8e219.png" alt="屏幕截图 2023-04-15 005134.png"><br><code>alioth_beta-upb1.230309.014-Pixel5-v1</code><br><img src="http://photo.reduction.one/pro/2023/04/15/643985cba05d2.png" alt="屏幕截图 2023-04-15 005205.png">    </p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/4.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -125,51 +125,15 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月19日更新汇总</title>
-    <url>/2023/04/20/01-21-40/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM&amp;内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/4.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月22日更新汇总</title>
-    <url>/2023/04/23/09-27-23/</url>
+    <title>2023年4月17日更新汇总</title>
+    <url>/2023/04/18/00-50-10/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件或者点击上面的链接直接访问目录！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.png"><br><strong>下图是上图ROM匹配的内核</strong><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/6.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月20日更新汇总</title>
-    <url>/2023/04/20/23-41-22/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/6.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><a href="https://pan.reduction.one/OneDrive1/Rom/rapheal/Unofficial/LineageOS/A13/penglezos/lineage-20.0-20230417-UNOFFICIAL-raphael">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7aec8af25.png" alt="1.png"><br><a href="https://pan.reduction.one/OneDrive1/Rom/haydn/Unofficial/ArrowOS/A13.1/William_sadoyui/Arrow-v13.1-haydn-UNOFFICIAL-20230417-GAPPS">DL</a><br><img src="http://photo.reduction.one/pro/2023/04/18/643d7af61dea4.png" alt="2.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -215,15 +179,33 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月24日更新汇总</title>
-    <url>/2023/04/24/22-18-47/</url>
+    <title>2023年4月22日更新汇总</title>
+    <url>/2023/04/23/09-27-23/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/7.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.png"><br><strong>下图是上图ROM匹配的内核</strong><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/6.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月20日更新汇总</title>
+    <url>/2023/04/20/23-41-22/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/6.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -287,6 +269,24 @@
       </tags>
   </entry>
   <entry>
+    <title>2023年4月24日更新汇总</title>
+    <url>/2023/04/24/22-18-47/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/7.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2023年4月28日更新汇总</title>
     <url>/2023/04/29/00-45-17/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
@@ -309,19 +309,46 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年5月10日更新汇总</title>
-    <url>/2023/05/11/00-11-45/</url>
+    <title>2023年4月29日更新汇总</title>
+    <url>/2023/04/30/01-08-31/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/4.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/11/645bc293863de.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/11/645bc29362348.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/11/645bc29381820.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/11/645bc293d0244.png" alt="3.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/5.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/6.png)-->
+<p><img src="https://photo.reduction.one/i/2023/04/30/644d4eb045c0d.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb0a7ed8.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb1af3ff.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb535317.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb56a820.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb597061.png" alt="6.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年4月30日更新汇总</title>
+    <url>/2023/05/01/00-09-18/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/5.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/6.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/7.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/01/644e936446845.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936501052.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9365e1b60.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936689dfa.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93668a4bd.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93671f0dc.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9367852e3.png" alt="3.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -358,22 +385,19 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月30日更新汇总</title>
-    <url>/2023/05/01/00-09-18/</url>
+    <title>2023年5月10日更新汇总</title>
+    <url>/2023/05/11/00-11-45/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/7.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/01/644e936446845.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936501052.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9365e1b60.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e936689dfa.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93668a4bd.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e93671f0dc.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/01/644e9367852e3.png" alt="3.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/4.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/11/645bc293863de.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/11/645bc29362348.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/11/645bc29381820.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/11/645bc293d0244.png" alt="3.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -383,21 +407,46 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年4月29日更新汇总</title>
-    <url>/2023/04/30/01-08-31/</url>
+    <title>2023年5月12日更新汇总</title>
+    <url>/2023/05/13/00-48-31/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/6.png)-->
-<p><img src="https://photo.reduction.one/i/2023/04/30/644d4eb045c0d.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb0a7ed8.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb1af3ff.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb535317.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb56a820.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/04/30/644d4eb597061.png" alt="6.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/4.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/13/645e6de06671d.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/13/645e6de060a02.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/13/645e6de0c2a0f.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/13/645e6de0c1306.png" alt="1.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年5月13日更新汇总</title>
+    <url>/2023/05/14/00-38-23/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/5.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/6.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/7.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/8.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/9.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/14/645fbcbe5883b.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbed7023.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf00383.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf18190.png" alt="8.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf0caea.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf5496b.png" alt="9.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf5927f.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf58293.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf9b205.png" alt="6.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -436,23 +485,19 @@
       </tags>
   </entry>
   <entry>
-    <title>2023年5月3日更新汇总</title>
-    <url>/2023/05/04/01-05-20/</url>
+    <title>2023年5月14日更新汇总</title>
+    <url>/2023/05/14/23-53-53/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/8.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/04/6452945d6e01e.png" alt="8.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945d6e02e.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945dedb9f.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945e0ad44.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945e8449c.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945e98fdc.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945ec496f.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945ed0b00.png" alt="7.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/4.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/14/646103c8de0b3.png"><br><img src="https://photo.reduction.one/i/2023/05/14/646103c8ddc9e.png"><br><img src="https://photo.reduction.one/i/2023/05/14/646103c9651f6.png"><br><img src="https://photo.reduction.one/i/2023/05/14/646103c98d3e3.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -484,6 +529,32 @@
       </tags>
   </entry>
   <entry>
+    <title>2023年5月3日更新汇总</title>
+    <url>/2023/05/04/01-05-20/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/5.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/6.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/7.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/8.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/04/6452945d6e01e.png" alt="8.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945d6e02e.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945dedb9f.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945e0ad44.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945e8449c.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945e98fdc.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945ec496f.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6452945ed0b00.png" alt="7.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2023年5月4日更新汇总</title>
     <url>/2023/05/04/23-33-00/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
@@ -499,33 +570,6 @@
 ![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/5.png)
 ![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/6.png)-->
 <p><img src="https://photo.reduction.one/i/2023/05/04/6453d0183b7ca.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6453d0190ff5c.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6453d019efddc.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6453d01a43cad.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6453d01c5a5c0.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/04/6453d01c6edee.png" alt="2.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年5月5日更新汇总</title>
-    <url>/2023/05/05/23-50-13/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/8.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/9.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/05/645525c4b9d68.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c4a0f90.png" alt="9.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c557a56.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c60c1f9.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c7c58b2.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c81fc81.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525cbf003d.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525cc12919.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525cd5b741.png" alt="8.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -566,6 +610,74 @@
       </tags>
   </entry>
   <entry>
+    <title>2023年5月8日更新汇总</title>
+    <url>/2023/05/09/00-16-00/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/5.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/09/64592103dd1db.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/09/6459210563da3.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/09/64592105887c7.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/09/64592105a9942.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645921084aef8.png" alt="5.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年5月5日更新汇总</title>
+    <url>/2023/05/05/23-50-13/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/5.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/6.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/7.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/8.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/9.png)-->
+<p><img src="https://photo.reduction.one/i/2023/05/05/645525c4b9d68.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c4a0f90.png" alt="9.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c557a56.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c60c1f9.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c7c58b2.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525c81fc81.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525cbf003d.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525cc12919.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/05/645525cd5b741.png" alt="8.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年5月9日更新汇总</title>
+    <url>/2023/05/09/23-48-31/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://photo.reduction.one/i/2023/05/09/645a6b396cdd9.png" alt="8.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3a86f41.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3aad0cc.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3c4b5fd.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3e5dcf3.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3f03482.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3fc9f16.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3f1b0ee.png" alt="1.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>利用Cloudflare Workers路由为AlistV3实现反代加速OneDrive下载</title>
     <url>/2023/01/10/15-32-14/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>总所周知OneDrive在国内的直连下载速度有待提高。就我而言，由于我个人是做一站式ROM资源站的，由AlistV3搭建起来资源站并挂载OneDrive网盘（因为国内网盘内存小，大内存需要收费），对下载速度也有一定要求，毕竟一个ROM从1G到4G不等，前几天在Cloudflare和AlistV2文档里找到了可以通过Cloudflare Workers路由实现中转的教程，但是存在一些问题，所以写下这篇，供大家参考。</p>
@@ -588,47 +700,6 @@
         <tag>教程</tag>
         <tag>Cloudflare</tag>
         <tag>Alist</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年5月9日更新汇总</title>
-    <url>/2023/05/09/23-48-31/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://photo.reduction.one/i/2023/05/09/645a6b396cdd9.png" alt="8.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3a86f41.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3aad0cc.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3c4b5fd.png" alt="6.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3e5dcf3.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3f03482.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3fc9f16.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645a6b3f1b0ee.png" alt="1.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年5月8日更新汇总</title>
-    <url>/2023/05/09/00-16-00/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/5.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/09/64592103dd1db.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/09/6459210563da3.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/09/64592105887c7.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/09/64592105a9942.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/09/645921084aef8.png" alt="5.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
       </tags>
   </entry>
   <entry>
@@ -778,6 +849,19 @@
       </tags>
   </entry>
   <entry>
+    <title>一些摘抄</title>
+    <url>/2023/03/20/07-42-46/</url>
+    <content><![CDATA[<p>放松点，不必取悦所有人。不用妥协退让寻求别人的喜欢，你本来就独一无二，你本就弥足珍贵。<br>——画师：阿竹uzoo   </p>
+]]></content>
+      <categories>
+        <category>感</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>摘抄</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【转载】DSU及安装方案</title>
     <url>/2023/02/03/12-47-21/</url>
     <content><![CDATA[<h1 id="关于DSU"><a href="#关于DSU" class="headerlink" title="关于DSU"></a>关于DSU</h1><p>谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并<strong>不损伤你当前的现有系统</strong>，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！</p>
@@ -810,19 +894,6 @@
         <tag>教程</tag>
         <tag>玩机</tag>
         <tag>DSU</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一些摘抄</title>
-    <url>/2023/03/20/07-42-46/</url>
-    <content><![CDATA[<p>放松点，不必取悦所有人。不用妥协退让寻求别人的喜欢，你本来就独一无二，你本就弥足珍贵。<br>——画师：阿竹uzoo   </p>
-]]></content>
-      <categories>
-        <category>感</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-        <tag>摘抄</tag>
       </tags>
   </entry>
   <entry>
@@ -1814,77 +1885,6 @@
         <tag>教程</tag>
         <tag>玩机</tag>
         <tag>小米</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年5月12日更新汇总</title>
-    <url>/2023/05/13/00-48-31/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/4.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/13/645e6de06671d.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/13/645e6de060a02.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/13/645e6de0c2a0f.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/13/645e6de0c1306.png" alt="1.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年5月13日更新汇总</title>
-    <url>/2023/05/14/00-38-23/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/8.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230513/9.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/14/645fbcbe5883b.png" alt="3.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbed7023.png" alt="7.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf00383.png" alt="5.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf18190.png" alt="8.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf0caea.png" alt="4.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf5496b.png" alt="9.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf5927f.png" alt="1.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf58293.png" alt="2.png"><br><img src="https://photo.reduction.one/i/2023/05/14/645fbcbf9b205.png" alt="6.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年5月14日更新汇总</title>
-    <url>/2023/05/14/23-53-53/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/4.png)-->
-<p><img src="https://photo.reduction.one/i/2023/05/14/646103c8de0b3.png"><br><img src="https://photo.reduction.one/i/2023/05/14/646103c8ddc9e.png"><br><img src="https://photo.reduction.one/i/2023/05/14/646103c9651f6.png"><br><img src="https://photo.reduction.one/i/2023/05/14/646103c98d3e3.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
       </tags>
   </entry>
 </search>
