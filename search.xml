@@ -1,137 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2023年4月13日更新汇总</title>
-    <url>/2023/04/14/20-28-35/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>qassa-v2.1-sagit-20230411-1318-Vanilla</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439511beb044.png" alt="屏幕截图 2023-04-14 210316.png"></p>
-<p><img src="http://photo.winboard.top/pro/2023/04/14/6439511c31699.png" alt="屏幕截图 2023-04-14 210334.png"><br><code>SuperiorOS-Thirteen-venus-20230413-0049</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439511e621f0.png" alt="屏幕截图 2023-04-14 210508.png"><br><code>DerpFest-13-Community-Tango-venus-20230408-1302</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439511e7179f.png" alt="屏幕截图 2023-04-14 210457.png"><br><code>tequila-tortilla-20230412-0207-OFFICIAL-alioth</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439511f3ec03.png" alt="屏幕截图 2023-04-14 210448.png"><br><code>project-zephyrus-CLO_alioth-13.2-20230410-0743</code><br><img src="http://photo.winboard.top/pro/2023/04/14/643951211a228.png" alt="屏幕截图 2023-04-14 210427.png"><br><code>DerpFest-13-CARROT-Tango-alioth-20230409-1630</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439512129cbe.png" alt="屏幕截图 2023-04-14 210414.png"><br><code>MikuUI-TDA-wayne-23040609-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032705-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23032711-GAPPS-OFFICIAL</code><br><code>MikuUI-TDA-wayne-23040614-GAPPS-OFFICIAL</code><br><img src="http://photo.winboard.top/pro/2023/04/14/643951226bfec.png" alt="屏幕截图 2023-04-14 210520.png"><br><code>Cherish-OS-v4.7-20230413-0453-alioth-OFFICIAL-GApps</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439512281f25.png" alt="屏幕截图 2023-04-14 210402.png"><br><code>evolution_haydn-ota-tq2a.230405.003.e1-04121941-unsigned</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439512318c74.png" alt="屏幕截图 2023-04-14 210530.png"><br><code>PixysOS-v6.2.1-GAPPS-raphael-UNOFFICIAL-20230411-102009</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439512405268.png" alt="屏幕截图 2023-04-14 210544.png"><br><code>tequila-tortilla-20230411-0902-OFFICIAL-umi</code><br><img src="http://photo.winboard.top/pro/2023/04/14/64395124aa767.png" alt="屏幕截图 2023-04-14 210616.png"><br><code>PixelExtended-5.6_alioth-13.0-20230410-2024-UNOFFICIAL</code><br><img src="http://photo.winboard.top/pro/2023/04/14/64395124d6b4f.png" alt="屏幕截图 2023-04-14 210436.png"><br><code>ALIOTH-IN_MYUI_5.0_MOTOX40_T1TR33.4-30-36_20230410.zip</code><br><img src="http://photo.winboard.top/pro/2023/04/14/64395124e5e99.png" alt="屏幕截图 2023-04-14 210712.png"><br><code>GT_ROM_3.0_V14.0.23.3.20.DEV_13_alioth</code><br><img src="http://photo.winboard.top/pro/2023/04/14/64395126864bd.png" alt="屏幕截图 2023-04-14 210753.png"><br><code>RealKing</code><br><img src="http://photo.winboard.top/pro/2023/04/14/64395126812f9.png" alt="屏幕截图 2023-04-14 210740.png"><br><code>OGK-014</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439512723841.png" alt="屏幕截图 2023-04-14 210808.png"><br><code>SuperiorOS-Thirteen-raphael-20230413-0409</code><br><img src="http://photo.winboard.top/pro/2023/04/14/643951286a252.png" alt="屏幕截图 2023-04-14 210902.png"><br><code>MiuiSR_Wiston_Haydn_Nfc_Stable_05.04.23</code><br><img src="http://photo.winboard.top/pro/2023/04/14/6439512996c4f.png" alt="屏幕截图 2023-04-14 210928.png"><br><code>MiModUi_14.22_MIUIVN_ALIOTH_V14_0_5_0_TKHCNXM_A13_Mi10TPro_23.4.11</code><br><code>MiModUi_14.23_MIUIVN_ALIOTH_V14.0.6.0.TKHCNXM_A13_Mi10TPro_23.4.13</code><br><img src="http://photo.winboard.top/pro/2023/04/14/643951299af8d.png" alt="屏幕截图 2023-04-14 210915.png"><br>(以上两个都是作者上传的，图片中未第二个，第一个是老版本的)</p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月14日更新汇总</title>
-    <url>/2023/04/15/00-52-35/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="AwankenOS-v3-6源码更新"><a href="#AwankenOS-v3-6源码更新" class="headerlink" title="AwankenOS v3.6源码更新"></a>AwankenOS v3.6源码更新</h1><h3 id="New-features"><a href="#New-features" class="headerlink" title="New features:"></a>New features:</h3><p>• Do not skip fingerprint authentication for UDFPS<br>• Enabled media player wave&#x2F;shimmering effects<br>• Introduced new wallpaper for triton-void release<br>• Introduced UDFPS animation from NothingOS<br>• Merged hidden app with applock     </p>
-<h3 id="Fixed-issues"><a href="#Fixed-issues" class="headerlink" title="Fixed issues:"></a>Fixed issues:</h3><p>• Fixed Pixel launcher issues for tablet mode<br>• Misc fixes and improvements    </p>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MikuUI-TDA-odin-23041317-COMMUNITY</code><br><img src="http://photo.winboard.top/pro/2023/04/15/643985ca54eb6.png" alt="屏幕截图 2023-04-15 004838.png"><br><code>PixelOS_alioth-13.0-20230414-0407</code><br><img src="http://photo.winboard.top/pro/2023/04/15/643985cad9b9b.png" alt="屏幕截图 2023-04-15 004822.png"><br><code>SuperiorOS-Thirteen-alioth-20230414-0310</code><br><img src="http://photo.winboard.top/pro/2023/04/15/643985cb0ecbb.png" alt="屏幕截图 2023-04-15 004852.png"><br><code>dEaD sHot edition14.0.2 id stable</code><br><img src="http://photo.winboard.top/pro/2023/04/15/643985cb2df79.png" alt="屏幕截图 2023-04-15 004906.png"><br><code>DerpFest-13-Community-Tango-haydn-20230413-2029</code><br><img src="http://photo.winboard.top/pro/2023/04/15/643985cb8e219.png" alt="屏幕截图 2023-04-15 005134.png"><br><code>alioth_beta-upb1.230309.014-Pixel5-v1</code><br><img src="http://photo.winboard.top/pro/2023/04/15/643985cba05d2.png" alt="屏幕截图 2023-04-15 005205.png">    </p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月16日更新汇总</title>
-    <url>/2023/04/17/12-41-18/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>OP9Pro_LE2123_11.F.75_NFC_FIX</code>(适用于Healer99移植的OxygenOS)<br><img src="http://photo.winboard.top/pro/2023/04/17/643ccf6870cfb.png" alt="3.png"><br><code>Spark-13.5.5-UNOFFICIAL-haydn-20230324</code><br><img src="http://photo.winboard.top/pro/2023/04/17/643ccf68b983a.png" alt="4.png"><br><code>SuperiorOS-Thirteen-alioth-RELEASE-20230416-1549</code><br><img src="http://photo.winboard.top/pro/2023/04/17/643ccf68bf45d.png" alt="2.png"><br><code>riceDroid-13.0-202303291809-haydn-v10.2-PIXEL-COMMUNITY</code><br><img src="http://photo.winboard.top/pro/2023/04/17/643ccf68ebb61.png" alt="5.png"><br><code>OctaviOS-v4.3-haydn-20230416-1256-GAPPS-Unofficial</code><br><img src="http://photo.winboard.top/pro/2023/04/17/643ccf69370bb.png" alt="6.png"><br><code>BananaDroid-Tanduk-alioth-OFFICIAL-20230416-GApps</code><br><img src="http://photo.winboard.top/pro/2023/04/17/643ccf697d86b.png" alt="1.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月18日更新汇总</title>
-    <url>/2023/04/18/08-14-23/</url>
+    <title>2023年4月19日更新汇总</title>
+    <url>/2023/04/20/01-21-40/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://photo.winboard.top/i/2023/04/19/643ed05a46bc4.png" alt="1.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05a46bc3.png" alt="10.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05a9069f.png" alt="9.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05acabd9.png" alt="8.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05c2baf2.png" alt="11.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05d485f4.png" alt="5.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05d7a549.png" alt="2.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05daed46.png" alt="7.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05e33654.png" alt="3.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05f0b1f5.png" alt="4.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05fbef00.png" alt="13.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed05fd0d03.png" alt="12.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed06079b40.png" alt="6.png"></p>
-<p><img src="https://photo.winboard.top/i/2023/04/19/643ed43d0fae8.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月15日更新汇总</title>
-    <url>/2023/04/16/00-49-46/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><code>MiuiSR_Wiston_Alioth_Stable_Hotfix_02.04.23</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae74da6e65.png" alt="2.png"><br><code>AGNi_kernel-haydn-stable-v2.9-MIUI-ST</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae751e6972.png" alt="3.png"><br><code>OFFICIAL_MIUI Ori 14.0.3 EU V3 D10M4</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae7524506b.png" alt="1.png"><br><code>ALIOTH-IN_OP9Pro_LE2123_11.F.75_20230415</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae754dbd70.png" alt="4.png"><br><code>GhostDroid-13.4-20230415-alioth-v13.0</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae757f260d.png" alt="8.png"><br>&#96;&#96;<br><img src="http://photo.winboard.top/pro/2023/04/16/643ae75917888.png" alt="5.png"><br><code>Meme Hub 13.0.6 final</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae759771dd.png" alt="7.png"><br><code>BootleggersROM-Tirimbino4munch.7.1-Stable-Unshishufied-GApps-20230414-130245</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae75cb58a4.png" alt="9.png"><br><code>Cherish-OS-v4.7-20230414-1219-munch-OFFICIAL-GApps</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae75d97cec.png" alt="10.png"><br><code>DerpFest-13-Community-Tango-munch-20230414-1444</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae75f35688.png" alt="11.png"><br><code>PixelOS_alioth-13.0-20230415-0710</code><br><img src="http://photo.winboard.top/pro/2023/04/16/643ae75fe486b.png" alt="6.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月17日更新汇总</title>
-    <url>/2023/04/18/00-50-10/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以使用网站上的搜所功能通过复制图片上方的文件名字快速找到图片对应的文件或者点击上面的链接直接访问目录！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
-</ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><a href="https://pan.winboard.top/OneDrive1/Rom/rapheal/Unofficial/LineageOS/A13/penglezos/lineage-20.0-20230417-UNOFFICIAL-raphael">DL</a><br><img src="http://photo.winboard.top/pro/2023/04/18/643d7aec8af25.png" alt="1.png"><br><a href="https://pan.winboard.top/OneDrive1/Rom/haydn/Unofficial/ArrowOS/A13.1/William_sadoyui/Arrow-v13.1-haydn-UNOFFICIAL-20230417-GAPPS">DL</a><br><img src="http://photo.winboard.top/pro/2023/04/18/643d7af61dea4.png" alt="2.png"></p>
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年4月19日更新汇总</title>
-    <url>/2023/04/20/01-21-40/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM&amp;内核</p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
-<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230419/4.png"></p>
 ]]></content>
@@ -147,9 +23,9 @@
     <url>/2023/04/20/23-41-22/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230420/6.png"></p>
 ]]></content>
@@ -163,11 +39,11 @@
   <entry>
     <title>2023年4月22日更新汇总</title>
     <url>/2023/04/23/09-27-23/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.png"><br><strong>下图是上图ROM匹配的内核</strong><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/2.1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230422/6.png"></p>
 ]]></content>
@@ -183,9 +59,9 @@
     <url>/2023/04/22/01-52-31/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230421/4.png"></p>
 ]]></content>
@@ -199,11 +75,11 @@
   <entry>
     <title>2023年4月23日更新汇总</title>
     <url>/2023/04/24/22-18-25/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230423/8.png"></p>
 ]]></content>
@@ -217,11 +93,11 @@
   <entry>
     <title>2023年4月24日更新汇总</title>
     <url>/2023/04/24/22-18-47/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230424/7.png"></p>
 ]]></content>
@@ -237,9 +113,9 @@
     <url>/2023/04/26/00-21-16/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/9.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/10.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230425/11.png"></p>
 ]]></content>
@@ -255,9 +131,9 @@
     <url>/2023/04/28/01-09-17/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/9.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230427/10.png"></p>
 ]]></content>
@@ -277,12 +153,8 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://photo.winboard.top/i/2023/04/30/644d4b7a1e234.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4b7ae0db0.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4b7abb39d.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4b7b27541.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4b7b78c66.png" alt="1.png"></p>
-<!--![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/1.png)
-![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/2.png)
-![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/3.png)
-![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/4.png)
-![](https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/5.png)-->]]></content>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/1.png"><br><img src="https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/2.png"><br><img src="https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/3.png"><br><img src="https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/4.png"><br><img src="https://cdn.jsdelivr.net/gh/Reduction77/SellPhoto//photo/20230428/5.png"></p>
+]]></content>
       <categories>
         <category>搬运</category>
       </categories>
@@ -299,13 +171,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/6.png)-->
-<p><img src="https://photo.winboard.top/i/2023/04/30/644d4eb045c0d.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4eb0a7ed8.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4eb1af3ff.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4eb535317.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4eb56a820.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/04/30/644d4eb597061.png" alt="6.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230429/6.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -323,14 +189,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/7.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/01/644e936446845.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/01/644e936501052.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/01/644e9365e1b60.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/01/644e936689dfa.png" alt="7.png"><br><img src="https://photo.winboard.top/i/2023/05/01/644e93668a4bd.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/01/644e93671f0dc.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/01/644e9367852e3.png" alt="3.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/202304230/7.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -348,11 +207,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/4.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/11/645bc293863de.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645bc29362348.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645bc29381820.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645bc293d0244.png" alt="3.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230510/4.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -370,16 +225,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/8.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/9.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/11/645d0e7848065.png" alt="8.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e78b082d.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e79579df.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e79dbe9a.png" alt="9.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e79a0c87.png" alt="7.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e79ccb3f.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e7a466cd.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e7a53455.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/11/645d0e7a77801.png" alt="4.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230511/9.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -397,11 +243,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/4.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/13/645e6de06671d.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/13/645e6de060a02.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/13/645e6de0c2a0f.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/13/645e6de0c1306.png" alt="1.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230512/4.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -419,11 +261,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/4.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/14/646103c8de0b3.png"><br><img src="https://photo.winboard.top/i/2023/05/14/646103c8ddc9e.png"><br><img src="https://photo.winboard.top/i/2023/05/14/646103c9651f6.png"><br><img src="https://photo.winboard.top/i/2023/05/14/646103c98d3e3.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230514/4.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -441,15 +279,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/8.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/15/64625044a1626.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/15/6462504ac3c91.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/15/6462504cd16a2.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/15/6462504ea1002.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/15/6462505024296.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/15/646250508fdad.png" alt="8.png"><br><img src="https://photo.winboard.top/i/2023/05/15/646250516d8c3.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/15/6462505230de8.png" alt="7.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230515/8.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -463,9 +293,9 @@
     <url>/2023/04/26/23-48-28/</url>
     <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
-<li>所有文件请进入<a href="https://pan.reduction.one/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
-<li>反馈和建议可以通过填写<a href="https://reduction.one/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
 <h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230426/5.png"></p>
 ]]></content>
@@ -479,7 +309,7 @@
   <entry>
     <title>2023年5月13日更新汇总</title>
     <url>/2023/05/14/00-38-23/</url>
-    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM和内核</p>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
 <h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
 <li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
@@ -503,18 +333,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!---![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/4.jpg)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/5.jpg)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/6.jpg)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/8.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/9.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/10.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/11.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/02/644ff3df9c328.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3df60f95.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3de5a6a8.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3deb73a2.jpg" alt="4.jpg"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3deb24e4.jpg" alt="5.jpg"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3de927e1.jpg" alt="6.jpg"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3de85f67.png" alt="7.png"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3df3dba9.png" alt="8.png"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3dfbdf78.png" alt="9.png"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3dfc923f.png" alt="10.png"><br><img src="https://photo.winboard.top/i/2023/05/02/644ff3df80ab7.png" alt="11.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/4.jpg"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/5.jpg"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/6.jpg"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/9.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/10.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230501/11.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -532,11 +351,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/4.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/03/645140fcb0df9.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/03/645140fcc009a.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/03/645140fe20254.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/03/645140fe45af8.png" alt="3.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230502/4.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -554,13 +369,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/6.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/04/6453d0183b7ca.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6453d0190ff5c.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6453d019efddc.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6453d01a43cad.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6453d01c5a5c0.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6453d01c6edee.png" alt="2.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230504/6.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -578,16 +387,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/8.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/9.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/05/645525c4b9d68.png" alt="7.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525c4a0f90.png" alt="9.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525c557a56.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525c60c1f9.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525c7c58b2.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525c81fc81.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525cbf003d.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525cc12919.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/05/645525cd5b741.png" alt="8.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230505/9.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -605,15 +405,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/8.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/04/6452945d6e01e.png" alt="8.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6452945d6e02e.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6452945dedb9f.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6452945e0ad44.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6452945e8449c.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6452945e98fdc.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6452945ec496f.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/04/6452945ed0b00.png" alt="7.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230503/8.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -631,20 +423,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/8.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/9.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/10.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/11.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/12.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/13.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/07/6456829cc002d.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829d27a7b.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829dc8ad7.png" alt="9.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829dba943.png" alt="8.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829e192c2.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829e54c25.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829ec0284.png" alt="11.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829e9f22f.png" alt="12.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829ed27ac.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829ec20c7.png" alt="10.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829f3cec0.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829f3e1a5.png" alt="13.png"><br><img src="https://photo.winboard.top/i/2023/05/07/6456829f448d4.png" alt="7.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/9.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/10.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/11.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/12.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230506/13.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -662,12 +441,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/5.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/09/64592103dd1db.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/09/6459210563da3.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/09/64592105887c7.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/09/64592105a9942.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/09/645921084aef8.png" alt="5.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230508/5.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -778,41 +552,6 @@
         <tag>教程</tag>
         <tag>Cloudflare</tag>
         <tag>Alist</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【转载】DSU及安装方案</title>
-    <url>/2023/02/03/12-47-21/</url>
-    <content><![CDATA[<h1 id="关于DSU"><a href="#关于DSU" class="headerlink" title="关于DSU"></a>关于DSU</h1><p>谷歌为安卓10添加了DSU功能，通过这个功能可以在手机上运行一个独立于当前系统的安卓ROM并<strong>不损伤你当前的现有系统</strong>，可以用作各种用途，包括但不限于进行调试，物理分身隔离等等。本文仅教会你刷入类原生的GSI，如果您想刷入第三方移植系统的DSU文件，请自行学习，在没有充足的准备之前请不要随意进行操作！</p>
-<h1 id="条件"><a href="#条件" class="headerlink" title="条件"></a>条件</h1><p>首先你的手机需要Root且运行安卓11以上的系统（安卓10上的DSU功能有限，而且如果您使用的是国内定制系统，功能几乎被阉割殆尽），下载Treble Infor和DSU Sideloader，下载类原生ROM的GSI镜像，<strong>不要下载AOSP的增量包，因为不便于刷入；也不要下载Nippon GSI，这是从其他手机提取的ROM制作而成的GSI镜像文件，会损伤您的设备（水龙的MIUI14 安卓13使用的就是Nippon GSI适配的）</strong></p>
-<h1 id="查看VNDK版本"><a href="#查看VNDK版本" class="headerlink" title="查看VNDK版本"></a>查看VNDK版本</h1><p>打开Treble信息查看<br><img src="/2023/02/03/12-47-21/2.jpg"><br>您只能选择高于VNDK版本的GSI包，比如该设备显示的VNDK版本为31，所以只能选择安卓12及以上的GSI刷入，需要注意的是，<strong>VNDK与安卓版本不一定是对应的，有些ROM在升级安卓底层的时候并不会升级VNDK版本，所以通过安卓版本判断VNDK版本是不可靠的！</strong></p>
-<h1 id="下载GSI"><a href="#下载GSI" class="headerlink" title="下载GSI"></a>下载GSI</h1><p>打开Treble信息查看上面显示的映像类型<br><img src="/2023/02/03/12-47-21/1.jpg"><br>进入<a href="https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list">该地址</a>挑选下载GSI。<br>GSI包一般有几种命名规格：如果下载页面有“silm”这种命名，那么普通版就是有GAPPS的版本；如果下载页面有“GAPPS”这种命名，那普通版就属于没有GAPPS的版本；另外还有一种bvN和bgN的版本号，v指vanila就是普通版，g指GAPPS就是带套件的版本。</p>
-<h1 id="刷入"><a href="#刷入" class="headerlink" title="刷入"></a>刷入</h1><ol>
-<li>打开DSU Sideloader并授予Root权限<br><img src="/2023/02/03/12-47-21/4.jpg"></li>
-<li>选择你下载的GSI镜像文件<br>（可以设置DSU用户空间大小，也就是DSU系统里的可用空间）   </li>
-<li>然后进入右上角“设置”，打开“使用内部安装器”，然后回到主页点击安装<br><img src="/2023/02/03/12-47-21/3.jpg"> </li>
-<li>安装结束后，如图，可以直接点击“重启”进入DSU系统</li>
-</ol>
-<h1 id="在DSU中使用Magisk"><a href="#在DSU中使用Magisk" class="headerlink" title="在DSU中使用Magisk"></a>在DSU中使用Magisk</h1><p>如果你需要在DSU里使用Magisk，直接安装Magisk App并按指示修复su即可正常使用</p>
-<h1 id="进阶玩法"><a href="#进阶玩法" class="headerlink" title="进阶玩法"></a>进阶玩法</h1><p>可以使用指令开启<strong>粘性模式</strong>，使手机重启后仍然回到DSU系统，你只需要在CMD中键入以下命令开启或关闭该模式：<br><strong>开启</strong>   </p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool enable</span><br></pre></td></tr></table></figure>
-<p><strong>关闭</strong>    </p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">adb shell gsi_tool disable</span><br></pre></td></tr></table></figure>
-
-<h1 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h1><ol>
-<li>用过DSU之后回原来系统发现刷的Magisk模块咋全都被禁用了？使用DSU会被救砖模块判定为启动失败从而自动禁用所有xp模块，所以要么就手动切换模块开关，要么就禁用救砖模块   </li>
-<li>刷完镜像之后重启直接回原来系统或者不停转圈？多半是所用的GSI和vendor底包兼容性不好导致的，这多出现于使用手机原厂ROM的情况（笔者的EvoX GSI和本机ArrowOS使用的甚至是同一个设备树进行编译，所以底包兼容性极佳），可以考虑换一个不同的包进行测试，多测试几次应该就能找到能用的GSI包了</li>
-</ol>
-]]></content>
-      <categories>
-        <category>数码</category>
-        <category>教程</category>
-        <category>转载</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>玩机</tag>
-        <tag>DSU</tag>
       </tags>
   </entry>
   <entry>
@@ -1913,9 +1652,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230516/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230516/2.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/16/6463a34631a66.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/16/6463a34c3d92c.png" alt="2.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230516/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230516/2.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -1933,18 +1670,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/5.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/6.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/7.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/8.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/9.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/10.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/11.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/18/6464fa7c18f98.png" alt="6.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7ca8a2e.png" alt="11.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7d0600a.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7d0c8cb.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7d5c163.png" alt="8.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7d6e38b.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7d74cf7.png" alt="10.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7dac35c.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7dc4a66.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7dd7605.png" alt="7.png"><br><img src="https://photo.winboard.top/i/2023/05/18/6464fa7df2dce.png" alt="9.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/5.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/6.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/7.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/8.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/9.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/10.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230517/11.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -1962,12 +1688,7 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/5.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/19/64673b34d349c.png" alt="1.png"><br><img src="https://photo.winboard.top/i/2023/05/19/64673b34dd52b.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/19/64673b34eecc6.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/19/64673b3564507.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/19/64673b3570e80.png" alt="5.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230518/5.png"></p>
 ]]></content>
       <categories>
         <category>搬运</category>
@@ -1985,12 +1706,30 @@
 <li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
 <li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
 </ol>
-<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/1.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/2.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/3.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/4.png)
-![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/5.png)-->
-<p><img src="https://photo.winboard.top/i/2023/05/20/6467a6bf21623.png" alt="5.png"><br><img src="https://photo.winboard.top/i/2023/05/20/6467a6bfd62b0.png" alt="3.png"><br><img src="https://photo.winboard.top/i/2023/05/20/6467a6c138733.png" alt="2.png"><br><img src="https://photo.winboard.top/i/2023/05/20/6467a6c18c968.png" alt="4.png"><br><img src="https://photo.winboard.top/i/2023/05/20/6467a6c1f1804.png" alt="1.png"></p>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><p><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/1.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/2.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/3.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/4.png"><br><img src="https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230519/5.png"></p>
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年5月20日更新汇总</title>
+    <url>/2023/05/21/16-33-30/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>来源：TG<br>内容：ROM</p>
+<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><ol>
+<li>所有文件请进入<a href="https://pan.winboard.top/">网盘</a>查找，您可以图片上所示通过ROM的相关属性来查找（eg.先选择相对应的设备文件夹，再判断Official&#x2F;Unofficial，再找到对应的ROM厂家名称，随后选择安卓版本，在这之后可能会有一些文件夹，下载和所给日期相近的文件夹里面的ROM）来找到图片对应的文件！</li>
+<li>刷包教程可以通过B站、酷安查找教程或者看本站的教程。</li>
+<li>反馈和建议可以通过填写<a href="https://winboard.top/feedback">表单</a>提供，欢迎您的反馈和建议！我会在考虑后采纳！</li>
+</ol>
+<h1 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h1><!--![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230520/1.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230520/2.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230520/3.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230520/4.png)
+![](https://raw.githubusercontent.com/Reduction77/SellPhoto/main/photo/20230520/5.png)-->
+<p><a href="https://photo.winboard.top/i/2023/05/21/6469d74501b4d.png"><img src="https://photo.winboard.top/i/2023/05/21/6469d74501b4d.png" alt="2.png"></a><br><a href="https://photo.winboard.top/i/2023/05/21/6469d74544269.png"><img src="https://photo.winboard.top/i/2023/05/21/6469d74544269.png" alt="4.png"></a><br><a href="https://photo.winboard.top/i/2023/05/21/6469d7455845e.png"><img src="https://photo.winboard.top/i/2023/05/21/6469d7455845e.png" alt="5.png"></a><br><a href="https://photo.winboard.top/i/2023/05/21/6469d745917c3.png"><img src="https://photo.winboard.top/i/2023/05/21/6469d745917c3.png" alt="3.png"></a><br><a href="https://photo.winboard.top/i/2023/05/21/6469d7459371d.png"><img src="https://photo.winboard.top/i/2023/05/21/6469d7459371d.png" alt="1.png"></a></p>
 ]]></content>
       <categories>
         <category>搬运</category>
